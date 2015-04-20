@@ -1,0 +1,94 @@
+1	Having	_	VBG	VBG	_	2	aux	_	_
+2	traveled	_	VBN	VBN	_	8	dep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	world	_	NN	NN	_	2	dobj	_	_
+5	I	_	PRP	PRP	_	8	nsubj	_	_
+6	have	_	VBP	VBP	_	8	aux	_	_
+7	never	_	RB	RB	_	8	neg	_	_
+8	stayed	_	VBN	VBN	_	0	root	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	finer	_	NN	NN	_	13	nn	_	_
+12	concierge	_	NN	NN	_	13	nn	_	_
+13	level	_	NN	NN	_	9	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	concierge	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	superb	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	friendly	_	JJ	JJ	_	4	conj	_	_
+7	to	_	TO	TO	_	4	prep	_	_
+8	all	_	PDT	PDT	_	10	predet	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	guests	_	NNS	NNS	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	breakfast	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	hot	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	delicious	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	especially	_	RB	RB	_	3	advmod	_	_
+3	enjoyed	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	8	det	_	_
+5	grits	_	JJ	JJ	_	8	amod	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	smoked	_	JJ	JJ	_	5	conj	_	_
+8	salmon	_	NN	NN	_	3	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Afternoon	_	NN	NN	_	2	nn	_	_
+2	tea	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	perfect	_	JJ	JJ	_	0	root	_	_
+5	before	_	IN	IN	_	4	prep	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	nap	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	3	expl	_	_
+2	never	_	RB	RB	_	3	neg	_	_
+3	was	_	VBD	VBD	_	0	root	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	empty	_	JJ	JJ	_	6	amod	_	_
+6	glass	_	NN	NN	_	3	nsubj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	concierge	_	JJ	JJ	_	10	amod	_	_
+10	parlor	_	NN	NN	_	7	pobj	_	_
+11	during	_	IN	IN	_	3	prep	_	_
+12	the	_	DT	DT	_	14	det	_	_
+13	evening	_	NN	NN	_	14	nn	_	_
+14	reception	_	NN	NN	_	11	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	spirits	_	NNS	NNS	_	3	nsubj	_	_
+3	flowed	_	VBD	VBD	_	0	root	_	_
+4	freely	_	RB	RB	_	3	advmod	_	_
+5	and	_	CC	CC	_	3	cc	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	appetizers	_	NNS	NNS	_	9	nsubj	_	_
+8	were	_	VBD	VBD	_	9	cop	_	_
+9	plentiful	_	JJ	JJ	_	3	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Splurge	_	VB	VB	_	0	root	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	your	_	PRP$	PRP$	_	5	poss	_	_
+4	next	_	JJ	JJ	_	5	amod	_	_
+5	stay	_	NN	NN	_	2	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	book	_	NN	NN	_	5	conj	_	_
+8	on	_	IN	IN	_	1	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	concierge	_	JJ	JJ	_	11	amod	_	_
+11	level	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+

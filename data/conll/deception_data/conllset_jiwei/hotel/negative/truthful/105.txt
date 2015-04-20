@@ -1,0 +1,82 @@
+1	In	_	IN	IN	_	9	prep	_	_
+2	my	_	PRP$	PRP$	_	3	poss	_	_
+3	experience	_	NN	NN	_	1	pobj	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Ambassador	_	NNP	NNP	_	6	nn	_	_
+6	hotel	_	NN	NN	_	9	nsubj	_	_
+7	did	_	VBD	VBD	_	9	aux	_	_
+8	n't	_	RB	RB	_	9	neg	_	_
+9	seem	_	VB	VB	_	0	root	_	_
+10	to	_	TO	TO	_	15	aux	_	_
+11	be	_	VB	VB	_	15	cop	_	_
+12	a	_	DT	DT	_	15	det	_	_
+13	3 1/2	_	CD	CD	_	15	num	_	_
+14	star	_	NN	NN	_	15	nn	_	_
+15	establishment	_	NN	NN	_	9	xcomp	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	building	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	lobby	_	NN	NN	_	2	conj	_	_
+5	were	_	VBD	VBD	_	6	cop	_	_
+6	nice	_	JJ	JJ	_	0	root	_	_
+7	but	_	CC	CC	_	6	cc	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	hotel	_	NN	NN	_	10	nn	_	_
+10	room	_	NN	NN	_	13	nsubj	_	_
+11	was	_	VBD	VBD	_	13	cop	_	_
+12	extremely	_	RB	RB	_	13	advmod	_	_
+13	dated	_	JJ	JJ	_	6	conj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	carpeting	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	old	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	worn	_	JJ	JJ	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	floor	_	NN	NN	_	0	root	_	_
+3	-	_	:	:	_	0	erased	_	_
+4	carpeting	_	NN	NN	_	2	dep	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	tile	_	NN	NN	_	4	conj	_	_
+7	both	_	DT	DT	_	8	nsubj	_	_
+8	seemed	_	VBD	VBD	_	4	rcmod	_	_
+9	dirty	_	JJ	JJ	_	8	acomp	_	_
+10	which	_	WDT	WDT	_	11	nsubj	_	_
+11	made	_	VBD	VBD	_	8	ccomp	_	_
+12	me	_	PRP	PRP	_	14	nsubj	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	uncomfortable	_	JJ	JJ	_	11	xcomp	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	imagine	_	VB	VB	_	0	root	_	_
+4	that	_	IN	IN	_	13	mark	_	_
+5	many	_	JJ	JJ	_	6	amod	_	_
+6	years	_	NNS	NNS	_	13	nsubj	_	_
+7	ago	_	IN	IN	_	13	advmod	_	_
+8	this	_	DT	DT	_	7	dep	_	_
+9	was	_	VBD	VBD	_	13	cop	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	nice	_	JJ	JJ	_	13	amod	_	_
+13	hotel	_	NN	NN	_	3	ccomp	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Currently	_	RB	RB	_	6	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	indespirate	_	JJ	JJ	_	6	amod	_	_
+6	need	_	NN	NN	_	0	root	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	renovation	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

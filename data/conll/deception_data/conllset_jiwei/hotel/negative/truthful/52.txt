@@ -1,0 +1,43 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	enjoyed	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	Hotel	_	NNP	NNP	_	5	nn	_	_
+5	Monaco	_	NNP	NNP	_	2	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	walking	_	NN	NN	_	7	nn	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	beautiful	_	JJ	JJ	_	4	conj	_	_
+7	rooms	_	NNS	NNS	_	3	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	friendly	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	we	_	PRP	PRP	_	9	nsubj	_	_
+8	especially	_	RB	RB	_	9	advmod	_	_
+9	enjoyed	_	VBN	VBN	_	5	conj	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	wine	_	NN	NN	_	12	nn	_	_
+12	reception	_	NN	NN	_	9	dobj	_	_
+13	and	_	CC	CC	_	9	cc	_	_
+14	getting	_	VBG	VBG	_	9	conj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	meet	_	VB	VB	_	14	xcomp	_	_
+17	other	_	JJ	JJ	_	18	amod	_	_
+18	guests	_	NNS	NNS	_	16	dobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	3	nsubj	_	_
+2	definitely	_	RB	RB	_	3	advmod	_	_
+3	stay	_	VBP	VBP	_	0	root	_	_
+4	there	_	RB	RB	_	3	advmod	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+

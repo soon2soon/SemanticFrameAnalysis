@@ -1,0 +1,64 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	Omni	_	NNP	NNP	_	3	pobj	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	Band	_	NNP	NNP	_	6	pobj	_	_
+9	that	_	IN	IN	_	10	mark	_	_
+10	what	_	WP	WP	_	5	dep	_	_
+11	in	_	IN	IN	_	2	prep	_	_
+12	town	_	NN	NN	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	room	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Just	_	RB	RB	_	8	prep	_	_
+2	walking	_	VBG	VBG	_	1	pcomp	_	_
+3	in	_	RP	RP	_	2	prt	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	hotel	_	NN	NN	_	8	nsubj	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	gorgeous	_	JJ	JJ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	no	_	DT	DT	_	4	neg	_	_
+4	complaints	_	NNS	NNS	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Prompt	_	NNP	NNP	_	3	nn	_	_
+2	Room	_	NNP	NNP	_	3	nn	_	_
+3	service	_	NN	NN	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	Friendly	_	NNP	NNP	_	7	nn	_	_
+6	front	_	NN	NN	_	7	nn	_	_
+7	desk	_	NN	NN	_	3	appos	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Many	_	JJ	JJ	_	2	amod	_	_
+2	shops	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	beautiful	_	JJ	JJ	_	5	amod	_	_
+5	fountin	_	NN	NN	_	2	appos	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	an	_	DT	DT	_	0	root	_	_
+3	all	_	DT	DT	_	6	det	_	_
+4	around	_	RB	RB	_	6	advmod	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	hotel	_	NN	NN	_	2	dep	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	great	_	JJ	JJ	_	10	amod	_	_
+10	City	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

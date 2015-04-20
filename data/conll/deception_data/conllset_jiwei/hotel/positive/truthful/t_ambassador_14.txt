@@ -1,0 +1,77 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	3	nsubj	_	_
+3	recognizes	_	VBZ	VBZ	_	0	root	_	_
+4	you	_	PRP	PRP	_	3	dobj	_	_
+5	by	_	IN	IN	_	3	prep	_	_
+6	name	_	NN	NN	_	5	pobj	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	excellent	_	JJ	JJ	_	10	amod	_	_
+9	eye	_	NN	NN	_	10	nn	_	_
+10	contact	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	``	_	``	``	_	0	erased	_	_
+3	welcome	_	JJ	JJ	_	4	amod	_	_
+4	back	_	NN	NN	_	6	nsubj	_	_
+5	''	_	''	''	_	0	erased	_	_
+6	sets	_	VBZ	VBZ	_	0	root	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	tone	_	NN	NN	_	6	dobj	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	your	_	PRP$	PRP$	_	11	poss	_	_
+11	stay	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Flowers	_	NNS	NNS	_	0	root	_	_
+2	in	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	7	det	_	_
+4	lobby	_	NN	NN	_	7	nn	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	reception	_	NN	NN	_	4	conj	_	_
+7	area	_	NN	NN	_	2	pobj	_	_
+8	beautiful	_	JJ	JJ	_	1	amod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	house-keeping	_	JJ	JJ	_	3	amod	_	_
+3	staff	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	terrific	_	JJ	JJ	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	helpful	_	JJ	JJ	_	5	conj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	prompt	_	JJ	JJ	_	5	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Room	_	JJ	JJ	_	3	amod	_	_
+2	service	_	NN	NN	_	3	nn	_	_
+3	food	_	NN	NN	_	5	nsubjpass	_	_
+4	was	_	VBD	VBD	_	5	auxpass	_	_
+5	served	_	VBN	VBN	_	0	root	_	_
+6	hot	_	JJ	JJ	_	5	xcomp	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	that	_	DT	DT	_	9	nsubj	_	_
+9	makes	_	VBZ	VBZ	_	5	conj	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	big	_	JJ	JJ	_	12	amod	_	_
+12	difference	_	NN	NN	_	9	dobj	_	_
+13	too	_	RB	RB	_	9	advmod	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Pump	_	NNP	NNP	_	3	nn	_	_
+2	Room	_	NNP	NNP	_	3	nn	_	_
+3	food	_	NN	NN	_	6	nsubjpass	_	_
+4	was	_	VBD	VBD	_	6	auxpass	_	_
+5	surprising	_	JJ	JJ	_	6	amod	_	_
+6	tasty	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	impressed	_	VBN	VBN	_	6	conj	_	_
+9	my	_	PRP$	PRP$	_	10	poss	_	_
+10	clients	_	NNS	NNS	_	8	dobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Well	_	NNP	NNP	_	2	nsubj	_	_
+2	done	_	VBN	VBN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,123 @@
+1	Named	_	VBN	VBN	_	0	root	_	_
+2	my	_	PRP$	PRP$	_	3	poss	_	_
+3	price	_	NN	NN	_	1	dobj	_	_
+4	on	_	IN	IN	_	1	prep	_	_
+5	priceline	_	NN	NN	_	4	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	$	_	$	$	_	0	root	_	_
+2	50.00	_	CD	CD	_	1	num	_	_
+3	Bucks	_	NNP	NNP	_	1	appos	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Hotel	_	NNP	NNP	_	2	nn	_	_
+2	room	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	Clean	_	NNP	NNP	_	1	appos	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	new	_	JJ	JJ	_	3	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Fresh	_	VB	VB	_	0	root	_	_
+2	crisp	_	JJ	JJ	_	3	amod	_	_
+3	sheets	_	NNS	NNS	_	1	dobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	comfortable	_	JJ	JJ	_	6	amod	_	_
+6	bed	_	NN	NN	_	3	appos	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	flat	_	JJ	JJ	_	10	amod	_	_
+9	screen	_	NN	NN	_	10	nn	_	_
+10	TV	_	NN	NN	_	3	appos	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	clean	_	JJ	JJ	_	13	amod	_	_
+13	carpet	_	NN	NN	_	3	appos	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	nice	_	JJ	JJ	_	16	amod	_	_
+16	bath	_	NN	NN	_	3	appos	_	_
+17	,	_	,	,	_	0	erased	_	_
+18	etc.	_	FW	FW	_	3	appos	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Short	_	JJ	JJ	_	2	amod	_	_
+2	distance	_	NN	NN	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	food	_	NN	NN	_	3	pobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	sightseeing	_	NN	NN	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	property	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Be	_	VB	VB	_	2	auxpass	_	_
+2	prepared	_	VBN	VBN	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	pay	_	VB	VB	_	2	xcomp	_	_
+5	over	_	RP	RP	_	4	prt	_	_
+6	$	_	$	$	_	4	dobj	_	_
+7	40.00	_	CD	CD	_	6	num	_	_
+8	per	_	IN	IN	_	6	prep	_	_
+9	night	_	NN	NN	_	8	pobj	_	_
+10	to	_	TO	TO	_	4	prep	_	_
+11	park	_	NN	NN	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Hey	_	UH	UH	_	3	discourse	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	Its	_	VB	VB	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	hyatt	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	charge	_	VBP	VBP	_	0	root	_	_
+4	$	_	$	$	_	3	dobj	_	_
+5	5.00	_	CD	CD	_	4	num	_	_
+6	for	_	IN	IN	_	4	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	bottle	_	NN	NN	_	6	pobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	water	_	NN	NN	_	9	pobj	_	_
+11	that	_	WDT	WDT	_	15	nsubj	_	_
+12	is	_	VBZ	VBZ	_	15	cop	_	_
+13	normally	_	RB	RB	_	15	advmod	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	buck	_	NN	NN	_	4	rcmod	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	For	_	IN	IN	_	13	prep	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	total	_	NN	NN	_	1	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	$	_	$	$	_	8	dep	_	_
+6	100.00	_	CD	CD	_	8	num	_	_
+7	nightly	_	JJ	JJ	_	8	amod	_	_
+8	stay	_	NN	NN	_	4	pobj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	Chicago	_	NNP	NNP	_	9	pobj	_	_
+11	this	_	DT	DT	_	12	det	_	_
+12	place	_	NN	NN	_	13	nsubj	_	_
+13	is	_	VBZ	VBZ	_	0	root	_	_
+14	it	_	PRP	PRP	_	18	nsubj	_	_
+15	just	_	RB	RB	_	18	advmod	_	_
+16	do	_	VBP	VBP	_	18	aux	_	_
+17	n't	_	RB	RB	_	18	neg	_	_
+18	drink	_	VB	VB	_	13	ccomp	_	_
+19	the	_	DT	DT	_	21	det	_	_
+20	bottled	_	JJ	JJ	_	21	amod	_	_
+21	water	_	NN	NN	_	18	dobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	Happy	_	JJ	JJ	_	2	amod	_	_
+2	Travels	_	NNS	NNS	_	0	root	_	_
+

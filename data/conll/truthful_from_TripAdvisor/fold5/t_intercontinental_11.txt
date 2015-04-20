@@ -1,0 +1,56 @@
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	recently	_	RB	RB	_	3	advmod	_	_
+3	stayed	_	VBD	VBD	_	0	root	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	Intercontinental	_	NNP	NNP	_	7	nn	_	_
+7	Hotel	_	NNP	NNP	_	4	pobj	_	_
+8	for	_	IN	IN	_	3	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	week	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	hotel	_	NN	NN	_	3	nsubj	_	_
+3	was	_	VBD	VBD	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	wonderful	_	JJ	JJ	_	7	amod	_	_
+7	location	_	NN	NN	_	4	pobj	_	_
+8	and	_	CC	CC	_	3	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	service	_	NN	NN	_	12	nsubj	_	_
+11	was	_	VBD	VBD	_	12	cop	_	_
+12	great	_	JJ	JJ	_	3	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	found	_	VBD	VBD	_	0	root	_	_
+3	all	_	DT	DT	_	8	nsubj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	staff	_	NN	NN	_	4	pobj	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	helpful	_	JJ	JJ	_	2	xcomp	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	prompt	_	JJ	JJ	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	Intercontinental	_	NNP	NNP	_	9	nsubj	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	any	_	DT	DT	_	8	det	_	_
+8	travel	_	NN	NN	_	6	pobj	_	_
+9	needs	_	VBZ	VBZ	_	3	ccomp	_	_
+10	whether	_	IN	IN	_	12	mark	_	_
+11	it	_	PRP	PRP	_	12	nsubj	_	_
+12	be	_	VBP	VBP	_	9	ccomp	_	_
+13	for	_	IN	IN	_	12	prep	_	_
+14	business	_	NN	NN	_	13	pobj	_	_
+15	or	_	CC	CC	_	14	cc	_	_
+16	pleasure	_	NN	NN	_	14	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+

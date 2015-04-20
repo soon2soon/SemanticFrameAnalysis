@@ -1,0 +1,45 @@
+1	My	_	PRP$	PRP$	_	3	poss	_	_
+2	new	_	JJ	JJ	_	3	amod	_	_
+3	favorite	_	NN	NN	_	0	root	_	_
+4	hotel	_	NN	NN	_	3	dep	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	St.	_	NNP	NNP	_	6	nn	_	_
+6	Regis	_	NNPS	NNPS	_	3	pobj	_	_
+7	before	_	RB	RB	_	11	advmod	_	_
+8	because	_	IN	IN	_	11	mark	_	_
+9	it	_	PRP	PRP	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	new	_	JJ	JJ	_	2	advcl	_	_
+12	but	_	CC	CC	_	11	cc	_	_
+13	was	_	VBD	VBD	_	15	auxpass	_	_
+14	not	_	RB	RB	_	15	neg	_	_
+15	impressed	_	VBN	VBN	_	11	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	After	_	IN	IN	_	12	prep	_	_
+2	not	_	RB	RB	_	4	neg	_	_
+3	being	_	VBG	VBG	_	4	cop	_	_
+4	able	_	JJ	JJ	_	1	pcomp	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	use	_	VB	VB	_	4	xcomp	_	_
+7	my	_	PRP$	PRP$	_	8	poss	_	_
+8	points	_	NNS	NNS	_	6	dobj	_	_
+9	there	_	RB	RB	_	6	advmod	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	I	_	PRP	PRP	_	12	nsubj	_	_
+12	decided	_	VBD	VBD	_	0	root	_	_
+13	on	_	IN	IN	_	12	prep	_	_
+14	The	_	DT	DT	_	15	det	_	_
+15	Setai	_	NNP	NNP	_	13	pobj	_	_
+16	and	_	CC	CC	_	12	cc	_	_
+17	will	_	MD	MD	_	19	aux	_	_
+18	never	_	RB	RB	_	19	neg	_	_
+19	look	_	VB	VB	_	12	conj	_	_
+20	back	_	RB	RB	_	19	advmod	_	_
+21	.	_	.	.	_	0	erased	_	_
+

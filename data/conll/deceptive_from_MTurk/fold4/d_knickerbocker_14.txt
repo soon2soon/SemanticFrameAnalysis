@@ -1,0 +1,64 @@
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	spent	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	week	_	NN	NN	_	3	tmod	_	_
+6	at	_	IN	IN	_	3	prep	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Millennium	_	NNP	NNP	_	10	nn	_	_
+9	Knickerbocker	_	NNP	NNP	_	10	nn	_	_
+10	Hotel	_	NNP	NNP	_	6	pobj	_	_
+11	and	_	CC	CC	_	3	cc	_	_
+12	it	_	PRP	PRP	_	17	nsubj	_	_
+13	was	_	VBD	VBD	_	17	cop	_	_
+14	a	_	DT	DT	_	17	det	_	_
+15	very	_	RB	RB	_	16	advmod	_	_
+16	plesant	_	JJ	JJ	_	17	amod	_	_
+17	stay	_	NN	NN	_	3	conj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	4	advmod	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	first	_	RB	RB	_	4	advmod	_	_
+4	walked	_	VBD	VBD	_	11	advcl	_	_
+5	into	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	room	_	NN	NN	_	5	pobj	_	_
+8	it	_	PRP	PRP	_	11	nsubj	_	_
+9	was	_	VBD	VBD	_	11	cop	_	_
+10	very	_	RB	RB	_	11	advmod	_	_
+11	clean	_	JJ	JJ	_	0	root	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bathroom	_	NN	NN	_	6	nsubj	_	_
+3	was	_	VBD	VBD	_	6	cop	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	decent	_	JJ	JJ	_	6	amod	_	_
+6	size	_	NN	NN	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	decorum	_	NN	NN	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	pleasant	_	JJ	JJ	_	6	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Room	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	good	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	view	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	I	_	PRP	PRP	_	8	nsubj	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	recomend	_	VB	VB	_	4	conj	_	_
+9	staying	_	VBG	VBG	_	8	xcomp	_	_
+10	there	_	RB	RB	_	9	advmod	_	_
+11	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,41 @@
+1	Too	_	RB	RB	_	2	advmod	_	_
+2	expensive	_	JJ	JJ	_	10	dep	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	size	_	NN	NN	_	3	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	room	_	NN	NN	_	6	pobj	_	_
+9	we	_	PRP	PRP	_	10	nsubj	_	_
+10	paid	_	VBD	VBD	_	0	root	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	location	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	if	_	IN	IN	_	7	mark	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	are	_	VBP	VBP	_	4	advcl	_	_
+8	looking	_	VBG	VBG	_	7	dep	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	visit	_	VB	VB	_	8	xcomp	_	_
+11	Central	_	NNP	NNP	_	12	nn	_	_
+12	Park	_	NNP	NNP	_	10	dobj	_	_
+13	,	_	,	,	_	0	erased	_	_
+14	but	_	CC	CC	_	8	cc	_	_
+15	not	_	RB	RB	_	16	neg	_	_
+16	convenient	_	JJ	JJ	_	8	conj	_	_
+17	to	_	TO	TO	_	16	prep	_	_
+18	other	_	JJ	JJ	_	20	amod	_	_
+19	major	_	JJ	JJ	_	20	amod	_	_
+20	attraction	_	NN	NN	_	17	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	decor	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	traditional	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,47 @@
+1	in	_	IN	IN	_	11	prep	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	windy	_	JJ	JJ	_	4	amod	_	_
+4	city	_	NN	NN	_	1	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	this	_	DT	DT	_	11	nsubj	_	_
+7	is	_	VBZ	VBZ	_	11	cop	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	good	_	JJ	JJ	_	11	amod	_	_
+11	place.amazing	_	NN	NN	_	0	root	_	_
+
+1	rooms	_	NNS	NNS	_	7	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	service.everything	_	NN	NN	_	1	conj	_	_
+4	is	_	VBZ	VBZ	_	7	cop	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	walking	_	VBG	VBG	_	7	amod	_	_
+7	distance	_	NN	NN	_	16	dep	_	_
+8	.	_	.	.	_	0	erased	_	_
+9	An	_	DT	DT	_	10	det	_	_
+10	absolute	_	JJ	JJ	_	16	nsubj	_	_
+11	must	_	MD	MD	_	16	aux	_	_
+12	for	_	IN	IN	_	16	prep	_	_
+13	business	_	NN	NN	_	14	nn	_	_
+14	trio	_	NN	NN	_	12	pobj	_	_
+15	as	_	IN	IN	_	14	prep	_	_
+16	ease	_	VB	VB	_	0	root	_	_
+17	with	_	IN	IN	_	16	prep	_	_
+18	which	_	WDT	WDT	_	21	dep	_	_
+19	you	_	PRP	PRP	_	21	nsubj	_	_
+20	can	_	MD	MD	_	21	aux	_	_
+21	conduct	_	VB	VB	_	17	pcomp	_	_
+22	and	_	CC	CC	_	21	cc	_	_
+23	schedule	_	NN	NN	_	24	nn	_	_
+24	meetings	_	NNS	NNS	_	27	nsubj	_	_
+25	here	_	RB	RB	_	27	advmod	_	_
+26	is	_	VBZ	VBZ	_	27	cop	_	_
+27	unbeatable	_	JJ	JJ	_	21	conj	_	_
+28	.	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	decor	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	impishly	_	RB	RB	_	5	advmod	_	_
+5	modern	_	JJ	JJ	_	2	conj	_	_
+

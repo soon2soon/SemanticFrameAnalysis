@@ -1,0 +1,38 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	Loew	_	NNP	NNP	_	4	nsubj	_	_
+3	's	_	VBZ	VBZ	_	4	cop	_	_
+4	Hotel	_	NNP	NNP	_	0	root	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	Nashville	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	not	_	RB	RB	_	12	neg	_	_
+9	what	_	WP	WP	_	12	dep	_	_
+10	I	_	PRP	PRP	_	12	nsubj	_	_
+11	had	_	VBD	VBD	_	12	aux	_	_
+12	expected	_	VBN	VBN	_	4	parataxis	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Decor	_	VB	VB	_	6	ccomp	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	outdated	_	VBN	VBN	_	1	acomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	service	_	NN	NN	_	6	nsubj	_	_
+6	lacked	_	VBD	VBD	_	0	root	_	_
+7	personality	_	NN	NN	_	13	nsubj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	rooms	_	NNS	NNS	_	7	conj	_	_
+11	not	_	RB	RB	_	13	neg	_	_
+12	as	_	RB	RB	_	13	advmod	_	_
+13	clean	_	JJ	JJ	_	6	xcomp	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	organized	_	VBN	VBN	_	13	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	terrible	_	JJ	JJ	_	5	amod	_	_
+5	hotel	_	NN	NN	_	2	appos	_	_
+6	.	_	.	.	_	0	erased	_	_
+

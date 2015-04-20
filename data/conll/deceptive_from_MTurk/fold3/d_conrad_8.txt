@@ -1,0 +1,45 @@
+1	Conrad	_	NNP	NNP	_	2	nn	_	_
+2	Chicago	_	NNP	NNP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	one	_	CD	CD	_	0	root	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	nicer	_	JJ	JJ	_	8	amod	_	_
+8	hotels	_	NNS	NNS	_	5	pobj	_	_
+9	I	_	PRP	PRP	_	11	nsubj	_	_
+10	have	_	VBP	VBP	_	11	aux	_	_
+11	had	_	VBN	VBN	_	8	rcmod	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	pleasure	_	NN	NN	_	11	dobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	staying	_	VBG	VBG	_	14	pcomp	_	_
+16	in	_	IN	IN	_	15	prep	_	_
+17	recently	_	RB	RB	_	16	pcomp	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	well	_	RB	RB	_	5	advmod	_	_
+5	furnished	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	brightly	_	RB	RB	_	8	advmod	_	_
+8	lit	_	JJ	JJ	_	5	conj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	but	_	CC	CC	_	11	cc	_	_
+11	not	_	RB	RB	_	5	dep	_	_
+12	to	_	TO	TO	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	point	_	NN	NN	_	12	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	garishness	_	NNS	NNS	_	15	pobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	convenient	_	JJ	JJ	_	3	amod	_	_
+3	location	_	NN	NN	_	6	nsubj	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	plus	_	NN	NN	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+

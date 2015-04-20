@@ -1,0 +1,71 @@
+1	Stayed	_	VBN	VBN	_	0	root	_	_
+2	here	_	RB	RB	_	1	advmod	_	_
+3	for	_	IN	IN	_	1	prep	_	_
+4	3	_	CD	CD	_	5	num	_	_
+5	nights	_	NNS	NNS	_	3	pobj	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	Bridgestone/Firestone	_	NNP	NNP	_	9	nn	_	_
+9	convention	_	NN	NN	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	No	_	DT	DT	_	2	neg	_	_
+2	complaints	_	NNS	NNS	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Room	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	great	_	JJ	JJ	_	0	root	_	_
+4	with	_	IN	IN	_	3	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	beautiful	_	JJ	JJ	_	7	amod	_	_
+7	view	_	NN	NN	_	4	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	accommodating	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Had	_	NNP	NNP	_	2	nsubj	_	_
+2	drinks	_	VBZ	VBZ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	appetizers	_	VBZ	VBZ	_	2	conj	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	main	_	JJ	JJ	_	7	amod	_	_
+7	bar	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Fantastic	_	UH	UH	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Yes	_	RB	RB	_	6	advmod	_	_
+2	it	_	PRP	PRP	_	6	nsubj	_	_
+3	's	_	VBZ	VBZ	_	6	cop	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	huge	_	JJ	JJ	_	6	amod	_	_
+6	hotel	_	NN	NN	_	0	root	_	_
+7	as	_	IN	IN	_	10	mark	_	_
+8	it	_	PRP	PRP	_	10	nsubjpass	_	_
+9	's	_	VBZ	VBZ	_	10	auxpass	_	_
+10	used	_	VBN	VBN	_	6	rcmod	_	_
+11	for	_	IN	IN	_	10	prep	_	_
+12	conventions	_	NNS	NNS	_	11	pobj	_	_
+13	but	_	CC	CC	_	10	cc	_	_
+14	that	_	WDT	WDT	_	17	nsubj	_	_
+15	did	_	VBD	VBD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	stop	_	VB	VB	_	10	conj	_	_
+18	it	_	PRP	PRP	_	17	dobj	_	_
+19	from	_	IN	IN	_	17	prep	_	_
+20	being	_	VBG	VBG	_	23	cop	_	_
+21	a	_	DT	DT	_	23	det	_	_
+22	great	_	JJ	JJ	_	23	amod	_	_
+23	place	_	NN	NN	_	19	pcomp	_	_
+24	.	_	.	.	_	0	erased	_	_
+

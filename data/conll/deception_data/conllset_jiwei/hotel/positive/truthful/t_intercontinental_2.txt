@@ -1,0 +1,50 @@
+1	Stayed	_	VBN	VBN	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	3	_	CD	CD	_	4	num	_	_
+4	nights	_	NNS	NNS	_	2	pobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	booked	_	VBN	VBN	_	5	dep	_	_
+2	via	_	IN	IN	_	1	prep	_	_
+3	hotwire	_	NN	NN	_	2	pobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	upgraded	_	VBD	VBD	_	0	root	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	historic	_	JJ	JJ	_	8	amod	_	_
+8	tower	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Got	_	VBN	VBN	_	11	csubj	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	big	_	JJ	JJ	_	4	amod	_	_
+4	room	_	NN	NN	_	1	dobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	with	_	IN	IN	_	1	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	nice	_	JJ	JJ	_	9	amod	_	_
+9	view.Service	_	NN	NN	_	6	pobj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	great	_	JJ	JJ	_	0	root	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Valet	_	JJ	JJ	_	2	amod	_	_
+2	parking	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	efficient	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	but	_	CC	CC	_	4	cc	_	_
+7	you	_	PRP	PRP	_	8	nsubj	_	_
+8	expect	_	VBP	VBP	_	4	conj	_	_
+9	it	_	PRP	PRP	_	8	dobj	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	53	_	CD	CD	_	12	num	_	_
+12	doller/night	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	But	_	CC	CC	_	6	cc	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	location	_	NN	NN	_	6	nsubj	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	best	_	JJS	JJS	_	0	root	_	_
+

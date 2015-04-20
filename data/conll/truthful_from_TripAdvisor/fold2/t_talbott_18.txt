@@ -1,0 +1,66 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	Talbott	_	NNP	NNP	_	3	pobj	_	_
+6	twice	_	RB	RB	_	7	advmod	_	_
+7	in	_	IN	IN	_	2	prep	_	_
+8	the	_	DT	DT	_	11	det	_	_
+9	last	_	JJ	JJ	_	11	amod	_	_
+10	few	_	JJ	JJ	_	11	amod	_	_
+11	weeks	_	NNS	NNS	_	7	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	pleased	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	every	_	DT	DT	_	7	det	_	_
+7	facet	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	my	_	PRP$	PRP$	_	10	poss	_	_
+10	stays	_	NNS	NNS	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	17	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	from	_	IN	IN	_	2	prep	_	_
+5	doormen	_	NNS	NNS	_	4	pobj	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	front	_	JJ	JJ	_	8	amod	_	_
+8	desk	_	NN	NN	_	6	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	to	_	TO	TO	_	6	prep	_	_
+11	concierge	_	NN	NN	_	10	pobj	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	to	_	TO	TO	_	6	prep	_	_
+14	housekeeping	_	VBG	VBG	_	13	pcomp	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	were	_	VBD	VBD	_	17	cop	_	_
+17	wonderful	_	JJ	JJ	_	0	root	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	nicely	_	RB	RB	_	5	advmod	_	_
+5	sized	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	clean	_	JJ	JJ	_	5	conj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	well	_	RB	RB	_	11	advmod	_	_
+11	stocked	_	JJ	JJ	_	5	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	return	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	Talbott	_	NNP	NNP	_	7	nn	_	_
+7	anytime	_	NNP	NNP	_	4	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+

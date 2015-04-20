@@ -1,0 +1,53 @@
+1	A	_	DT	DT	_	4	det	_	_
+2	short	_	JJ	JJ	_	4	amod	_	_
+3	business	_	NN	NN	_	4	nn	_	_
+4	trip	_	NN	NN	_	8	nsubj	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	Nashville	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	stayed	_	VBD	VBD	_	0	root	_	_
+9	a	_	SYM	SYM	_	8	dep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	Hutton	_	NNP	NNP	_	8	dobj	_	_
+12	on	_	IN	IN	_	11	prep	_	_
+13	West	_	NNP	NNP	_	14	nn	_	_
+14	End	_	NNP	NNP	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Perfectly	_	NNP	NNP	_	2	nsubj	_	_
+2	located	_	VBN	VBN	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	resturants	_	NNS	NNS	_	3	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	downtown	_	NN	NN	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	relazed	_	VBD	VBD	_	0	root	_	_
+3	environment	_	NN	NN	_	2	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	which	_	WDT	WDT	_	6	nsubj	_	_
+6	allowed	_	VBD	VBD	_	3	rcmod	_	_
+7	me	_	PRP	PRP	_	6	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	utilize	_	VB	VB	_	6	xcomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	lobby	_	NN	NN	_	9	dobj	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	workspace	_	NN	NN	_	12	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	curtious	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	would	_	MD	MD	_	6	aux	_	_
+6	recommend	_	VB	VB	_	3	conj	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	anyone	_	NN	NN	_	7	pobj	_	_
+9	traveling	_	VBG	VBG	_	8	vmod	_	_
+10	for	_	IN	IN	_	9	prep	_	_
+11	business	_	NN	NN	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+

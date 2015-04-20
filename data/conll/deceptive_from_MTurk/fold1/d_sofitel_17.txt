@@ -1,0 +1,103 @@
+1	MY	_	NNP	NNP	_	2	nn	_	_
+2	WIFE	_	NNP	NNP	_	7	nsubj	_	_
+3	AND	_	CC	CC	_	2	cc	_	_
+4	I	_	NNP	NNP	_	5	nn	_	_
+5	STAYED	_	NNP	NNP	_	2	conj	_	_
+6	HERE	_	RB	RB	_	7	advmod	_	_
+7	LAST	_	VBP	VBP	_	0	root	_	_
+8	WEEKEND	_	NNP	NNP	_	7	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	IT	_	PRP	PRP	_	4	nsubj	_	_
+2	WAS	_	VBD	VBD	_	4	cop	_	_
+3	OUR	_	NNP	NNP	_	4	nn	_	_
+4	HONEYMOON	_	NNP	NNP	_	0	root	_	_
+5	AND	_	CC	CC	_	4	cc	_	_
+6	IT	_	NNP	NNP	_	4	conj	_	_
+7	WAS	_	VBD	VBD	_	8	cop	_	_
+8	WONDERFUL	_	NNP	NNP	_	4	rcmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	THIS	_	NNP	NNP	_	2	nn	_	_
+2	HOTEL	_	NNP	NNP	_	6	nsubj	_	_
+3	WAS	_	VBD	VBD	_	6	cop	_	_
+4	SO	_	NNP	NNP	_	6	nn	_	_
+5	BEAUTIFUL	_	NNP	NNP	_	6	nn	_	_
+6	INSIDE	_	NNP	NNP	_	0	root	_	_
+7	AND	_	CC	CC	_	6	cc	_	_
+8	OUT	_	NNP	NNP	_	6	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	WE	_	NNP	NNP	_	2	nn	_	_
+2	WERE	_	NNP	NNP	_	13	nsubj	_	_
+3	MORE	_	JJR	JJR	_	2	amod	_	_
+4	THAN	_	IN	IN	_	3	prep	_	_
+5	PLEASED	_	NNP	NNP	_	4	pobj	_	_
+6	WITH	_	IN	IN	_	3	prep	_	_
+7	OUR	_	NNP	NNP	_	8	nn	_	_
+8	ROOM	_	NNP	NNP	_	6	pobj	_	_
+9	AND	_	CC	CC	_	8	cc	_	_
+10	THE	_	NNP	NNP	_	11	nn	_	_
+11	RESTURANT	_	NNP	NNP	_	8	conj	_	_
+12	WAS	_	VBD	VBD	_	13	aux	_	_
+13	AMAZING	_	VBG	VBG	_	0	root	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	ALL	_	NNP	NNP	_	8	nsubj	_	_
+2	OF	_	IN	IN	_	1	prep	_	_
+3	THE	_	DT	DT	_	4	det	_	_
+4	STAFF	_	NNP	NNP	_	2	pobj	_	_
+5	HERE	_	RB	RB	_	8	advmod	_	_
+6	WERE	_	VBP	VBP	_	8	cop	_	_
+7	VERY	_	NNP	NNP	_	8	nn	_	_
+8	NICE	_	NNP	NNP	_	0	root	_	_
+9	AND	_	CC	CC	_	8	cc	_	_
+10	POLITE	_	NNP	NNP	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	THEY	_	NNP	NNP	_	2	nsubj	_	_
+2	HELPED	_	VBD	VBD	_	0	root	_	_
+3	US	_	NNP	NNP	_	5	nn	_	_
+4	WITH	_	NNP	NNP	_	5	nn	_	_
+5	ANY	_	NNP	NNP	_	2	dobj	_	_
+6	OF	_	IN	IN	_	5	prep	_	_
+7	OUR	_	NNP	NNP	_	8	nn	_	_
+8	NEEDS	_	NNP	NNP	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	WISH	_	VBD	VBD	_	0	root	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	COULD	_	VBD	VBD	_	2	ccomp	_	_
+5	LIVE	_	NNP	NNP	_	4	dobj	_	_
+6	IN	_	IN	IN	_	5	prep	_	_
+7	THIS	_	NNP	NNP	_	8	nn	_	_
+8	PLACE	_	NNP	NNP	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	ALL	_	NNP	NNP	_	3	nn	_	_
+2	TOGETHER	_	NNP	NNP	_	3	nn	_	_
+3	IT	_	NNP	NNP	_	5	nsubj	_	_
+4	WAS	_	VBD	VBD	_	5	cop	_	_
+5	ONE	_	CD	CD	_	0	root	_	_
+6	OF	_	IN	IN	_	5	prep	_	_
+7	THE	_	DT	DT	_	9	det	_	_
+8	BEST	_	NNP	NNP	_	9	nn	_	_
+9	WEEKENDS	_	NNP	NNP	_	6	pobj	_	_
+10	OF	_	IN	IN	_	9	prep	_	_
+11	OUR	_	NNP	NNP	_	12	nn	_	_
+12	LIVES	_	NNP	NNP	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	WE	_	NNP	NNP	_	2	nn	_	_
+2	PLAN	_	NNP	NNP	_	0	root	_	_
+3	ON	_	IN	IN	_	2	prep	_	_
+4	COMING	_	NNP	NNP	_	6	nn	_	_
+5	BACK	_	NNP	NNP	_	6	nn	_	_
+6	AGAIN	_	NNP	NNP	_	3	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	GREAT	_	NNP	NNP	_	2	nn	_	_
+2	HOTEL	_	NNP	NNP	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

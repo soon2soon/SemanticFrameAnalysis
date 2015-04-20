@@ -1,0 +1,60 @@
+1	Triple	_	JJ	JJ	_	3	amod	_	_
+2	A	_	DT	DT	_	3	det	_	_
+3	rate	_	NN	NN	_	12	nsubj	_	_
+4	with	_	IN	IN	_	3	prep	_	_
+5	upgrade	_	NN	NN	_	4	pobj	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	view	_	NN	NN	_	8	nn	_	_
+8	room	_	NN	NN	_	6	pobj	_	_
+9	was	_	VBD	VBD	_	12	cop	_	_
+10	less	_	JJR	JJR	_	12	quantmod	_	_
+11	than	_	IN	IN	_	12	quantmod	_	_
+12	$	_	$	$	_	0	root	_	_
+13	200	_	CD	CD	_	12	num	_	_
+14	which	_	WDT	WDT	_	16	nsubj	_	_
+15	also	_	RB	RB	_	16	advmod	_	_
+16	included	_	VBD	VBD	_	12	rcmod	_	_
+17	breakfast	_	NN	NN	_	18	nn	_	_
+18	vouchers	_	NNS	NNS	_	16	dobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	view	_	NN	NN	_	1	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	river	_	NN	NN	_	5	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	lake	_	NN	NN	_	4	appos	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	Wrigley	_	NNP	NNP	_	11	nn	_	_
+11	Bldg.	_	NNP	NNP	_	8	appos	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	&	_	SYM	SYM	_	0	root	_	_
+2	Tribune	_	NNP	NNP	_	3	nn	_	_
+3	Bldg.	_	NNP	NNP	_	1	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Most	_	JJS	JJS	_	3	amod	_	_
+2	major	_	JJ	JJ	_	3	amod	_	_
+3	restaurants	_	NNS	NNS	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	Shopping	_	NNP	NNP	_	3	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	Sightseeing	_	VBG	VBG	_	3	vmod	_	_
+8	attractions	_	NNS	NNS	_	7	dobj	_	_
+9	within	_	IN	IN	_	7	prep	_	_
+10	walking	_	VBG	VBG	_	9	pcomp	_	_
+11	distance	_	NN	NN	_	10	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Large	_	JJ	JJ	_	2	amod	_	_
+2	room	_	NN	NN	_	0	root	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	comfortable	_	JJ	JJ	_	7	amod	_	_
+7	bed	_	NN	NN	_	3	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

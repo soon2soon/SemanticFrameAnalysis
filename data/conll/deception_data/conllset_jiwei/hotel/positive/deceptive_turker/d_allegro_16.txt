@@ -1,0 +1,69 @@
+1	Extravagant	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	Exuberant	_	NNP	NNP	_	4	nn	_	_
+4	Experience	_	NNP	NNP	_	1	appos	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	stay	_	NN	NN	_	8	nsubj	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	Hotel	_	NNP	NNP	_	5	nn	_	_
+5	Allegro	_	NNP	NNP	_	3	pobj	_	_
+6	was	_	VBD	VBD	_	8	cop	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	enjoyable	_	JJ	JJ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	intoxicating	_	VBG	VBG	_	3	amod	_	_
+3	views	_	NNS	NNS	_	4	nsubj	_	_
+4	made	_	VBD	VBD	_	0	root	_	_
+5	the	_	DT	DT	_	17	det	_	_
+6	get-away	_	JJ	JJ	_	17	amod	_	_
+7	much	_	RB	RB	_	8	advmod	_	_
+8	more	_	RBR	RBR	_	9	advmod	_	_
+9	relaxing	_	JJ	JJ	_	17	amod	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	as	_	RB	RB	_	12	advmod	_	_
+12	well	_	RB	RB	_	9	cc	_	_
+13	as	_	IN	IN	_	12	mwe	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	exceptional	_	JJ	JJ	_	16	amod	_	_
+16	room	_	NN	NN	_	9	conj	_	_
+17	service	_	NN	NN	_	4	dobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	decorative	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	well	_	RB	RB	_	8	advmod	_	_
+8	above	_	JJ	JJ	_	9	advmod	_	_
+9	par	_	JJ	JJ	_	5	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	much	_	RB	RB	_	4	advmod	_	_
+4	enjoyed	_	VBD	VBD	_	0	root	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	complimentary	_	JJ	JJ	_	7	amod	_	_
+7	tea	_	NN	NN	_	4	dobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	Would	_	MD	MD	_	4	aux	_	_
+3	highly	_	RB	RB	_	4	advmod	_	_
+4	recommend	_	VB	VB	_	0	root	_	_
+5	Hotel	_	NNP	NNP	_	6	nn	_	_
+6	Allegro	_	NNP	NNP	_	4	dobj	_	_
+7	as	_	IN	IN	_	10	mark	_	_
+8	a	_	SYM	SYM	_	10	nsubj	_	_
+9	must	_	MD	MD	_	10	aux	_	_
+10	stay	_	VB	VB	_	4	advcl	_	_
+11	vacation	_	NN	NN	_	12	nn	_	_
+12	get-away	_	NN	NN	_	10	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

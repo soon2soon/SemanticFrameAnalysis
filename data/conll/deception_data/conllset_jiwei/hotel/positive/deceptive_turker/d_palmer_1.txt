@@ -1,0 +1,45 @@
+1	An	_	DT	DT	_	4	det	_	_
+2	excellent	_	JJ	JJ	_	4	amod	_	_
+3	vacation	_	NN	NN	_	4	nn	_	_
+4	destination	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	0	root	_	_
+2	rooms	_	NNS	NNS	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	many	_	JJ	JJ	_	6	amod	_	_
+5	nice	_	JJ	JJ	_	6	amod	_	_
+6	features	_	NNS	NNS	_	2	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Superb	_	VB	VB	_	0	root	_	_
+2	location	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	proximity	_	NN	NN	_	2	conj	_	_
+5	to	_	TO	TO	_	1	prep	_	_
+6	local	_	JJ	JJ	_	7	amod	_	_
+7	attractions	_	NNS	NNS	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	always	_	RB	RB	_	4	advmod	_	_
+4	friendly	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	eager	_	JJ	JJ	_	4	conj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	help	_	VB	VB	_	4	xcomp	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommended	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	anyone	_	NN	NN	_	3	pobj	_	_
+5	looking	_	VBG	VBG	_	4	vmod	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	travel	_	VB	VB	_	5	xcomp	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	area	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

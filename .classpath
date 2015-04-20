@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/stanford-parser-3.5.0-models.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-parser-3.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-parser.jar" sourcepath="C:/Users/seong/.m2/repository/edu/stanford/nlp/stanford-parser/3.5.0/stanford-parser-3.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-maxent-3.0.1-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/opennlp-tools-1.5.1-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

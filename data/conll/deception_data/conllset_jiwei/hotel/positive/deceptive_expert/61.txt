@@ -1,0 +1,40 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	coziest	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	NYC	_	NNP	NNP	_	4	pobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Greenwich	_	NNP	NNP	_	5	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	homey	_	JJ	JJ	_	5	amod	_	_
+5	feeling	_	NN	NN	_	7	nsubjpass	_	_
+6	is	_	VBZ	VBZ	_	7	auxpass	_	_
+7	contributed	_	VBN	VBN	_	0	root	_	_
+8	to	_	TO	TO	_	7	xcomp	_	_
+9	by	_	IN	IN	_	7	prep	_	_
+10	its	_	PRP$	PRP$	_	11	poss	_	_
+11	welcoming	_	NN	NN	_	9	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	personable	_	NN	NN	_	14	nn	_	_
+14	staff	_	NN	NN	_	11	conj	_	_
+15	as	_	RB	RB	_	16	advmod	_	_
+16	well	_	RB	RB	_	11	cc	_	_
+17	as	_	IN	IN	_	16	mwe	_	_
+18	cozy	_	JJ	JJ	_	19	amod	_	_
+19	decor	_	NN	NN	_	11	conj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	what	_	WP	WP	_	5	dobj	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	want	_	VBP	VBP	_	2	ccomp	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	home	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	look	_	VB	VB	_	7	vmod	_	_
+10	like	_	IN	IN	_	9	prep	_	_
+11	!	_	.	.	_	0	erased	_	_
+

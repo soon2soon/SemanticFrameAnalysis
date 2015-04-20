@@ -1,0 +1,68 @@
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	want	_	VB	VB	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	leave	_	VB	VB	_	4	xcomp	_	_
+7	this	_	DT	DT	_	8	det	_	_
+8	hotel	_	NN	NN	_	6	dobj	_	_
+9	!	_	.	.	_	0	erased	_	_
+
+1	WOW	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	all	_	DT	DT	_	0	root	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	can	_	MD	MD	_	6	aux	_	_
+6	say	_	VB	VB	_	3	rcmod	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Believe	_	VB	VB	_	12	dep	_	_
+2	all	_	PDT	PDT	_	5	predet	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	other	_	JJ	JJ	_	5	amod	_	_
+5	reviews	_	NNS	NNS	_	1	dobj	_	_
+6	on	_	IN	IN	_	1	prep	_	_
+7	here	_	RB	RB	_	6	pobj	_	_
+8	saying-this	_	NNS	NNS	_	12	nsubj	_	_
+9	is	_	VBZ	VBZ	_	12	cop	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	hotel	_	NN	NN	_	0	root	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	remember	_	VBP	VBP	_	0	root	_	_
+3	your	_	PRP$	PRP$	_	4	poss	_	_
+4	name	_	NN	NN	_	2	dobj	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	are	_	VBP	VBP	_	8	aux	_	_
+7	always	_	RB	RB	_	8	advmod	_	_
+8	accomodating	_	VBG	VBG	_	2	conj	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	every	_	DT	DT	_	11	det	_	_
+11	request	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	True	_	NNP	NNP	_	2	nn	_	_
+2	professionals	_	NNS	NNS	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	art	_	NN	NN	_	3	pobj	_	_
+6	of	_	IN	IN	_	2	prep	_	_
+7	hotel	_	NN	NN	_	8	nn	_	_
+8	service	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	restaurant	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	spa	_	NN	NN	_	2	conj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	fantastic	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	not	_	RB	RB	_	11	neg	_	_
+9	to	_	TO	TO	_	11	aux	_	_
+10	be	_	VB	VB	_	11	auxpass	_	_
+11	missed	_	VBN	VBN	_	6	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+

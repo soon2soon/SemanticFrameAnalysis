@@ -1,0 +1,80 @@
+1	Visiting	_	VBG	VBG	_	0	root	_	_
+2	during	_	IN	IN	_	1	prep	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	busy	_	JJ	JJ	_	6	amod	_	_
+5	2day	_	JJ	JJ	_	6	amod	_	_
+6	conference	_	NN	NN	_	2	pobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Most	_	JJS	JJS	_	2	amod	_	_
+2	hotels	_	NNS	NNS	_	3	nsubj	_	_
+3	booked	_	VBD	VBD	_	0	root	_	_
+4	solid	_	JJ	JJ	_	3	acomp	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	full	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	4	nsubj	_	_
+4	allows	_	VBZ	VBZ	_	0	root	_	_
+5	you	_	PRP	PRP	_	4	dobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	meet	_	VB	VB	_	4	xcomp	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	wide	_	JJ	JJ	_	10	amod	_	_
+10	array	_	NN	NN	_	7	dobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	customers	_	NNS	NNS	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Everyone	_	NN	NN	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	aux	_	_
+3	complaining	_	VBG	VBG	_	0	root	_	_
+4	about	_	IN	IN	_	3	prep	_	_
+5	service	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	cleanliness	_	NN	NN	_	5	conj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	overall	_	JJ	JJ	_	11	amod	_	_
+11	experience	_	NN	NN	_	5	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Location	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	good	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Hotel	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	tired	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Employees	_	NNS	NNS	_	2	nsubj	_	_
+2	surly	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Too	_	RB	RB	_	4	advmod	_	_
+2	many	_	JJ	JJ	_	4	amod	_	_
+3	cool	_	JJ	JJ	_	4	amod	_	_
+4	properties	_	NNS	NNS	_	14	nsubj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	choose	_	VB	VB	_	14	xcomp	_	_
+7	from	_	IN	IN	_	6	prep	_	_
+8	in	_	IN	IN	_	7	pcomp	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	town	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	will	_	MD	MD	_	14	aux	_	_
+13	never	_	RB	RB	_	14	neg	_	_
+14	stay	_	VB	VB	_	0	root	_	_
+15	here	_	RB	RB	_	14	advmod	_	_
+16	again	_	RB	RB	_	14	advmod	_	_
+17	and	_	CC	CC	_	14	cc	_	_
+18	will	_	MD	MD	_	19	aux	_	_
+19	re-think	_	VB	VB	_	14	conj	_	_
+20	Hilton	_	NNP	NNP	_	19	dobj	_	_
+21	in	_	IN	IN	_	20	prep	_	_
+22	general	_	NN	NN	_	21	pobj	_	_
+

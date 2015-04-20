@@ -1,0 +1,79 @@
+1	Excellent	_	NNP	NNP	_	2	nn	_	_
+2	Hotel	_	NNP	NNP	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	5	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	service	_	NN	NN	_	1	conj	_	_
+4	were	_	VBD	VBD	_	5	cop	_	_
+5	great	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	great	_	JJ	JJ	_	3	amod	_	_
+3	value	_	NN	NN	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	been	_	VBN	VBN	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	places	_	NNS	NNS	_	4	pobj	_	_
+6	that	_	WDT	WDT	_	10	nsubj	_	_
+7	are	_	VBP	VBP	_	10	cop	_	_
+8	not	_	RB	RB	_	10	neg	_	_
+9	as	_	RB	RB	_	10	advmod	_	_
+10	good	_	JJ	JJ	_	5	rcmod	_	_
+11	for	_	IN	IN	_	3	prep	_	_
+12	nearly	_	RB	RB	_	13	quantmod	_	_
+13	twice	_	RB	RB	_	15	num	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	price	_	NN	NN	_	11	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	0	root	_	_
+2	location	_	NN	NN	_	1	dep	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Close	_	VB	VB	_	0	root	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	L	_	NNP	NNP	_	2	pobj	_	_
+5	and	_	CC	CC	_	1	cc	_	_
+6	short	_	RB	RB	_	7	advmod	_	_
+7	walk	_	VB	VB	_	1	conj	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	rental	_	JJ	JJ	_	11	amod	_	_
+10	car	_	NN	NN	_	11	nn	_	_
+11	service	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Restaurants	_	NNS	NNS	_	15	nsubj	_	_
+2	in	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	area	_	NN	NN	_	2	pobj	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	bit	_	NN	NN	_	4	dep	_	_
+7	of	_	IN	IN	_	1	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	disappointment	_	NN	NN	_	7	pobj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	but	_	CC	CC	_	9	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	shopping	_	NN	NN	_	9	conj	_	_
+14	was	_	VBD	VBD	_	15	cop	_	_
+15	great	_	JJ	JJ	_	0	root	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Area	_	NNP	NNP	_	2	nsubj	_	_
+2	recommendations	_	VBZ	VBZ	_	0	root	_	_
+3	Great	_	JJ	JJ	_	4	amod	_	_
+4	theatre	_	NN	NN	_	2	dobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	restaurants	_	NNS	NNS	_	4	conj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	museums	_	NNS	NNS	_	4	conj	_	_
+9	and	_	CC	CC	_	4	cc	_	_
+10	shopping	_	NN	NN	_	4	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

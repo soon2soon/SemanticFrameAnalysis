@@ -1,0 +1,32 @@
+1	Exquisite	_	VB	VB	_	0	root	_	_
+2	food	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	service	_	NN	NN	_	2	conj	_	_
+5	in	_	IN	IN	_	1	prep	_	_
+6	The	_	DT	DT	_	7	det	_	_
+7	Grill	_	NNP	NNP	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	new	_	JJ	JJ	_	3	amod	_	_
+3	restaurant	_	NN	NN	_	6	nsubj	_	_
+4	had	_	VBD	VBD	_	6	aux	_	_
+5	just	_	RB	RB	_	6	advmod	_	_
+6	opened	_	VBN	VBN	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	they	_	PRP	PRP	_	9	nsubj	_	_
+9	have	_	VBP	VBP	_	6	conj	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	best	_	JJS	JJS	_	12	amod	_	_
+12	steaks	_	NNS	NNS	_	9	dobj	_	_
+13	outside	_	IN	IN	_	12	prep	_	_
+14	New	_	NNP	NNP	_	15	nn	_	_
+15	York	_	NNP	NNP	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	2	nn	_	_
+2	Wine	_	NNP	NNP	_	3	nsubj	_	_
+3	list	_	VBP	VBP	_	0	root	_	_
+4	too	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+
