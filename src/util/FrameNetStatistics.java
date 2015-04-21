@@ -27,21 +27,21 @@ import org.json.simple.parser.ParseException;
 
 public class FrameNetStatistics {
 
-	private static final String filePath = "D:\\DEV\\workspace-jee\\SemanticFrameAnalysis\\data\\FrameNetParsed\\deceptive_from_MTurk\\fold1\\d_hilton_1.txt";
+	private static final String filePath = "D:/DEV/workspace-jee/SemanticFrameAnalysis/data/FrameNetParsed/deceptive_from_MTurk/fold1/d_hilton_1.txt";
 
-	public final static String dataPath_deceptive_parsed = "data/FrameNetParsed/deceptive_from_MTurk";
-	public final static String dataPath_truthful_parsed = "data/FrameNetParsed/truthful_from_TripAdvisor";
+	public final static String dataPath_deceptive_parsed = fs("data/FrameNetParsed/deceptive_from_MTurk");
+	public final static String dataPath_truthful_parsed = fs("data/FrameNetParsed/truthful_from_TripAdvisor");
 
-	public final static String dataPath_deceptive = "data/deceptive_from_MTurk";
-	public final static String dataPath_truthful = "data/truthful_from_TripAdvisor";
+	public final static String dataPath_deceptive = fs("data/deceptive_from_MTurk");
+	public final static String dataPath_truthful = fs("data/truthful_from_TripAdvisor");
 
-	public final static String dataPath_deceptive_jiwei_hotel_positive_turker = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\positive\\deceptive_turker";
-	public final static String dataPath_deceptive_jiwei_hotel_positive_expert = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\positive\\deceptive_expert";
-	public final static String dataPath_truthful_jiwei_hotel_positive = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\positive\\truthful";
+	public final static String dataPath_deceptive_jiwei_hotel_positive_turker = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/positive/deceptive_turker");
+	public final static String dataPath_deceptive_jiwei_hotel_positive_expert = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/positive/deceptive_expert");
+	public final static String dataPath_truthful_jiwei_hotel_positive = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/positive/truthful");
 
-	public final static String dataPath_deceptive_jiwei_hotel_negative_turker = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\negative\\deceptive_turker";
-	public final static String dataPath_deceptive_jiwei_hotel_negative_expert = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\negative\\deceptive_expert";
-	public final static String dataPath_truthful_jiwei_hotel_negative = "data\\FrameNetParsed\\deception_data\\FrameNetParsedset_jiwei\\hotel\\positive\\negative";
+	public final static String dataPath_deceptive_jiwei_hotel_negative_turker = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/negative/deceptive_turker");
+	public final static String dataPath_deceptive_jiwei_hotel_negative_expert = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/negative/deceptive_expert");
+	public final static String dataPath_truthful_jiwei_hotel_negative = fs("data/FrameNetParsed/deception_data/FrameNetParsedset_jiwei/hotel/positive/negative");
 
 	public static void main(String[] args) throws Exception {
 
@@ -49,11 +49,9 @@ public class FrameNetStatistics {
 
 		// fStatistics.getDocStatistics(dataPath_deceptive);
 		// fStatistics.getDocStatistics(dataPath_truthful);
-
-		fStatistics.getFrameStatistics(dataPath_deceptive_parsed);
-//		 fStatistics.getFrameStatistics(dataPath_truthful_parsed);
-//
-//		 fStatistics.getFrameStatistics(dataPath_deceptive_jiwei_hotel_positive_expert);
+		// fStatistics.getFrameStatistics(dataPath_deceptive_parsed);
+//		fStatistics.getFrameStatistics(dataPath_truthful_parsed);
+		 fStatistics.getFrameStatistics(dataPath_deceptive_jiwei_hotel_positive_turker);
 
 	}
 
@@ -102,6 +100,8 @@ public class FrameNetStatistics {
 
 		HashMap<String, Integer> frameCount = new HashMap<String, Integer>();
 		HashMap<String, Integer> frameCount_bi = new HashMap<String, Integer>();
+		HashMap<String, Integer> frameTextCount = new HashMap<String, Integer>();
+		HashMap<String, HashMap<String, Integer>> frameTextMap = new HashMap<String, HashMap<String, Integer>>();
 
 		// for each FrameNet_parsed files
 		for (File file : files) {
@@ -125,29 +125,37 @@ public class FrameNetStatistics {
 						JSONObject target = (JSONObject) frame.get("target");
 
 						String frameName = (String) target.get("name");
+						
+						JSONArray spans = (JSONArray) target.get("spans");
+						JSONObject span = (JSONObject) spans.get(0);
+						String frameText = (String) span.get("text");
 
+						
+						if (frameTextMap.containsKey(frameName)) {
+							HashMap<String, Integer> ftm = frameTextMap.get(frameName);
+							
+							if (ftm.containsKey(frameText)) {
+								ftm.put(frameText, frameTextMap.get(frameName).get(frameText) + 1);
+							} else {
+								ftm.put(frameText, 1);
+							}
+							
+							frameTextMap.put(frameName, ftm);
+						} else {
+							HashMap<String, Integer> ftm = new HashMap<String, Integer>();
+							
+							ftm.put(frameText, 1);
+							
+							frameTextMap.put(frameName, ftm);
+						}
+						
+						
 						// print frame name for debugging
 						// System.out.println(frameName);
 
 						frameNameSet.add(frameName);
 						frameNameSetPerFile.add(frameName);
-						
-						
-						
-						if (frameName.equals("Desiring")) {
-							
-							
-							JSONObject textObj = (JSONObject) target.get("spans");
-							
-							String text = (String) textObj.get("text");
-							
-							System.out.println(text);
-							
-							
-						}
-						
-						
-						
+										
 
 						if (frameCount.containsKey(frameName)) {
 							frameCount.put(frameName, frameCount.get(frameName) + 1);
@@ -190,6 +198,7 @@ public class FrameNetStatistics {
 
 			} catch (Exception e) {
 				// read error
+				e.printStackTrace();
 			}
 
 		}
@@ -215,6 +224,17 @@ public class FrameNetStatistics {
 			System.out.println(key + "\t" + sortedMapDesc.get(key));
 		}
 		
+		System.out.println();
+		System.out.println();
+		
+		for (String key : frameTextMap.keySet()) {
+			HashMap<String, Integer> ftm = frameTextMap.get(key);
+			System.out.println("------------- " + key);
+			for (String key2 : ftm.keySet()) {
+				System.out.println(key2 + "|" + ftm.get(key2));
+			}
+		}
+		
 		
 //		System.out.println();
 //		System.out.println("Frame bigram count");
@@ -227,9 +247,7 @@ public class FrameNetStatistics {
 //		for (String key : sortedMapDesc_bi.keySet()) {
 //			System.out.println(key + "\t" + sortedMapDesc_bi.get(key));
 //		}
-//		
-		
-		
+//			
 		
 
 	}
@@ -271,5 +289,11 @@ public class FrameNetStatistics {
 		}
 
 		return sortedMap;
+	}
+	
+	
+	public static String fs(String path) {
+		path = CrossOS.fileSeparator(path);
+		return path;
 	}
 }
