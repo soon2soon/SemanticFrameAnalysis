@@ -1,0 +1,74 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	wedding	_	NN	NN	_	5	nn	_	_
+5	reception	_	NN	NN	_	2	dobj	_	_
+6	at	_	IN	IN	_	2	prep	_	_
+7	Hotel	_	NNP	NNP	_	8	nn	_	_
+8	Allegro	_	NNP	NNP	_	6	pobj	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	October	_	NNP	NNP	_	9	pobj	_	_
+11	1	_	CD	CD	_	10	num	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	2011	_	CD	CD	_	10	num	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Everything	_	NNP	NNP	_	3	nsubjpass	_	_
+2	was	_	VBD	VBD	_	3	auxpass	_	_
+3	done	_	VBN	VBN	_	0	root	_	_
+4	perfectly	_	RB	RB	_	3	advmod	_	_
+5	-	_	:	:	_	0	erased	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	food	_	NN	NN	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	delicious	_	JJ	JJ	_	3	conj	_	_
+11	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	ballroom	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	beautiful	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	classic	_	JJ	JJ	_	4	dep	_	_
+8	downtown	_	JJ	JJ	_	9	amod	_	_
+9	Chicago	_	NNP	NNP	_	4	dep	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	coordinator	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	wonderful	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	deal	_	VB	VB	_	4	xcomp	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	thorough	_	JJ	JJ	_	4	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	highly	_	RB	RB	_	4	advmod	_	_
+4	recommend	_	VB	VB	_	0	root	_	_
+5	Hotel	_	NNP	NNP	_	6	nn	_	_
+6	Allegro	_	NNP	NNP	_	4	dobj	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	special	_	JJ	JJ	_	9	amod	_	_
+9	events	_	NNS	NNS	_	7	pobj	_	_
+10	such	_	JJ	JJ	_	11	mwe	_	_
+11	as	_	IN	IN	_	9	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	wedding	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	7	nsubj	_	_
+2	could	_	MD	MD	_	7	aux	_	_
+3	not	_	RB	RB	_	7	neg	_	_
+4	have	_	VB	VB	_	7	aux	_	_
+5	been	_	VBN	VBN	_	7	cop	_	_
+6	more	_	RBR	RBR	_	7	advmod	_	_
+7	pleased	_	JJ	JJ	_	0	root	_	_
+8	!	_	.	.	_	0	erased	_	_
+

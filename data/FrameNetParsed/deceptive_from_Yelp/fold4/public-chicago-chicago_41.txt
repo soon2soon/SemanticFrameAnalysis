@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Temporal_collocation","spans":[{"start":2,"end":3,"text":"modern"}]},"annotationSets":[{"rank":0,"score":34.19545887685016,"frameElements":[{"name":"Trajector_entity","spans":[{"start":2,"end":3,"text":"modern"}]}]}]}],"tokens":["Beautiful",",","modern",",","trendy","."]}

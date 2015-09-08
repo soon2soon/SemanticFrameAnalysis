@@ -1,0 +1,311 @@
+1	I	_	PRP	PRP	_	6	nsubj	_	_
+2	sort	_	NN	NN	_	3	dep	_	_
+3	of	_	IN	IN	_	6	advmod	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	want	_	VB	VB	_	0	root	_	_
+7	you	_	PRP	PRP	_	6	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	go	_	VB	VB	_	6	xcomp	_	_
+10	to	_	TO	TO	_	9	prep	_	_
+11	this	_	DT	DT	_	12	det	_	_
+12	place	_	NN	NN	_	10	pobj	_	_
+13	because	_	IN	IN	_	15	mark	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	have	_	VBP	VBP	_	9	advcl	_	_
+16	designs	_	NNS	NNS	_	15	dobj	_	_
+17	on	_	IN	IN	_	16	prep	_	_
+18	it	_	PRP	PRP	_	17	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	want	_	VBP	VBP	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	move	_	VB	VB	_	2	xcomp	_	_
+5	in	_	RP	RP	_	4	prt	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	want	_	VBP	VBP	_	0	root	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	all	_	RB	RB	_	2	advmod	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	myself	_	PRP	PRP	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	managed	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	book	_	VB	VB	_	2	xcomp	_	_
+5	a	_	DT	DT	_	8	det	_	_
+6	last	_	JJ	JJ	_	8	amod	_	_
+7	minute	_	NN	NN	_	8	nn	_	_
+8	room	_	NN	NN	_	4	dobj	_	_
+9	there	_	RB	RB	_	4	advmod	_	_
+10	last	_	JJ	JJ	_	11	amod	_	_
+11	weekend	_	NN	NN	_	4	dobj	_	_
+12	-	_	:	:	_	0	erased	_	_
+13	Ray	_	NNP	NNP	_	14	nsubj	_	_
+14	had	_	VBD	VBD	_	2	parataxis	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	cancellation	_	NN	NN	_	14	dobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	'd	_	VBD	VBD	_	3	aux	_	_
+3	heard	_	VBN	VBN	_	0	root	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	it	_	PRP	PRP	_	4	pobj	_	_
+6	through	_	IN	IN	_	3	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	friend	_	NN	NN	_	6	pobj	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	had	_	VBD	VBD	_	12	aux	_	_
+11	not	_	RB	RB	_	12	neg	_	_
+12	looked	_	VBN	VBN	_	3	conj	_	_
+13	it	_	PRP	PRP	_	12	dobj	_	_
+14	up	_	RP	RP	_	12	prt	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	so	_	RB	RB	_	17	advmod	_	_
+17	arrived	_	VBD	VBD	_	3	dep	_	_
+18	free	_	JJ	JJ	_	17	advmod	_	_
+19	of	_	IN	IN	_	17	prep	_	_
+20	expectations	_	NNS	NNS	_	19	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	funky	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	but	_	CC	CC	_	4	cc	_	_
+7	beautiful	_	JJ	JJ	_	4	conj	_	_
+8	in	_	IN	IN	_	4	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	hip	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	modern	_	JJ	JJ	_	14	amod	_	_
+13	,	_	,	,	_	0	erased	_	_
+14	eclectic	_	JJ	JJ	_	15	amod	_	_
+15	way	_	NN	NN	_	10	appos	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	has	_	VBZ	VBZ	_	25	ccomp	_	_
+3	mid-century	_	JJ	JJ	_	4	amod	_	_
+4	furniture	_	NN	NN	_	2	dobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	pottery	_	NN	NN	_	4	conj	_	_
+7	that	_	WDT	WDT	_	8	nsubj	_	_
+8	is	_	VBZ	VBZ	_	4	rcmod	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	die	_	VB	VB	_	8	xcomp	_	_
+11	for	_	IN	IN	_	10	prep	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	but	_	CC	CC	_	2	cc	_	_
+14	it	_	PRP	PRP	_	18	nsubj	_	_
+15	's	_	VBZ	VBZ	_	18	cop	_	_
+16	not	_	RB	RB	_	18	neg	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	museum	_	NN	NN	_	2	conj	_	_
+19	,	_	,	,	_	0	erased	_	_
+20	it	_	PRP	PRP	_	25	nsubj	_	_
+21	's	_	VBZ	VBZ	_	25	cop	_	_
+22	a	_	DT	DT	_	25	det	_	_
+23	loved	_	JJ	JJ	_	25	amod	_	_
+24	living	_	NN	NN	_	25	nn	_	_
+25	space	_	NN	NN	_	0	root	_	_
+26	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	3	advmod	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	walk	_	VBP	VBP	_	7	advcl	_	_
+4	in	_	RP	RP	_	3	prt	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	Ray	_	NNP	NNP	_	7	nsubj	_	_
+7	has	_	VBZ	VBZ	_	0	root	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	giant	_	JJ	JJ	_	11	amod	_	_
+10	map	_	NN	NN	_	11	nn	_	_
+11	wall	_	NN	NN	_	7	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	that	_	DT	DT	_	5	det	_	_
+4	map	_	NN	NN	_	5	nn	_	_
+5	wall	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	small	_	JJ	JJ	_	6	amod	_	_
+5	tile	_	NN	NN	_	6	nn	_	_
+6	backsplash	_	NN	NN	_	2	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	color	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	fact	_	NN	NN	_	2	dobj	_	_
+5	that	_	IN	IN	_	7	mark	_	_
+6	there	_	EX	EX	_	7	expl	_	_
+7	is	_	VBZ	VBZ	_	2	ccomp	_	_
+8	a	_	DT	DT	_	14	det	_	_
+9	shrine	_	JJ	JJ	_	14	amod	_	_
+10	to	_	TO	TO	_	9	prep	_	_
+11	an	_	DT	DT	_	13	det	_	_
+12	old	_	JJ	JJ	_	13	amod	_	_
+13	neighborhood	_	NN	NN	_	10	pobj	_	_
+14	restaurant	_	NN	NN	_	7	nsubj	_	_
+15	hanging	_	VBG	VBG	_	14	vmod	_	_
+16	above	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	19	det	_	_
+18	reception	_	NN	NN	_	19	nn	_	_
+19	area	_	NN	NN	_	16	pobj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	bird	_	NN	NN	_	5	nn	_	_
+5	art	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	tv	_	NN	NN	_	5	nsubj	_	_
+5	playing	_	VBG	VBG	_	2	dep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	election	_	NN	NN	_	8	nn	_	_
+8	coverage	_	NN	NN	_	5	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	breakfast	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	apple	_	NN	NN	_	3	nn	_	_
+3	pie	_	NN	NN	_	4	nsubj	_	_
+4	baking	_	VBZ	VBZ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	cozy	_	JJ	JJ	_	3	amod	_	_
+3	everything	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	robes	_	NNS	NNS	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	nice	_	JJ	JJ	_	3	amod	_	_
+3	tubs	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	sauna	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	communal	_	JJ	JJ	_	5	amod	_	_
+5	attitude	_	NN	NN	_	2	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	washer	_	NN	NN	_	9	nn	_	_
+9	dryer	_	NN	NN	_	5	conj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	granola	_	NN	NN	_	13	nn	_	_
+13	bars	_	NNS	NNS	_	5	conj	_	_
+14	and	_	CC	CC	_	5	cc	_	_
+15	water	_	NN	NN	_	16	nn	_	_
+16	bottles	_	NNS	NNS	_	5	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	Umbrellas	_	NNS	NNS	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	Band	_	NNP	NNP	_	2	nsubj	_	_
+2	aids	_	VBZ	VBZ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Candy	_	FW	FW	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	Ray	_	NNP	NNP	_	3	nsubj	_	_
+2	has	_	VBZ	VBZ	_	3	aux	_	_
+3	thought	_	VBN	VBN	_	0	root	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	everything	_	NN	NN	_	4	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Everything	_	NN	NN	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	he	_	PRP	PRP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	generous	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	room	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	tiny	_	JJ	JJ	_	0	root	_	_
+5	-	_	:	:	_	0	erased	_	_
+6	so	_	RB	RB	_	9	advmod	_	_
+7	you	_	PRP	PRP	_	9	nsubj	_	_
+8	best	_	RB	RB	_	9	advmod	_	_
+9	go	_	VBP	VBP	_	15	advcl	_	_
+10	there	_	RB	RB	_	9	advmod	_	_
+11	with	_	IN	IN	_	9	prep	_	_
+12	someone	_	NN	NN	_	11	pobj	_	_
+13	you	_	PRP	PRP	_	15	nsubj	_	_
+14	really	_	RB	RB	_	15	advmod	_	_
+15	like	_	VBP	VBP	_	4	parataxis	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	seriously	_	RB	RB	_	4	advmod	_	_
+3	would	_	MD	MD	_	4	aux	_	_
+4	go	_	VB	VB	_	0	root	_	_
+5	back	_	RP	RP	_	4	prt	_	_
+6	for	_	IN	IN	_	4	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	month	_	NN	NN	_	6	pobj	_	_
+9	if	_	IN	IN	_	12	mark	_	_
+10	I	_	PRP	PRP	_	12	nsubj	_	_
+11	could	_	MD	MD	_	12	aux	_	_
+12	afford	_	VB	VB	_	4	advcl	_	_
+13	it	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	should	_	MD	MD	_	3	aux	_	_
+3	go	_	VB	VB	_	0	root	_	_
+4	there	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	be	_	VB	VB	_	0	root	_	_
+4	back	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+

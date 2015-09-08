@@ -1,0 +1,115 @@
+1	Beautiful	_	NNP	NNP	_	2	nsubj	_	_
+2	experience	_	VBP	VBP	_	0	root	_	_
+3	overall	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Really	_	NNP	NNP	_	2	nsubj	_	_
+2	enjoyed	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	view	_	NN	NN	_	2	dobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	service	_	NN	NN	_	4	conj	_	_
+8	for	_	IN	IN	_	2	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	lunch	_	NN	NN	_	11	nn	_	_
+11	cruise	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	--	_	:	:	_	0	erased	_	_
+6	had	_	VBN	VBN	_	4	parataxis	_	_
+7	lobster	_	NN	NN	_	8	nn	_	_
+8	bisque	_	NN	NN	_	6	dobj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	salmon	_	NN	NN	_	8	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Also	_	RB	RB	_	2	advmod	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	delicious	_	JJ	JJ	_	5	amod	_	_
+5	chocolate	_	NN	NN	_	2	dobj	_	_
+6	mousse	_	CD	CD	_	7	num	_	_
+7	dessert	_	NN	NN	_	2	nsubj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	freshly	_	JJ	JJ	_	4	amod	_	_
+3	baked	_	JJ	JJ	_	4	amod	_	_
+4	rolls	_	NNS	NNS	_	6	nsubj	_	_
+5	were	_	VBD	VBD	_	6	cop	_	_
+6	delicious	_	JJ	JJ	_	0	root	_	_
+7	as	_	IN	IN	_	6	prep	_	_
+8	well	_	RB	RB	_	7	pcomp	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Honestly	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	I	_	PRP	PRP	_	5	nsubj	_	_
+4	have	_	VBP	VBP	_	5	aux	_	_
+5	been	_	VBN	VBN	_	0	root	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	other	_	JJ	JJ	_	8	amod	_	_
+8	cruises	_	NNS	NNS	_	6	pobj	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	this	_	DT	DT	_	11	nsubj	_	_
+11	was	_	VBD	VBD	_	5	conj	_	_
+12	by	_	IN	IN	_	11	prep	_	_
+13	far	_	RB	RB	_	14	advmod	_	_
+14	one	_	CD	CD	_	12	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	best	_	JJS	JJS	_	15	pobj	_	_
+18	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bathrooms	_	NNS	NNS	_	6	nsubj	_	_
+3	were	_	VBD	VBD	_	6	cop	_	_
+4	nice	_	JJ	JJ	_	6	amod	_	_
+5	too	_	RB	RB	_	4	advmod	_	_
+6	lol	_	NN	NN	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	it	_	PRP	PRP	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	big	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	modern	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	good	_	JJ	JJ	_	4	amod	_	_
+4	music	_	NN	NN	_	2	dobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	DJ	_	NNP	NNP	_	4	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Definitely	_	JJ	JJ	_	2	amod	_	_
+2	worth	_	NN	NN	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	price	_	NN	NN	_	2	dep	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	nice	_	JJ	JJ	_	3	amod	_	_
+3	cruise	_	NN	NN	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	go	_	VB	VB	_	3	dep	_	_
+6	on	_	RP	RP	_	5	prt	_	_
+7	with	_	IN	IN	_	5	prep	_	_
+8	family	_	NN	NN	_	7	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	friends	_	NNS	NNS	_	8	conj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	or	_	CC	CC	_	8	cc	_	_
+13	partner	_	NN	NN	_	8	conj	_	_
+14	!	_	.	.	_	0	erased	_	_
+

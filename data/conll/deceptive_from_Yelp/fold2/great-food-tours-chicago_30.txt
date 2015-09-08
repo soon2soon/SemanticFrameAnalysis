@@ -1,0 +1,45 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	Chicago	_	NNP	NNP	_	6	nn	_	_
+5	chocolate	_	NN	NN	_	6	nn	_	_
+6	tour	_	NN	NN	_	2	dobj	_	_
+7	with	_	IN	IN	_	2	prep	_	_
+8	Seth	_	NNP	NNP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	chocolate	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	but	_	CC	CC	_	4	cc	_	_
+7	we	_	PRP	PRP	_	9	nsubj	_	_
+8	really	_	RB	RB	_	9	advmod	_	_
+9	enjoyed	_	VBD	VBD	_	4	conj	_	_
+10	Seth	_	NNP	NNP	_	9	dobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	his	_	PRP$	PRP$	_	13	poss	_	_
+13	commentary	_	NN	NN	_	10	conj	_	_
+14	as	_	IN	IN	_	16	mark	_	_
+15	we	_	PRP	PRP	_	16	nsubj	_	_
+16	walked	_	VBD	VBD	_	9	advcl	_	_
+17	from	_	IN	IN	_	16	prep	_	_
+18	place	_	NN	NN	_	17	pobj	_	_
+19	to	_	TO	TO	_	16	prep	_	_
+20	place	_	NN	NN	_	19	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	knowledgable	_	JJ	JJ	_	0	root	_	_
+5	about	_	IN	IN	_	4	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	was	_	VBD	VBD	_	10	cop	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	entertaining	_	JJ	JJ	_	4	conj	_	_
+11	too	_	RB	RB	_	10	advmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+

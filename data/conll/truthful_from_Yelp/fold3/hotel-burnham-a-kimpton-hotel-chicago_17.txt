@@ -1,0 +1,87 @@
+1	Really	_	RB	RB	_	2	advmod	_	_
+2	nice	_	JJ	JJ	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	state	_	NN	NN	_	3	pobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	Washington	_	NNP	NNP	_	4	conj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	off	_	IN	IN	_	6	advmod	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	craziness	_	NN	NN	_	8	pobj	_	_
+11	of	_	IN	IN	_	2	prep	_	_
+12	Michigan	_	NNP	NNP	_	13	nn	_	_
+13	avenue	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Coffee	_	NNP	NNP	_	0	root	_	_
+2	in	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	am	_	NN	NN	_	2	pobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	wine	_	NN	NN	_	4	conj	_	_
+7	in	_	IN	IN	_	4	prep	_	_
+8	pm	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	aux	_	_
+3	smaller-to	_	VBG	VBG	_	0	root	_	_
+4	be	_	VB	VB	_	5	auxpass	_	_
+5	expected	_	VBN	VBN	_	3	ccomp	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	an	_	DT	DT	_	11	det	_	_
+8	older	_	JJR	JJR	_	11	amod	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	historic	_	JJ	JJ	_	11	amod	_	_
+11	building	_	NN	NN	_	6	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	NNP	NNP	_	2	nsubj	_	_
+2	nicely	_	VBZ	VBZ	_	0	root	_	_
+3	furnished	_	JJ	JJ	_	2	acomp	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	comfortable	_	JJ	JJ	_	3	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Even	_	RB	RB	_	4	advmod	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	yoga	_	JJ	JJ	_	4	amod	_	_
+4	mat	_	NN	NN	_	0	root	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	best	_	JJS	JJS	_	3	amod	_	_
+3	thing	_	NN	NN	_	9	nsubj	_	_
+4	about	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	hotel	_	NN	NN	_	4	pobj	_	_
+7	is	_	VBZ	VBZ	_	9	cop	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	staff	_	NN	NN	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	amazing	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	Anything	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	want	_	VBP	VBP	_	6	advcl	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	there	_	EX	EX	_	6	expl	_	_
+6	were	_	VBD	VBD	_	0	root	_	_
+7	right	_	RB	RB	_	8	advmod	_	_
+8	there	_	RB	RB	_	6	advmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	MD	MD	_	3	aux	_	_
+2	absolutely	_	NNP	NNP	_	3	nsubj	_	_
+3	be	_	VB	VB	_	0	root	_	_
+4	back	_	RB	RB	_	3	advmod	_	_
+5	!	_	.	.	_	0	erased	_	_
+

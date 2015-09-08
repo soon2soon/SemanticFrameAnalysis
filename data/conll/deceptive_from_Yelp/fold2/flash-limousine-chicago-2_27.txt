@@ -1,0 +1,51 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	their	_	PRP$	PRP$	_	4	poss	_	_
+4	service	_	NN	NN	_	2	dobj	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	conference	_	NN	NN	_	5	pobj	_	_
+8	in	_	IN	IN	_	2	prep	_	_
+9	Chicago	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Their	_	PRP$	PRP$	_	2	poss	_	_
+2	buses	_	NNS	NNS	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	limousines	_	NNS	NNS	_	2	conj	_	_
+5	are	_	VBP	VBP	_	7	cop	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	clean	_	JJ	JJ	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Their	_	PRP$	PRP$	_	2	poss	_	_
+2	drivers	_	NNS	NNS	_	4	nsubj	_	_
+3	are	_	VBP	VBP	_	4	cop	_	_
+4	friendly	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	courteous	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Flash	_	JJ	JJ	_	2	amod	_	_
+2	limousine	_	NN	NN	_	4	nsubj	_	_
+3	professionally	_	RB	RB	_	4	advmod	_	_
+4	handles	_	VBZ	VBZ	_	0	root	_	_
+5	everything	_	NN	NN	_	4	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	what	_	WP	WP	_	5	dobj	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	need	_	VBP	VBP	_	2	ccomp	_	_
+6	from	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	good	_	JJ	JJ	_	10	amod	_	_
+9	limousine	_	NN	NN	_	10	nn	_	_
+10	company	_	NN	NN	_	6	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Thank	_	VB	VB	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	!	_	.	.	_	0	erased	_	_
+

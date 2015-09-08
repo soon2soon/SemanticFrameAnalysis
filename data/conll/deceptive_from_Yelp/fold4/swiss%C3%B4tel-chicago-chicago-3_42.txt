@@ -1,0 +1,11 @@
+1	Nice	_	VB	VB	_	0	root	_	_
+2	room	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	view	_	NN	NN	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	3	dep	_	_
+2	convenient	_	JJ	JJ	_	3	amod	_	_
+3	location	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

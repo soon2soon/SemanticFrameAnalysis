@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Expensiveness","spans":[{"start":4,"end":5,"text":"overpriced"}]},"annotationSets":[{"rank":0,"score":21.927379963854982,"frameElements":[]}]}],"tokens":["Just","OK",",","rather","overpriced"]}

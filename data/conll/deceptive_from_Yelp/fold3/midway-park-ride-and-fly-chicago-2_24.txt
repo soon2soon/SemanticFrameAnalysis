@@ -1,0 +1,75 @@
+1	What	_	WDT	WDT	_	0	root	_	_
+2	a	_	FW	FW	_	1	prep	_	_
+3	wonderful	_	JJ	JJ	_	4	amod	_	_
+4	experience	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	5	nsubj	_	_
+2	were	_	VBD	VBD	_	5	cop	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	even	_	RB	RB	_	5	advmod	_	_
+5	out	_	JJ	JJ	_	0	root	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	car	_	NN	NN	_	6	pobj	_	_
+9	when	_	WRB	WRB	_	12	advmod	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	shuttle	_	NN	NN	_	12	nsubj	_	_
+12	appeared	_	VBD	VBD	_	5	advcl	_	_
+13	and	_	CC	CC	_	5	cc	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	young	_	JJ	JJ	_	16	amod	_	_
+16	man	_	NN	NN	_	17	nsubj	_	_
+17	came	_	VBD	VBD	_	5	conj	_	_
+18	to	_	TO	TO	_	17	prep	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	door	_	NN	NN	_	18	pobj	_	_
+21	to	_	TO	TO	_	22	aux	_	_
+22	get	_	VB	VB	_	17	xcomp	_	_
+23	our	_	PRP$	PRP$	_	24	poss	_	_
+24	bags	_	NNS	NNS	_	22	dobj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	return	_	NN	NN	_	3	nn	_	_
+3	trip	_	NN	NN	_	9	nsubj	_	_
+4	-	_	:	:	_	0	erased	_	_
+5	we	_	PRP	PRP	_	7	nsubj	_	_
+6	just	_	RB	RB	_	7	advmod	_	_
+7	called	_	VBD	VBD	_	3	dep	_	_
+8	-	_	:	:	_	0	erased	_	_
+9	got	_	VBD	VBD	_	0	root	_	_
+10	our	_	PRP$	PRP$	_	11	poss	_	_
+11	bags	_	NNS	NNS	_	16	nsubj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	shuttle	_	NN	NN	_	11	conj	_	_
+15	was	_	VBD	VBD	_	16	aux	_	_
+16	waiting	_	VBG	VBG	_	9	ccomp	_	_
+17	for	_	IN	IN	_	16	prep	_	_
+18	us	_	PRP	PRP	_	17	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	What	_	WDT	WDT	_	0	root	_	_
+2	a	_	FW	FW	_	1	prep	_	_
+3	wonderful	_	JJ	JJ	_	4	amod	_	_
+4	experience	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	recommend	_	VB	VB	_	0	root	_	_
+4	it	_	PRP	PRP	_	3	dobj	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	anyone	_	NN	NN	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	first	_	JJ	JJ	_	5	amod	_	_
+5	trip	_	NN	NN	_	0	root	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	Midway	_	NNP	NNP	_	6	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

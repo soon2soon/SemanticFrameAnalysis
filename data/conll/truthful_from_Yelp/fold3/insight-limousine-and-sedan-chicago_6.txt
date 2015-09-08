@@ -1,0 +1,144 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	used	_	VBD	VBD	_	0	root	_	_
+3	Insight	_	NNP	NNP	_	4	nn	_	_
+4	Limousine	_	NNP	NNP	_	2	dobj	_	_
+5	on	_	IN	IN	_	2	prep	_	_
+6	February	_	NNP	NNP	_	5	pobj	_	_
+7	5	_	CD	CD	_	6	num	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	day	_	NN	NN	_	6	dep	_	_
+10	after	_	IN	IN	_	2	prep	_	_
+11	another	_	DT	DT	_	14	det	_	_
+12	major	_	JJ	JJ	_	14	amod	_	_
+13	snow	_	NN	NN	_	14	nn	_	_
+14	storm	_	NN	NN	_	10	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	were	_	VBD	VBD	_	3	aux	_	_
+3	traveling	_	VBG	VBG	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	Midway	_	NNP	NNP	_	6	nn	_	_
+6	Airport	_	NNP	NNP	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Blanca	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	our	_	PRP$	PRP$	_	4	poss	_	_
+4	driver	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Not	_	RB	RB	_	2	neg	_	_
+2	only	_	JJ	JJ	_	5	preconj	_	_
+3	did	_	VBD	VBD	_	5	aux	_	_
+4	she	_	PRP	PRP	_	5	nsubj	_	_
+5	arrive	_	VB	VB	_	0	root	_	_
+6	early	_	RB	RB	_	5	advmod	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	but	_	CC	CC	_	5	cc	_	_
+9	she	_	PRP	PRP	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	wonderful	_	JJ	JJ	_	5	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	admit	_	VBP	VBP	_	0	root	_	_
+3	I	_	PRP	PRP	_	7	nsubj	_	_
+4	am	_	VBP	VBP	_	7	cop	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	nervous	_	JJ	JJ	_	7	amod	_	_
+7	passenger	_	NN	NN	_	2	ccomp	_	_
+8	...	_	:	:	_	0	erased	_	_
+9	not	_	RB	RB	_	2	dep	_	_
+10	so	_	RB	RB	_	9	dep	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	Blanca	_	NNP	NNP	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Her	_	PRP$	PRP$	_	2	poss	_	_
+2	driving	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	outstanding	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	true	_	JJ	JJ	_	5	amod	_	_
+5	professional	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Jorge	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	our	_	PRP$	PRP$	_	4	poss	_	_
+4	driver	_	NN	NN	_	0	root	_	_
+5	on	_	IN	IN	_	4	prep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	return	_	NN	NN	_	5	pobj	_	_
+8	from	_	IN	IN	_	4	prep	_	_
+9	Midway	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	flight	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VBD	VBD	_	4	auxpass	_	_
+4	delayed	_	VBN	VBN	_	0	root	_	_
+5	...	_	:	:	_	0	erased	_	_
+6	no	_	DT	DT	_	8	neg	_	_
+7	worries	_	NNS	NNS	_	8	nn	_	_
+8	Jorge	_	NN	NN	_	9	nsubj	_	_
+9	was	_	VBD	VBD	_	4	parataxis	_	_
+10	on	_	IN	IN	_	9	prep	_	_
+11	top	_	NN	NN	_	10	pobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	things	_	NNS	NNS	_	12	pobj	_	_
+14	and	_	CC	CC	_	9	cc	_	_
+15	probably	_	RB	RB	_	16	advmod	_	_
+16	knew	_	VBD	VBD	_	9	conj	_	_
+17	before	_	IN	IN	_	19	mark	_	_
+18	we	_	PRP	PRP	_	19	nsubj	_	_
+19	did	_	VBD	VBD	_	16	advcl	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	aux	_	_
+3	waiting	_	VBG	VBG	_	0	root	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	us	_	PRP	PRP	_	4	pobj	_	_
+6	as	_	IN	IN	_	8	mark	_	_
+7	we	_	PRP	PRP	_	8	nsubj	_	_
+8	arrived	_	VBD	VBD	_	3	advcl	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	Chicago	_	NNP	NNP	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	3	nsubj	_	_
+3	made	_	VBD	VBD	_	0	root	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	travel	_	NN	NN	_	3	dobj	_	_
+6	so	_	RB	RB	_	8	advmod	_	_
+7	much	_	RB	RB	_	8	advmod	_	_
+8	easier	_	JJR	JJR	_	5	amod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	ca	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	say	_	VB	VB	_	0	root	_	_
+5	enough	_	RB	RB	_	6	advmod	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	things	_	NNS	NNS	_	4	dobj	_	_
+8	about	_	IN	IN	_	4	prep	_	_
+9	Insight	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	5	nsubj	_	_
+2	most	_	RBS	RBS	_	3	advmod	_	_
+3	definitely	_	RB	RB	_	5	advmod	_	_
+4	will	_	MD	MD	_	5	aux	_	_
+5	use	_	VB	VB	_	0	root	_	_
+6	them	_	PRP	PRP	_	5	dobj	_	_
+7	again	_	RB	RB	_	5	advmod	_	_
+8	.	_	.	.	_	0	erased	_	_
+

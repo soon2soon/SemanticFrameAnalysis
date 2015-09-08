@@ -1,0 +1,29 @@
+1	Friendly	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	clean	_	JJ	JJ	_	6	amod	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	well-run	_	JJ	JJ	_	6	amod	_	_
+6	hostel	_	NN	NN	_	1	appos	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	breakfast	_	NN	NN	_	10	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	welcoming	_	NN	NN	_	5	nn	_	_
+5	staff	_	NN	NN	_	2	conj	_	_
+6	in	_	IN	IN	_	2	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	great	_	JJ	JJ	_	9	amod	_	_
+9	neighborhood	_	NN	NN	_	6	pobj	_	_
+10	close	_	VBP	VBP	_	0	root	_	_
+11	to	_	TO	TO	_	10	prep	_	_
+12	theatres	_	NNS	NNS	_	11	pobj	_	_
+13	,	_	,	,	_	0	erased	_	_
+14	restaurants	_	NNS	NNS	_	12	appos	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	clubs	_	NNS	NNS	_	12	appos	_	_
+17	,	_	,	,	_	0	erased	_	_
+18	public	_	JJ	JJ	_	19	amod	_	_
+19	transit	_	NN	NN	_	12	appos	_	_
+20	.	_	.	.	_	0	erased	_	_
+

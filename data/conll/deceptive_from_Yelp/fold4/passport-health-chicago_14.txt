@@ -1,0 +1,15 @@
+1	Passport	_	NNP	NNP	_	2	nn	_	_
+2	Health	_	NNP	NNP	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	place	_	NN	NN	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	come	_	VB	VB	_	5	vmod	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	all	_	DT	DT	_	8	pobj	_	_
+10	your	_	PRP$	PRP$	_	12	poss	_	_
+11	travel	_	NN	NN	_	12	nn	_	_
+12	vaccine	_	NN	NN	_	13	nsubj	_	_
+13	needs	_	VBZ	VBZ	_	9	rcmod	_	_
+14	!	_	.	.	_	0	erased	_	_
+

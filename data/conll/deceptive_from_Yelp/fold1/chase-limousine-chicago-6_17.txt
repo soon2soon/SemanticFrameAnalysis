@@ -1,0 +1,21 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	company	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	switch	_	VBP	VBP	_	0	root	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	them	_	PRP	PRP	_	3	pobj	_	_
+5	recently	_	RB	RB	_	2	advmod	_	_
+6	to	_	TO	TO	_	2	prep	_	_
+7	my	_	PRP$	PRP$	_	9	poss	_	_
+8	friends	_	NNS	NNS	_	9	nn	_	_
+9	company	_	NN	NN	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	But	_	CC	CC	_	3	cc	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	like	_	VBP	VBP	_	0	root	_	_
+4	Chase	_	NNP	NNP	_	3	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+

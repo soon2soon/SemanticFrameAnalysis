@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	doorman	_	NN	NN	_	3	nn	_	_
+3	Clive	_	NN	NN	_	0	root	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	extremely	_	RB	RB	_	6	advmod	_	_
+6	kind	_	JJ	JJ	_	3	vmod	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	helpful	_	JJ	JJ	_	6	conj	_	_
+9	...	_	:	:	_	0	erased	_	_
+10	Overall	_	JJ	JJ	_	12	amod	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	service	_	NN	NN	_	3	dep	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	a	_	DT	DT	_	16	det	_	_
+15	great	_	JJ	JJ	_	16	amod	_	_
+16	facility	_	NN	NN	_	12	conj	_	_
+

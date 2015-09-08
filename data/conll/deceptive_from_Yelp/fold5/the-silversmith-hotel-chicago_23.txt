@@ -1,0 +1,119 @@
+1	This	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	hotels.com	_	NN	NN	_	2	conj	_	_
+
+1	totally	_	RB	RB	_	2	advmod	_	_
+2	screwed	_	VBN	VBN	_	0	root	_	_
+3	me	_	PRP	PRP	_	2	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Booked	_	VBN	VBN	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	paid	_	VBN	VBN	_	1	conj	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	room	_	NN	NN	_	4	pobj	_	_
+6	Oct.	_	NNP	NNP	_	3	tmod	_	_
+7	12	_	CD	CD	_	6	num	_	_
+8	and	_	CC	CC	_	1	cc	_	_
+9	received	_	VBD	VBD	_	1	conj	_	_
+10	confirmation	_	NN	NN	_	9	dobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Got	_	VBN	VBN	_	13	dep	_	_
+2	e-mail	_	JJ	JJ	_	4	amod	_	_
+3	6	_	CD	CD	_	4	num	_	_
+4	p.m.	_	NN	NN	_	1	dobj	_	_
+5	on	_	IN	IN	_	1	prep	_	_
+6	Nov.	_	NNP	NNP	_	5	pobj	_	_
+7	15	_	CD	CD	_	6	num	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	date	_	NN	NN	_	6	appos	_	_
+11	I	_	PRP	PRP	_	13	nsubj	_	_
+12	had	_	VBD	VBD	_	13	aux	_	_
+13	booked	_	VBN	VBN	_	0	root	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	saying	_	VBG	VBG	_	13	xcomp	_	_
+16	there	_	EX	EX	_	17	expl	_	_
+17	was	_	VBD	VBD	_	15	ccomp	_	_
+18	a	_	DT	DT	_	19	det	_	_
+19	problem	_	NN	NN	_	17	nsubj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	Hotels.com	_	NNP	NNP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	Silversmith	_	NNP	NNP	_	5	nsubj	_	_
+4	had	_	VBD	VBD	_	5	aux	_	_
+5	overbooked	_	VBN	VBN	_	2	ccomp	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Both	_	DT	DT	_	2	preconj	_	_
+2	Silversmith	_	NNP	NNP	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	hotels.com	_	NNP	NNP	_	2	conj	_	_
+5	said	_	VBD	VBD	_	0	root	_	_
+6	they	_	PRP	PRP	_	8	nsubj	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	help	_	VB	VB	_	5	ccomp	_	_
+9	find	_	VB	VB	_	8	xcomp	_	_
+10	another	_	DT	DT	_	11	det	_	_
+11	room	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Never	_	RB	RB	_	2	neg	_	_
+2	heard	_	VBN	VBN	_	0	root	_	_
+3	back	_	RP	RP	_	2	prt	_	_
+4	from	_	IN	IN	_	2	prep	_	_
+5	Silversmith	_	NNP	NNP	_	4	pobj	_	_
+6	;	_	:	:	_	0	erased	_	_
+7	hotels.com	_	NN	NN	_	8	nsubj	_	_
+8	said	_	VBD	VBD	_	2	parataxis	_	_
+9	closest	_	JJS	JJS	_	12	nsubj	_	_
+10	is	_	VBZ	VBZ	_	12	cop	_	_
+11	30	_	CD	CD	_	12	num	_	_
+12	miles	_	NNS	NNS	_	8	ccomp	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	meeting	_	NN	NN	_	2	dobj	_	_
+5	2	_	CD	CD	_	6	num	_	_
+6	blocks	_	NNS	NNS	_	7	npadvmod	_	_
+7	from	_	IN	IN	_	2	prep	_	_
+8	Silversmith	_	NNP	NNP	_	7	pobj	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	8:30	_	CD	CD	_	9	pobj	_	_
+11	a.m.	_	RB	RB	_	10	advmod	_	_
+
+1	tomorrow	_	NN	NN	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	No	_	DT	DT	_	2	neg	_	_
+2	car	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	unfamiliar	_	JJ	JJ	_	2	appos	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	transit	_	NN	NN	_	7	nn	_	_
+7	system	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	4	nsubj	_	_
+2	never	_	RB	RB	_	4	neg	_	_
+3	ever	_	RB	RB	_	4	advmod	_	_
+4	do	_	VBP	VBP	_	0	root	_	_
+5	business	_	NN	NN	_	4	dobj	_	_
+6	with	_	IN	IN	_	4	prep	_	_
+7	either	_	DT	DT	_	6	pobj	_	_
+8	again	_	RB	RB	_	7	advmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Anyone	_	NN	NN	_	4	nsubj	_	_
+2	who	_	WP	WP	_	3	nsubj	_	_
+3	does	_	VBZ	VBZ	_	1	rcmod	_	_
+4	risks	_	VBZ	VBZ	_	0	root	_	_
+5	same	_	JJ	JJ	_	6	amod	_	_
+6	treatment	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+

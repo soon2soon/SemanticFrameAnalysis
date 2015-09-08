@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Locale","spans":[{"start":5,"end":6,"text":"place"}]},"annotationSets":[{"rank":0,"score":38.86285264624851,"frameElements":[{"name":"Locale","spans":[{"start":5,"end":6,"text":"place"}]}]}]}],"tokens":["This","is","our","favorite","pizza","place","in","CHICAGO","!"]}

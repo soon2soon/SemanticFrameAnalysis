@@ -1,0 +1,56 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	an	_	DT	DT	_	4	det	_	_
+3	amazing	_	JJ	JJ	_	4	amod	_	_
+4	time	_	NN	NN	_	1	dobj	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	Limotainment	_	NNP	NNP	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Mike	_	NNP	NNP	_	5	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Priest	_	NNP	NNP	_	1	conj	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	guys	_	VBZ	VBZ	_	0	root	_	_
+6	rock	_	NN	NN	_	5	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	rowdy	_	JJ	JJ	_	5	amod	_	_
+5	group	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	they	_	PRP	PRP	_	8	nsubj	_	_
+8	let	_	VBP	VBP	_	2	conj	_	_
+9	us	_	PRP	PRP	_	11	nsubj	_	_
+10	party	_	NN	NN	_	11	npadvmod	_	_
+11	hard	_	JJ	JJ	_	8	xcomp	_	_
+12	-	_	:	:	_	0	erased	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	only	_	JJ	JJ	_	15	amod	_	_
+15	rule	_	NN	NN	_	18	nsubj	_	_
+16	was	_	VBD	VBD	_	18	cop	_	_
+17	no	_	DT	DT	_	18	neg	_	_
+18	smoking	_	NN	NN	_	2	parataxis	_	_
+19	inside	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	bus	_	NN	NN	_	19	pobj	_	_
+22	,	_	,	,	_	0	erased	_	_
+23	which	_	WDT	WDT	_	25	dobj	_	_
+24	everyone	_	NN	NN	_	25	nsubj	_	_
+25	appreciated	_	VBD	VBD	_	21	rcmod	_	_
+26	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	an	_	DT	DT	_	6	det	_	_
+4	excellent	_	JJ	JJ	_	6	amod	_	_
+5	video/music	_	JJ	JJ	_	6	amod	_	_
+6	playlist	_	NN	NN	_	2	nsubj	_	_
+7	that	_	WDT	WDT	_	8	nsubj	_	_
+8	kept	_	VBD	VBD	_	6	rcmod	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	energy	_	NN	NN	_	11	nsubj	_	_
+11	high	_	JJ	JJ	_	8	xcomp	_	_
+12	.	_	.	.	_	0	erased	_	_
+

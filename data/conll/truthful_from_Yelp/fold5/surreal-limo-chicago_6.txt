@@ -1,0 +1,59 @@
+1	Loved	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	bus	_	NN	NN	_	4	nn	_	_
+4	rental	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	driver	_	NN	NN	_	8	nsubj	_	_
+3	was	_	VBD	VBD	_	8	cop	_	_
+4	amazing	_	JJ	JJ	_	8	amod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	soooo	_	JJ	JJ	_	4	conj	_	_
+7	much	_	JJ	JJ	_	8	amod	_	_
+8	fun	_	NN	NN	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	complete	_	JJ	JJ	_	3	amod	_	_
+3	party	_	NN	NN	_	0	root	_	_
+4	on	_	IN	IN	_	3	prep	_	_
+5	wheels	_	NNS	NNS	_	4	pobj	_	_
+6	without	_	IN	IN	_	3	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	cleaning	_	NN	NN	_	6	pobj	_	_
+9	after	_	IN	IN	_	6	prep	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	music	_	NN	NN	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	atmosphere	_	NN	NN	_	2	conj	_	_
+5	was	_	VBD	VBD	_	7	cop	_	_
+6	beyond	_	IN	IN	_	7	advmod	_	_
+7	great	_	JJ	JJ	_	0	root	_	_
+8	!	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	recommend	_	VB	VB	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	rent	_	VB	VB	_	2	conj	_	_
+5	again	_	RB	RB	_	2	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Definitely	_	RB	RB	_	4	advmod	_	_
+2	CAN	_	NNP	NNP	_	3	nn	_	_
+3	NOT	_	NNP	NNP	_	4	nsubj	_	_
+4	beat	_	VBD	VBD	_	14	ccomp	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	price	_	NN	NN	_	4	dobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	some	_	DT	DT	_	9	det	_	_
+9	companies	_	NNS	NNS	_	14	nsubj	_	_
+10	out	_	RB	RB	_	11	advmod	_	_
+11	there	_	RB	RB	_	14	advmod	_	_
+12	are	_	VBP	VBP	_	14	cop	_	_
+13	just	_	RB	RB	_	14	advmod	_	_
+14	ridiculous	_	JJ	JJ	_	0	root	_	_
+15	!	_	.	.	_	0	erased	_	_
+

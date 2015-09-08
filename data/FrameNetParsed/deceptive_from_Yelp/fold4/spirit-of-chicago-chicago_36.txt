@@ -1,0 +1,2 @@
+{"frames":[],"tokens":["Beautiful","!"]}
+{"frames":[{"target":{"name":"Intentionally_act","spans":[{"start":2,"end":3,"text":"Do"}]},"annotationSets":[{"rank":0,"score":62.22069646464531,"frameElements":[{"name":"Agent","spans":[{"start":3,"end":4,"text":"it"}]}]}]}],"tokens":["Fun","!","Do","it"]}

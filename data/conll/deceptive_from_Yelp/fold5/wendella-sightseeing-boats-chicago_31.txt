@@ -1,0 +1,42 @@
+1	it	_	PRP	PRP	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	my	_	PRP$	PRP$	_	5	poss	_	_
+4	first	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	0	root	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	river	_	NN	NN	_	8	nn	_	_
+8	tour.my	_	NN	NN	_	6	pobj	_	_
+
+1	friends	_	NNS	NNS	_	4	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	i	_	FW	FW	_	1	conj	_	_
+4	had	_	VBD	VBD	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	time	_	NN	NN	_	4	dobj	_	_
+8	on	_	IN	IN	_	7	prep	_	_
+9	wondella	_	NN	NN	_	10	nn	_	_
+10	tour	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	we	_	PRP	PRP	_	2	nsubj	_	_
+2	chose	_	VBD	VBD	_	0	root	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	door	_	NN	NN	_	5	nn	_	_
+5	seating	_	NN	NN	_	2	dobj	_	_
+6	that	_	IN	IN	_	11	mark	_	_
+7	good	_	JJ	JJ	_	8	amod	_	_
+8	forkeep	_	NN	NN	_	11	nsubj	_	_
+9	doing	_	VBG	VBG	_	8	vmod	_	_
+10	is	_	VBZ	VBZ	_	11	aux	_	_
+11	looking	_	VBG	VBG	_	2	ccomp	_	_
+12	up	_	RP	RP	_	11	prt	_	_
+13	and	_	CC	CC	_	11	cc	_	_
+14	taking	_	VBG	VBG	_	11	conj	_	_
+15	pictures	_	NNS	NNS	_	14	dobj	_	_
+16	of	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	19	det	_	_
+18	awesome	_	JJ	JJ	_	19	amod	_	_
+19	structures	_	NNS	NNS	_	16	pobj	_	_
+20	.	_	.	.	_	0	erased	_	_
+

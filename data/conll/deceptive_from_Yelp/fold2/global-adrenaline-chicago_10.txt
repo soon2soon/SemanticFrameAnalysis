@@ -1,0 +1,18 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	really	_	RB	RB	_	5	advmod	_	_
+5	bad	_	JJ	JJ	_	6	amod	_	_
+6	experience	_	NN	NN	_	2	dobj	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	this	_	DT	DT	_	9	det	_	_
+9	company	_	NN	NN	_	7	pobj	_	_
+10	!	_	.	.	_	0	erased	_	_
+
+1	High	_	JJ	JJ	_	2	amod	_	_
+2	prices	_	NNS	NNS	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	extremely	_	RB	RB	_	5	advmod	_	_
+5	unreliable	_	JJ	JJ	_	2	conj	_	_
+6	!	_	.	.	_	0	erased	_	_
+

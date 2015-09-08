@@ -1,0 +1,81 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	stay	_	NN	NN	_	1	dobj	_	_
+5	at	_	IN	IN	_	4	prep	_	_
+6	this	_	DT	DT	_	7	det	_	_
+7	place	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Complimentary	_	NNP	NNP	_	2	nsubj	_	_
+2	drinks	_	VBZ	VBZ	_	0	root	_	_
+3	downstairs	_	NNS	NNS	_	2	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	water	_	NN	NN	_	3	conj	_	_
+6	in	_	IN	IN	_	2	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	room	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	VB	VB	_	0	root	_	_
+2	spacious	_	JJ	JJ	_	3	amod	_	_
+3	rooms	_	NNS	NNS	_	1	dobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	comfortable	_	JJ	JJ	_	6	amod	_	_
+6	beds	_	NNS	NNS	_	3	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bathroom	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	huge	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	bathtub	_	NN	NN	_	5	pobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	shower	_	NN	NN	_	7	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Towels	_	NNS	NNS	_	0	root	_	_
+2	that	_	WDT	WDT	_	5	nsubj	_	_
+3	are	_	VBP	VBP	_	5	cop	_	_
+4	actually	_	RB	RB	_	5	advmod	_	_
+5	big	_	JJ	JJ	_	1	rcmod	_	_
+6	enough	_	RB	RB	_	5	advmod	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	dry	_	VB	VB	_	5	xcomp	_	_
+9	yourself	_	PRP	PRP	_	8	dobj	_	_
+10	with	_	IN	IN	_	8	prep	_	_
+11	!	_	.	.	_	0	erased	_	_
+
+1	Motor	_	NNP	NNP	_	2	nsubj	_	_
+2	operated	_	VBD	VBD	_	0	root	_	_
+3	window	_	NN	NN	_	4	nn	_	_
+4	shades	_	NNS	NNS	_	2	dobj	_	_
+5	with	_	IN	IN	_	2	prep	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	view	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	jacuzzi	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	pool	_	NN	NN	_	2	conj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	great	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	they	_	PRP	PRP	_	9	nsubj	_	_
+9	have	_	VBP	VBP	_	6	conj	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	great	_	JJ	JJ	_	13	amod	_	_
+12	fitness	_	NN	NN	_	13	nn	_	_
+13	center	_	NN	NN	_	9	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+

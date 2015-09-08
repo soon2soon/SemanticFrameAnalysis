@@ -1,0 +1,17 @@
+1	Impeccable	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	8	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	beautiful	_	JJ	JJ	_	7	amod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	clean	_	JJ	JJ	_	7	amod	_	_
+7	rooms	_	NNS	NNS	_	2	conj	_	_
+8	says	_	VBZ	VBZ	_	0	root	_	_
+9	it	_	PRP	PRP	_	8	dobj	_	_
+10	all	_	DT	DT	_	11	dep	_	_
+11	for	_	IN	IN	_	8	prep	_	_
+12	us	_	PRP	PRP	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	:	_	NNP	NNP	_	0	erased	_	_
+2	-RRB-	_	NNP	NNP	_	0	erased	_	_
+

@@ -1,0 +1,69 @@
+1	Found	_	VBN	VBN	_	6	csubj	_	_
+2	this	_	DT	DT	_	1	iobj	_	_
+3	on	_	IN	IN	_	2	prep	_	_
+4	hotels	_	NNS	NNS	_	3	pobj	_	_
+5	tonight	_	NN	NN	_	1	dobj	_	_
+6	app	_	VBP	VBP	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Wow	_	UH	UH	_	3	discourse	_	_
+2	!	_	.	.	_	0	erased	_	_
+3	Did	_	VB	VB	_	0	root	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	luck	_	VB	VB	_	3	ccomp	_	_
+6	out	_	RP	RP	_	5	prt	_	_
+7	!!	_	CD	CD	_	8	number	_	_
+8	5	_	CD	CD	_	9	num	_	_
+9	rooms	_	NNS	NNS	_	5	dobj	_	_
+10	on	_	IN	IN	_	9	prep	_	_
+11	each	_	DT	DT	_	12	det	_	_
+12	floor	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Quiet	_	VB	VB	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	Bathroom	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	really	_	RB	RB	_	4	advmod	_	_
+4	delux	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	could	_	MD	MD	_	3	aux	_	_
+3	live	_	VB	VB	_	0	root	_	_
+4	here-lol	_	NN	NN	_	3	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Ca	_	MD	MD	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	wait	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	return	_	VB	VB	_	3	xcomp	_	_
+6	when	_	WRB	WRB	_	11	advmod	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	rooftop	_	NN	NN	_	9	nn	_	_
+9	bar	_	NN	NN	_	11	nsubj	_	_
+10	is	_	VBZ	VBZ	_	11	cop	_	_
+11	open	_	JJ	JJ	_	5	advcl	_	_
+12	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+13	seasonal	_	JJ	JJ	_	11	dep	_	_
+14	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Make	_	VB	VB	_	0	root	_	_
+2	sure	_	JJ	JJ	_	1	acomp	_	_
+3	you	_	PRP	PRP	_	12	nsubj	_	_
+4	have	_	VBP	VBP	_	12	aux	_	_
+5	dinner	_	NN	NN	_	12	dobj	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	Tre	_	NNP	NNP	_	8	nn	_	_
+8	Soldi	_	NNP	NNP	_	6	pobj	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	Ohio	_	NNP	NNP	_	9	pobj	_	_
+11	directly	_	RB	RB	_	12	advmod	_	_
+12	b/h	_	VBN	VBN	_	2	ccomp	_	_
+13	The	_	DT	DT	_	14	det	_	_
+14	Ivy	_	NNP	NNP	_	12	dobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+

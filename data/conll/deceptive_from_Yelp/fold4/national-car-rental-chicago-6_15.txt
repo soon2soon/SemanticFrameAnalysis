@@ -1,0 +1,25 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	needed	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	car	_	NN	NN	_	2	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	go	_	VB	VB	_	4	vmod	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	Detroit	_	NNP	NNP	_	7	pobj	_	_
+9	at	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	last	_	JJ	JJ	_	12	amod	_	_
+12	minute	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	National	_	NNP	NNP	_	2	nsubj	_	_
+2	made	_	VBD	VBD	_	0	root	_	_
+3	it	_	PRP	PRP	_	5	nsubj	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	simple	_	JJ	JJ	_	2	xcomp	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	great	_	JJ	JJ	_	9	amod	_	_
+9	price	_	NN	NN	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+

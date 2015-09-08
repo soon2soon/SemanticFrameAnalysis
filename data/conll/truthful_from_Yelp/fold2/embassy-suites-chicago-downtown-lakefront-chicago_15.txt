@@ -1,0 +1,22 @@
+1	Staff	_	NNP	NNP	_	5	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Hotel	_	NNP	NNP	_	1	conj	_	_
+4	were	_	VBD	VBD	_	5	cop	_	_
+5	amazing	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	return	_	VB	VB	_	12	advcl	_	_
+4	back	_	RP	RP	_	3	prt	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	I	_	PRP	PRP	_	12	nsubj	_	_
+9	will	_	MD	MD	_	12	aux	_	_
+10	definitely	_	RB	RB	_	12	advmod	_	_
+11	be	_	VB	VB	_	12	aux	_	_
+12	staying	_	VBG	VBG	_	0	root	_	_
+13	there	_	RB	RB	_	12	advmod	_	_
+14	.	_	.	.	_	0	erased	_	_
+

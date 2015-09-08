@@ -1,0 +1,34 @@
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	cater	_	VBP	VBP	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	your	_	PRP$	PRP$	_	3	pobj	_	_
+5	every	_	DT	DT	_	6	det	_	_
+6	need	_	NN	NN	_	2	dobj	_	_
+7	it	_	PRP	PRP	_	9	nsubj	_	_
+8	's	_	VBZ	VBZ	_	9	aux	_	_
+9	like	_	VB	VB	_	6	rcmod	_	_
+10	being	_	VBG	VBG	_	11	auxpass	_	_
+11	held	_	VBN	VBN	_	9	dep	_	_
+12	in	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	nook	_	NN	NN	_	12	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	your	_	PRP$	PRP$	_	17	poss	_	_
+17	mother	_	NN	NN	_	19	poss	_	_
+18	's	_	POS	POS	_	17	possessive	_	_
+19	arms	_	NNS	NNS	_	15	pobj	_	_
+20	why	_	WRB	WRB	_	25	advmod	_	_
+21	on	_	IN	IN	_	20	prep	_	_
+22	earth	_	NN	NN	_	21	pobj	_	_
+23	would	_	MD	MD	_	25	aux	_	_
+24	you	_	PRP	PRP	_	25	nsubj	_	_
+25	stay	_	VB	VB	_	11	parataxis	_	_
+26	anywhere	_	RB	RB	_	27	advmod	_	_
+27	else	_	RB	RB	_	25	dobj	_	_
+28	.	_	.	.	_	0	erased	_	_
+
+1	James	_	NNP	NNP	_	4	nn	_	_
+2	J	_	NNP	NNP	_	4	nn	_	_
+3	Boyle	_	NNP	NNP	_	4	nn	_	_
+4	IV	_	NNP	NNP	_	0	root	_	_
+

@@ -1,0 +1,96 @@
+1	Love	_	VB	VB	_	0	root	_	_
+2	this	_	DT	DT	_	3	det	_	_
+3	place	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	In	_	IN	IN	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	heart	_	NN	NN	_	1	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	downtown	_	JJ	JJ	_	6	amod	_	_
+6	Chicago	_	NNP	NNP	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Shopping	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	restaurants	_	NNS	NNS	_	1	conj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	entertainment	_	NN	NN	_	1	conj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	1	cc	_	_
+8	bars	_	NNS	NNS	_	1	conj	_	_
+9	all	_	RB	RB	_	1	dep	_	_
+10	within	_	IN	IN	_	1	prep	_	_
+11	walking	_	NN	NN	_	12	nn	_	_
+12	distance	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	using	_	VBG	VBG	_	2	xcomp	_	_
+4	rewards	_	NNS	NNS	_	5	nn	_	_
+5	points	_	NNS	NNS	_	3	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	so	_	IN	IN	_	2	dep	_	_
+8	prices	_	NNS	NNS	_	12	nsubj	_	_
+9	were	_	VBD	VBD	_	12	cop	_	_
+10	not	_	RB	RB	_	12	neg	_	_
+11	an	_	DT	DT	_	12	det	_	_
+12	issue	_	NN	NN	_	2	parataxis	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	nice	_	JJ	JJ	_	5	amod	_	_
+5	bar	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	restaurant	_	NN	NN	_	8	nn	_	_
+8	area	_	NN	NN	_	5	conj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	watch	_	VB	VB	_	5	vmod	_	_
+11	games	_	NNS	NNS	_	10	dobj	_	_
+12	or	_	CC	CC	_	10	cc	_	_
+13	wait	_	VB	VB	_	10	conj	_	_
+14	for	_	IN	IN	_	13	prep	_	_
+15	your	_	PRP$	PRP$	_	16	poss	_	_
+16	room	_	NN	NN	_	14	pobj	_	_
+17	to	_	TO	TO	_	19	aux	_	_
+18	be	_	VB	VB	_	19	cop	_	_
+19	ready	_	JJ	JJ	_	16	vmod	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	Free	_	NNP	NNP	_	2	nn	_	_
+2	wi-fi	_	NNP	NNP	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	Starbucks	_	NNPS	NNPS	_	2	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	clean	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	staff	_	NN	NN	_	9	nsubj	_	_
+7	is	_	VBZ	VBZ	_	9	cop	_	_
+8	very	_	RB	RB	_	9	advmod	_	_
+9	attentive	_	JJ	JJ	_	3	conj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	helpful	_	JJ	JJ	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	2	nsubj	_	_
+2	stay	_	VBP	VBP	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	more	_	RBR	RBR	_	5	advmod	_	_
+5	than	_	IN	IN	_	8	advmod	_	_
+6	likely	_	RB	RB	_	5	advmod	_	_
+7	will	_	MD	MD	_	8	aux	_	_
+8	be	_	VB	VB	_	2	conj	_	_
+9	back	_	RB	RB	_	8	advmod	_	_
+10	in	_	IN	IN	_	8	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	future	_	NN	NN	_	10	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+

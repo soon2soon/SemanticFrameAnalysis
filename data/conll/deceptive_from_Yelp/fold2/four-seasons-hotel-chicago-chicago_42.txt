@@ -1,0 +1,20 @@
+1	Amazing	_	NNP	NNP	_	2	nsubj	_	_
+2	place	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	5	det	_	_
+2	best	_	JJS	JJS	_	5	amod	_	_
+3	afternoon	_	NN	NN	_	5	nn	_	_
+4	tea	_	NN	NN	_	5	nn	_	_
+5	service	_	NN	NN	_	0	root	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	city	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	romantic	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	charming	_	JJ	JJ	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+

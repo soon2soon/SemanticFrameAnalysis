@@ -1,0 +1,4 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	Best	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

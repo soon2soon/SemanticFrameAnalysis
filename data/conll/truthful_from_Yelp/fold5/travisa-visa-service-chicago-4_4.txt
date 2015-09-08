@@ -1,0 +1,55 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	worked	_	VBD	VBD	_	0	root	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	Tyler	_	NNP	NNP	_	5	nn	_	_
+5	Koenigs	_	NNP	NNP	_	3	pobj	_	_
+6	out	_	RB	RB	_	7	advmod	_	_
+7	of	_	IN	IN	_	5	prep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	get	_	VB	VB	_	2	xcomp	_	_
+11	an	_	DT	DT	_	13	det	_	_
+12	Indian	_	JJ	JJ	_	13	amod	_	_
+13	visa	_	NN	NN	_	10	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	helpful	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	polite	_	JJ	JJ	_	4	conj	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	answered	_	VBD	VBD	_	0	root	_	_
+3	all	_	DT	DT	_	2	dobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	my	_	PRP$	PRP$	_	6	poss	_	_
+6	questions	_	NNS	NNS	_	4	pobj	_	_
+7	with	_	IN	IN	_	2	prep	_	_
+8	patience	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	recommend	_	VB	VB	_	8	ccomp	_	_
+4	using	_	VBG	VBG	_	3	xcomp	_	_
+5	Travisa	_	NNP	NNP	_	4	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	used	_	VBD	VBD	_	0	root	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	FastTrack	_	NNP	NNP	_	11	nn	_	_
+11	option	_	NN	NN	_	8	dobj	_	_
+12	and	_	CC	CC	_	8	cc	_	_
+13	received	_	VBD	VBD	_	8	conj	_	_
+14	my	_	PRP$	PRP$	_	15	poss	_	_
+15	visa	_	NN	NN	_	13	dobj	_	_
+16	very	_	RB	RB	_	17	advmod	_	_
+17	quickly	_	RB	RB	_	13	advmod	_	_
+18	without	_	IN	IN	_	17	prep	_	_
+19	any	_	DT	DT	_	20	det	_	_
+20	hassle	_	NN	NN	_	18	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+

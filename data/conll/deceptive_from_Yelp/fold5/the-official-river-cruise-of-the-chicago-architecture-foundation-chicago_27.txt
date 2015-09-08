@@ -1,0 +1,34 @@
+1	As	_	IN	IN	_	4	mark	_	_
+2	earlier	_	JJR	JJR	_	3	amod	_	_
+3	reviewer	_	NN	NN	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	10	advcl	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	it	_	PRP	PRP	_	10	nsubj	_	_
+7	's	_	VBZ	VBZ	_	10	cop	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	bit	_	RB	RB	_	10	npadvmod	_	_
+10	pricey	_	JJ	JJ	_	0	root	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	but	_	CC	CC	_	10	cc	_	_
+13	well	_	RB	RB	_	14	advmod	_	_
+14	worth	_	JJ	JJ	_	10	conj	_	_
+15	it	_	PRP	PRP	_	10	dep	_	_
+16	!	_	.	.	_	0	erased	_	_
+
+1	Tour	_	JJ	JJ	_	2	amod	_	_
+2	guide	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	knowledgable	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Excellent	_	NNP	NNP	_	2	nsubj	_	_
+2	experience	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	do	_	VB	VB	_	0	root	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	again	_	RB	RB	_	2	advmod	_	_
+5	!	_	.	.	_	0	erased	_	_
+

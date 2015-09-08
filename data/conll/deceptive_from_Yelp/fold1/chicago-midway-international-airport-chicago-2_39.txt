@@ -1,0 +1,5 @@
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	tight	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

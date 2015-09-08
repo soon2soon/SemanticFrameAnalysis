@@ -1,0 +1,15 @@
+1	Outstanding	_	JJ	JJ	_	2	amod	_	_
+2	hostel	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Clean	_	JJ	JJ	_	6	amod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	secure	_	JJ	JJ	_	6	amod	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	location	_	NN	NN	_	0	root	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	friendly	_	JJ	JJ	_	9	amod	_	_
+9	staff	_	NN	NN	_	6	appos	_	_
+10	.	_	.	.	_	0	erased	_	_
+

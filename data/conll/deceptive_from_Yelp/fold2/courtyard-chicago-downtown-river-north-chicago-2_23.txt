@@ -1,0 +1,34 @@
+1	This	_	DT	DT	_	2	det	_	_
+2	hotel	_	NN	NN	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	easy	_	JJ	JJ	_	6	amod	_	_
+6	place	_	NN	NN	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	stay	_	VB	VB	_	6	vmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	room	_	NN	NN	_	3	nn	_	_
+3	rate	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	great	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	while	_	IN	IN	_	11	mark	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	hotel	_	NN	NN	_	11	nsubj	_	_
+10	is	_	VBZ	VBZ	_	11	cop	_	_
+11	older	_	JJR	JJR	_	16	advcl	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	staff	_	NN	NN	_	16	nsubj	_	_
+15	was	_	VBD	VBD	_	16	cop	_	_
+16	friendly	_	JJ	JJ	_	5	conj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	we	_	PRP	PRP	_	20	nsubj	_	_
+19	will	_	MD	MD	_	20	aux	_	_
+20	stay	_	VB	VB	_	16	conj	_	_
+21	here	_	RB	RB	_	20	advmod	_	_
+22	again	_	RB	RB	_	20	advmod	_	_
+23	.	_	.	.	_	0	erased	_	_
+

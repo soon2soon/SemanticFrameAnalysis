@@ -1,0 +1,74 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	loved	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	night	_	NN	NN	_	2	tmod	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	this	_	DT	DT	_	7	det	_	_
+7	hotel	_	NN	NN	_	5	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	booked	_	VBD	VBD	_	0	root	_	_
+3	last	_	JJ	JJ	_	4	amod	_	_
+4	minute	_	NN	NN	_	2	dobj	_	_
+5	through	_	IN	IN	_	2	prep	_	_
+6	HotelTonight	_	NNP	NNP	_	5	pobj	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	I	_	PRP	PRP	_	9	nsubj	_	_
+9	got	_	VBD	VBD	_	2	conj	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	deal	_	NN	NN	_	9	dobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	beds	_	NNS	NNS	_	5	nsubj	_	_
+3	are	_	VBP	VBP	_	5	cop	_	_
+4	super	_	JJ	JJ	_	5	amod	_	_
+5	comfy	_	NN	NN	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	there	_	EX	EX	_	8	expl	_	_
+8	's	_	VBZ	VBZ	_	5	dep	_	_
+9	is	_	VBZ	VBZ	_	8	dep	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	beautiful	_	JJ	JJ	_	13	amod	_	_
+12	rooftop	_	NN	NN	_	13	nn	_	_
+13	bar	_	NN	NN	_	9	nsubj	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	and	_	CC	CC	_	5	cc	_	_
+16	a	_	DT	DT	_	20	det	_	_
+17	cute	_	JJ	JJ	_	18	amod	_	_
+18	little	_	JJ	JJ	_	20	amod	_	_
+19	coffee	_	NN	NN	_	20	nn	_	_
+20	shop	_	NN	NN	_	21	nsubj	_	_
+21	downstairs	_	VBZ	VBZ	_	5	conj	_	_
+22	that	_	IN	IN	_	24	mark	_	_
+23	also	_	RB	RB	_	24	advmod	_	_
+24	serves	_	VBZ	VBZ	_	21	ccomp	_	_
+25	beer	_	NN	NN	_	24	dobj	_	_
+26	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	close	_	VB	VB	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	high-end	_	JJ	JJ	_	5	amod	_	_
+5	shopping	_	NN	NN	_	3	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	dining	_	NN	NN	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	this	_	DT	DT	_	4	det	_	_
+4	hotel	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	ca	_	MD	MD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	beat	_	VB	VB	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	location	_	NN	NN	_	4	dobj	_	_
+7	!	_	.	.	_	0	erased	_	_
+

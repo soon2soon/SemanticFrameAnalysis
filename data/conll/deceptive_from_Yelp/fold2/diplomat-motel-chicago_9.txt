@@ -1,0 +1,85 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	here	_	RB	RB	_	2	advmod	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	weekend	_	NN	NN	_	2	dobj	_	_
+6	as	_	IN	IN	_	2	prep	_	_
+7	part	_	NN	NN	_	6	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	a	_	DT	DT	_	12	det	_	_
+10	very	_	RB	RB	_	11	advmod	_	_
+11	large	_	JJ	JJ	_	12	amod	_	_
+12	group	_	NN	NN	_	8	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Free	_	JJ	JJ	_	2	amod	_	_
+2	coffee	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	free	_	JJ	JJ	_	5	amod	_	_
+5	parking	_	NN	NN	_	2	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	super	_	JJ	JJ	_	9	amod	_	_
+8	friendly	_	JJ	JJ	_	9	amod	_	_
+9	staff	_	NN	NN	_	5	appos	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	clean	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	beds	_	NNS	NNS	_	7	nsubj	_	_
+6	are	_	VBP	VBP	_	7	cop	_	_
+7	soft	_	JJ	JJ	_	3	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	put	_	VBD	VBD	_	0	root	_	_
+3	up	_	RP	RP	_	2	prt	_	_
+4	with	_	IN	IN	_	2	prep	_	_
+5	a	_	DT	DT	_	9	det	_	_
+6	huge	_	JJ	JJ	_	9	amod	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	wild	_	JJ	JJ	_	9	amod	_	_
+9	group	_	NN	NN	_	4	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	friends	_	NNS	NNS	_	10	pobj	_	_
+12	who	_	WP	WP	_	13	nsubj	_	_
+13	took	_	VBD	VBD	_	11	rcmod	_	_
+14	over	_	IN	IN	_	13	prep	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	whole	_	JJ	JJ	_	17	amod	_	_
+17	motel	_	NN	NN	_	14	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Rates	_	NNS	NNS	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	good	_	JJ	JJ	_	0	root	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	place	_	NN	NN	_	5	pobj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	middle	_	NN	NN	_	8	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	a	_	DT	DT	_	14	det	_	_
+13	big	_	JJ	JJ	_	14	amod	_	_
+14	city	_	NN	NN	_	11	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	3	aux	_	_
+2	definitely	_	NNP	NNP	_	3	nsubj	_	_
+3	come	_	VB	VB	_	0	root	_	_
+4	back	_	RP	RP	_	3	prt	_	_
+5	if	_	IN	IN	_	7	mark	_	_
+6	I	_	PRP	PRP	_	7	nsubj	_	_
+7	get	_	VBP	VBP	_	3	advcl	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	chance	_	NN	NN	_	7	dobj	_	_
+10	!	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNP	NNP	_	3	nn	_	_
+2	Diplomat	_	NNP	NNP	_	3	nn	_	_
+3	Motel	_	NNP	NNP	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

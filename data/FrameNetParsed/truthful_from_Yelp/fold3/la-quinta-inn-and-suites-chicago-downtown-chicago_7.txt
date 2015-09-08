@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Social_interaction_evaluation","spans":[{"start":1,"end":2,"text":"friendly"}]},"annotationSets":[{"rank":0,"score":27.382184962603258,"frameElements":[]}]}],"tokens":["Pet","friendly","!!"]}

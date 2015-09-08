@@ -1,0 +1,26 @@
+1	One	_	CD	CD	_	0	root	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	my	_	PRP$	PRP$	_	5	poss	_	_
+4	favorite	_	JJ	JJ	_	5	amod	_	_
+5	spots	_	NNS	NNS	_	2	pobj	_	_
+6	in	_	IN	IN	_	1	prep	_	_
+7	Chicago	_	NNP	NNP	_	6	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Unbelievable	_	VB	VB	_	0	root	_	_
+2	atmosphere	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	location	_	NN	NN	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Also	_	RB	RB	_	2	advmod	_	_
+2	perfect	_	JJ	JJ	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	grabbing	_	VBG	VBG	_	3	pcomp	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	drink	_	NN	NN	_	4	dobj	_	_
+7	before	_	IN	IN	_	4	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	night	_	NN	NN	_	7	pobj	_	_
+10	out	_	IN	IN	_	9	amod	_	_
+

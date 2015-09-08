@@ -1,0 +1,29 @@
+1	1	_	CD	CD	_	2	num	_	_
+2	hour	_	NN	NN	_	5	nsubj	_	_
+3	30	_	CD	CD	_	4	number	_	_
+4	minute	_	NN	NN	_	2	amod	_	_
+5	cruise	_	VBP	VBP	_	0	root	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	tall	_	JJ	JJ	_	8	amod	_	_
+8	ship	_	NN	NN	_	6	pobj	_	_
+9	windy	_	RB	RB	_	11	advmod	_	_
+10	out	_	IN	IN	_	11	dep	_	_
+11	from	_	IN	IN	_	5	prep	_	_
+12	navy	_	NN	NN	_	13	nn	_	_
+13	pier	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	we	_	PRP	PRP	_	8	nsubj	_	_
+8	learned	_	VBD	VBD	_	2	conj	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	lot	_	NN	NN	_	8	dobj	_	_
+11	about	_	IN	IN	_	8	prep	_	_
+12	Chicago	_	NNP	NNP	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

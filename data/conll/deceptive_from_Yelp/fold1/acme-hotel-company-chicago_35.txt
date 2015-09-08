@@ -1,0 +1,7 @@
+1	Great	_	JJ	JJ	_	3	amod	_	_
+2	unique	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	loved	_	VBN	VBN	_	3	vmod	_	_
+6	it	_	PRP	PRP	_	5	dobj	_	_
+

@@ -1,0 +1,69 @@
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	my	_	PRP$	PRP$	_	5	poss	_	_
+4	2nd	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	0	root	_	_
+6	using	_	VBG	VBG	_	5	vmod	_	_
+7	vip	_	NN	NN	_	8	nn	_	_
+8	limo	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	they	_	PRP	PRP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	best	_	JJS	JJS	_	0	root	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	time	_	NN	NN	_	3	nsubj	_	_
+3	was	_	VBD	VBD	_	0	root	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	my	_	PRP$	PRP$	_	7	poss	_	_
+6	NYE	_	NNP	NNP	_	7	nn	_	_
+7	outing	_	NN	NN	_	4	pobj	_	_
+8	with	_	IN	IN	_	3	prep	_	_
+9	friends	_	NNS	NNS	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	driver	_	NN	NN	_	4	nsubj	_	_
+3	really	_	RB	RB	_	4	advmod	_	_
+4	took	_	VBD	VBD	_	0	root	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	care	_	NN	NN	_	4	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	us	_	PRP	PRP	_	7	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	made	_	VBN	VBN	_	6	vmod	_	_
+11	sure	_	JJ	JJ	_	10	acomp	_	_
+12	he	_	PRP	PRP	_	13	nsubj	_	_
+13	got	_	VBD	VBD	_	11	ccomp	_	_
+14	us	_	PRP	PRP	_	17	nsubj	_	_
+15	everywhere	_	RB	RB	_	17	advmod	_	_
+16	we	_	PRP	PRP	_	17	nsubj	_	_
+17	wanted	_	VBD	VBD	_	13	ccomp	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	go	_	VB	VB	_	17	xcomp	_	_
+20	safely	_	RB	RB	_	19	advmod	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	continue	_	VBP	VBP	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	surpass	_	VB	VB	_	2	xcomp	_	_
+5	all	_	PDT	PDT	_	7	predet	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	expectations	_	NNS	NNS	_	4	dobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Total	_	JJ	JJ	_	2	amod	_	_
+2	pros	_	NNS	NNS	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	:-RRB-	_	NNP	NNP	_	2	nn	_	_
+2	Will	_	NNP	NNP	_	3	nsubj	_	_
+3	use	_	VBP	VBP	_	0	root	_	_
+4	yet	_	RB	RB	_	3	advmod	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+

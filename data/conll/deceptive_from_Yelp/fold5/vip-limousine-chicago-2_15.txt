@@ -1,0 +1,66 @@
+1	What	_	WP	WP	_	0	root	_	_
+2	an	_	DT	DT	_	5	det	_	_
+3	awesome	_	JJ	JJ	_	5	amod	_	_
+4	limo	_	NN	NN	_	5	nn	_	_
+5	company	_	NN	NN	_	1	dep	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Used	_	VBN	VBN	_	0	root	_	_
+2	them	_	PRP	PRP	_	1	iobj	_	_
+3	this	_	DT	DT	_	4	det	_	_
+4	weekend	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	6	cc	_	_
+2	I	_	PRP	PRP	_	6	nsubj	_	_
+3	am	_	VBP	VBP	_	6	cop	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	REAL	_	NNP	NNP	_	6	nn	_	_
+6	CRITIC	_	NNP	NNP	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	But	_	CC	CC	_	4	cc	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	must	_	MD	MD	_	4	aux	_	_
+4	say	_	VB	VB	_	0	root	_	_
+5	I	_	PRP	PRP	_	9	nsubj	_	_
+6	really	_	RB	RB	_	9	advmod	_	_
+7	ca	_	MD	MD	_	9	aux	_	_
+8	n't	_	RB	RB	_	9	neg	_	_
+9	find	_	VB	VB	_	4	ccomp	_	_
+10	anything	_	NN	NN	_	9	dobj	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	pick	_	VB	VB	_	9	vmod	_	_
+13	on	_	IN	IN	_	12	prep	_	_
+14	them	_	PRP	PRP	_	13	pobj	_	_
+15	about	_	IN	IN	_	12	prep	_	_
+16	!	_	.	.	_	0	erased	_	_
+
+1	Maybe	_	RB	RB	_	5	advmod	_	_
+2	wish	_	NN	NN	_	3	nn	_	_
+3	limos	_	NNS	NNS	_	5	nsubj	_	_
+4	were	_	VBD	VBD	_	5	cop	_	_
+5	cheaper	_	JJR	JJR	_	0	root	_	_
+6	so	_	IN	IN	_	9	mark	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	could	_	MD	MD	_	9	aux	_	_
+9	use	_	VB	VB	_	5	ccomp	_	_
+10	them	_	PRP	PRP	_	9	dobj	_	_
+11	every	_	DT	DT	_	12	det	_	_
+12	day	_	NN	NN	_	9	tmod	_	_
+13	?	_	.	.	_	0	erased	_	_
+
+1	lol	_	RB	RB	_	12	ccomp	_	_
+2	But	_	CC	CC	_	1	cc	_	_
+3	in	_	IN	IN	_	1	conj	_	_
+4	all	_	DT	DT	_	5	det	_	_
+5	seriousness	_	NN	NN	_	3	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	I	_	PRP	PRP	_	12	nsubj	_	_
+8	'm	_	VBP	VBP	_	12	cop	_	_
+9	now	_	RB	RB	_	12	advmod	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	huge	_	JJ	JJ	_	12	amod	_	_
+12	fan	_	NN	NN	_	0	root	_	_
+13	.	_	.	.	_	0	erased	_	_
+

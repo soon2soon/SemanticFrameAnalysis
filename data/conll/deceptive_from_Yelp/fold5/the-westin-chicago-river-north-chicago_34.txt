@@ -1,0 +1,51 @@
+1	What	_	WDT	WDT	_	0	root	_	_
+2	a	_	FW	FW	_	1	prep	_	_
+3	fantastic	_	JJ	JJ	_	4	amod	_	_
+4	place	_	NN	NN	_	2	pobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	consistant	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	definately	_	JJ	JJ	_	5	conj	_	_
+8	on	_	IN	IN	_	5	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	ball	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	what	_	WP	WP	_	4	nsubj	_	_
+4	makes	_	VBZ	VBZ	_	2	ccomp	_	_
+5	that	_	DT	DT	_	6	det	_	_
+6	hotel	_	NN	NN	_	7	nsubj	_	_
+7	great	_	JJ	JJ	_	4	xcomp	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	That	_	DT	DT	_	16	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	views	_	NNS	NNS	_	1	conj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	food	_	NN	NN	_	4	appos	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	room	_	NN	NN	_	7	dep	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	etc.	_	FW	FW	_	4	appos	_	_
+12	.	_	.	.	_	0	erased	_	_
+13	.	_	.	.	_	0	erased	_	_
+14	I	_	PRP	PRP	_	16	nsubj	_	_
+15	would	_	MD	MD	_	16	aux	_	_
+16	recomend	_	VB	VB	_	0	root	_	_
+17	this	_	DT	DT	_	18	det	_	_
+18	place	_	NN	NN	_	16	dobj	_	_
+19	to	_	TO	TO	_	16	prep	_	_
+20	everyone	_	NN	NN	_	19	pobj	_	_
+21	I	_	PRP	PRP	_	22	nsubj	_	_
+22	meet	_	VBP	VBP	_	20	rcmod	_	_
+23	.	_	.	.	_	0	erased	_	_
+

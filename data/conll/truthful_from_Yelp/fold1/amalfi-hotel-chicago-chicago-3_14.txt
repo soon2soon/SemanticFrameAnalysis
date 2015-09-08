@@ -1,0 +1,29 @@
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	picky	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	hotels	_	NNS	NNS	_	5	pobj	_	_
+7	but	_	CC	CC	_	4	cc	_	_
+8	this	_	DT	DT	_	9	det	_	_
+9	one	_	NN	NN	_	10	nsubj	_	_
+10	meets	_	VBZ	VBZ	_	4	conj	_	_
+11	my	_	PRP$	PRP$	_	12	poss	_	_
+12	mark	_	NN	NN	_	10	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	9	nsubj	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	friendly	_	JJ	JJ	_	1	conj	_	_
+4	and	_	CC	CC	_	1	cc	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	corner	_	NN	NN	_	7	nn	_	_
+7	rooms	_	NNS	NNS	_	1	conj	_	_
+8	are	_	VBP	VBP	_	9	cop	_	_
+9	great	_	JJ	JJ	_	0	root	_	_
+10	!	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+

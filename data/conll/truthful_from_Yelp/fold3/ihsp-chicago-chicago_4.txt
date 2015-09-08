@@ -1,0 +1,36 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	came	_	VBD	VBD	_	0	root	_	_
+3	here	_	RB	RB	_	2	advmod	_	_
+4	alone	_	RB	RB	_	5	advmod	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	May	_	NNP	NNP	_	5	pobj	_	_
+7	2014	_	CD	CD	_	6	num	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	have	_	VBP	VBP	_	11	aux	_	_
+11	returned	_	VBN	VBN	_	2	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	always	_	RB	RB	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	always	_	RB	RB	_	4	advmod	_	_
+4	nice	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	helpful	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	recommend	_	VB	VB	_	0	root	_	_
+3	staying	_	VBG	VBG	_	2	xcomp	_	_
+4	here	_	RB	RB	_	7	advmod	_	_
+5	many	_	JJ	JJ	_	7	amod	_	_
+6	more	_	JJR	JJR	_	7	amod	_	_
+7	times	_	NNS	NNS	_	3	dobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

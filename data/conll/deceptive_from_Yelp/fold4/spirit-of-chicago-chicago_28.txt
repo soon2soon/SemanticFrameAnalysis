@@ -1,0 +1,96 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	8	det	_	_
+4	surprise	_	JJ	JJ	_	8	amod	_	_
+5	40th	_	JJ	JJ	_	8	amod	_	_
+6	birthday	_	NN	NN	_	8	nn	_	_
+7	luncheon	_	NN	NN	_	8	nn	_	_
+8	cruise	_	NN	NN	_	2	dobj	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	my	_	PRP$	PRP$	_	11	poss	_	_
+11	husband	_	NN	NN	_	9	pobj	_	_
+12	on	_	IN	IN	_	2	prep	_	_
+13	April	_	NNP	NNP	_	12	pobj	_	_
+14	14	_	CD	CD	_	13	num	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	2012	_	CD	CD	_	13	num	_	_
+17	on	_	IN	IN	_	13	prep	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	Spirit	_	NN	NN	_	17	pobj	_	_
+20	of	_	IN	IN	_	19	prep	_	_
+21	Chicago	_	NNP	NNP	_	20	pobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cruise	_	NN	NN	_	3	nsubj	_	_
+3	boarded	_	VBD	VBD	_	17	ccomp	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	departed	_	VBD	VBD	_	3	conj	_	_
+6	on	_	IN	IN	_	3	prep	_	_
+7	time	_	NN	NN	_	6	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	crew	_	NN	NN	_	17	nsubj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	manager	_	NN	NN	_	10	conj	_	_
+13	of	_	IN	IN	_	10	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	ship	_	NN	NN	_	13	pobj	_	_
+16	were	_	VBD	VBD	_	17	cop	_	_
+17	great	_	JJ	JJ	_	0	root	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	customer	_	NN	NN	_	3	nn	_	_
+3	service	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	excellent	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	entertainment	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	fun	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	party	_	NN	NN	_	12	nsubj	_	_
+9	was	_	VBD	VBD	_	12	cop	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	success	_	NN	NN	_	2	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	this	_	DT	DT	_	4	det	_	_
+4	cruise	_	NN	NN	_	2	dobj	_	_
+5	to	_	TO	TO	_	2	prep	_	_
+6	anyone	_	NN	NN	_	5	pobj	_	_
+7	looking	_	VBG	VBG	_	6	vmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	have	_	VB	VB	_	7	xcomp	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	time	_	NN	NN	_	9	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	be	_	VB	VB	_	4	aux	_	_
+4	cruising	_	VBG	VBG	_	0	root	_	_
+5	again	_	RB	RB	_	4	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+

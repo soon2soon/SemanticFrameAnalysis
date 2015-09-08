@@ -1,0 +1,29 @@
+1	Perfect	_	NNP	NNP	_	2	nn	_	_
+2	way	_	NN	NN	_	4	nsubj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	get	_	VB	VB	_	0	root	_	_
+5	around	_	RP	RP	_	4	prt	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	city	_	NN	NN	_	4	dobj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	learn	_	VB	VB	_	4	conj	_	_
+10	its	_	PRP$	PRP$	_	11	poss	_	_
+11	history	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Clair	_	NNP	NNP	_	6	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Bruce	_	NNP	NNP	_	1	conj	_	_
+4	were	_	VBD	VBD	_	6	cop	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	guides	_	NNS	NNS	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	something	_	NN	NN	_	0	root	_	_
+3	to	_	TO	TO	_	5	aux	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	miss	_	VB	VB	_	2	vmod	_	_
+6	out	_	RP	RP	_	5	prt	_	_
+7	.	_	.	.	_	0	erased	_	_
+

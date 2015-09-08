@@ -1,0 +1,53 @@
+1	Amazing	_	JJ	JJ	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	As	_	RB	RB	_	2	advmod	_	_
+2	soon	_	RB	RB	_	9	advmod	_	_
+3	as	_	IN	IN	_	5	mark	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	walked	_	VBD	VBD	_	2	ccomp	_	_
+6	in	_	RP	RP	_	5	prt	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	excited	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	view	_	NN	NN	_	2	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	comfy	_	JJ	JJ	_	9	amod	_	_
+9	beds	_	NNS	NNS	_	5	appos	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	nice	_	JJ	JJ	_	12	amod	_	_
+12	bathroom	_	NN	NN	_	5	appos	_	_
+13	,	_	,	,	_	0	erased	_	_
+14	but	_	CC	CC	_	2	cc	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	rooms	_	NNS	NNS	_	18	nsubj	_	_
+17	were	_	VBD	VBD	_	18	cop	_	_
+18	gorgeous	_	JJ	JJ	_	2	conj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	personal	_	JJ	JJ	_	5	amod	_	_
+5	lounge	_	NN	NN	_	2	nsubj	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	corner	_	NN	NN	_	9	nn	_	_
+9	couch	_	NN	NN	_	6	pobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	footrest	_	NN	NN	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Id	_	NN	NN	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	this	_	DT	DT	_	2	dobj	_	_
+4	to	_	TO	TO	_	2	prep	_	_
+5	anyone	_	NN	NN	_	4	pobj	_	_
+

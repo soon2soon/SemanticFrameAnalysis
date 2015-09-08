@@ -1,0 +1,39 @@
+1	Seriously	_	RB	RB	_	2	advmod	_	_
+2	perfect	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Tree	_	NNP	NNP	_	2	nsubj	_	_
+2	lined	_	VBD	VBD	_	0	root	_	_
+3	street	_	NN	NN	_	2	dobj	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	nice	_	JJ	JJ	_	7	amod	_	_
+7	neighborhood	_	NN	NN	_	4	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	clean	_	JJ	JJ	_	13	amod	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	modern	_	JJ	JJ	_	13	amod	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	full	_	JJ	JJ	_	7	amod	_	_
+14	of	_	IN	IN	_	7	prep	_	_
+15	nice	_	JJ	JJ	_	16	amod	_	_
+16	staff	_	NN	NN	_	14	pobj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	friendly	_	JJ	JJ	_	19	amod	_	_
+19	travelers	_	NNS	NNS	_	16	conj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	feel	_	VBP	VBP	_	0	root	_	_
+3	like	_	IN	IN	_	6	mark	_	_
+4	I	_	PRP	PRP	_	6	nsubj	_	_
+5	am	_	VBP	VBP	_	6	aux	_	_
+6	living	_	VBG	VBG	_	2	advcl	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	when	_	WRB	WRB	_	11	advmod	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	stay	_	VBP	VBP	_	6	advcl	_	_
+12	there	_	RB	RB	_	11	advmod	_	_
+13	.	_	.	.	_	0	erased	_	_
+

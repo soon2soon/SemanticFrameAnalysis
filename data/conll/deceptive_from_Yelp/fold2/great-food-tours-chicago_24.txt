@@ -1,0 +1,39 @@
+1	Seth	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	awesome	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	took	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	tour	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Please	_	VB	VB	_	3	discourse	_	_
+2	be	_	VB	VB	_	3	auxpass	_	_
+3	advised	_	VBN	VBN	_	6	ccomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	they	_	PRP	PRP	_	6	nsubj	_	_
+6	walk	_	VBP	VBP	_	0	root	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	few	_	JJ	JJ	_	9	amod	_	_
+9	miles	_	NNS	NNS	_	6	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	All	_	PDT	PDT	_	3	predet	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	stops	_	NNS	NNS	_	5	nsubj	_	_
+4	were	_	VBD	VBD	_	5	cop	_	_
+5	great	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	Seth	_	NNP	NNP	_	8	nsubj	_	_
+8	had	_	VBD	VBD	_	5	conj	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	lot	_	NN	NN	_	8	dobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	education	_	NN	NN	_	11	pobj	_	_
+13	about	_	IN	IN	_	8	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	city	_	NN	NN	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+

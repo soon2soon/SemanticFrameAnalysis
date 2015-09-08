@@ -1,0 +1,34 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	comfortable	_	JJ	JJ	_	10	amod	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	full	_	JJ	JJ	_	2	conj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	character	_	NN	NN	_	6	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	hotel	_	NN	NN	_	10	nn	_	_
+10	wonderful	_	NNS	NNS	_	11	nsubj	_	_
+11	stay	_	VBP	VBP	_	0	root	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	room	_	NN	NN	_	16	nsubj	_	_
+15	was	_	VBD	VBD	_	16	cop	_	_
+16	great	_	JJ	JJ	_	11	dep	_	_
+17	,	_	,	,	_	0	erased	_	_
+18	and	_	CC	CC	_	11	cc	_	_
+19	it	_	PRP	PRP	_	20	nsubj	_	_
+20	was	_	VBD	VBD	_	11	conj	_	_
+21	in	_	IN	IN	_	20	prep	_	_
+22	a	_	DT	DT	_	24	det	_	_
+23	fantastic	_	JJ	JJ	_	24	amod	_	_
+24	location	_	NN	NN	_	21	pobj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	stay	_	VB	VB	_	0	root	_	_
+5	here	_	RB	RB	_	4	advmod	_	_
+6	again	_	RB	RB	_	4	advmod	_	_
+7	.	_	.	.	_	0	erased	_	_
+

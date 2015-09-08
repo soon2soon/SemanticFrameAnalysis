@@ -1,0 +1,65 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	no	_	DT	DT	_	4	neg	_	_
+4	problems	_	NNS	NNS	_	2	dobj	_	_
+5	during	_	IN	IN	_	4	prep	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	stay	_	NN	NN	_	5	pobj	_	_
+8	at	_	IN	IN	_	2	prep	_	_
+9	the	_	DT	DT	_	12	det	_	_
+10	Central	_	NNP	NNP	_	12	nn	_	_
+11	Loop	_	NNP	NNP	_	12	nn	_	_
+12	Hotel	_	NNP	NNP	_	8	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Although	_	IN	IN	_	5	mark	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	rooms	_	NNS	NNS	_	5	nsubj	_	_
+4	are	_	VBP	VBP	_	5	cop	_	_
+5	small	_	JJ	JJ	_	8	advcl	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	it	_	PRP	PRP	_	8	nsubj	_	_
+8	offered	_	VBD	VBD	_	0	root	_	_
+9	everything	_	NN	NN	_	8	dobj	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	needed	_	VBD	VBD	_	9	rcmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Free	_	NNP	NNP	_	2	nn	_	_
+2	Wifi	_	NNP	NNP	_	11	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	TV	_	NN	NN	_	2	appos	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	clean	_	JJ	JJ	_	7	amod	_	_
+7	bed	_	NN	NN	_	4	conj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	bath	_	NN	NN	_	4	conj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	etc.	_	VBZ	VBZ	_	0	root	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	However	_	RB	RB	_	4	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	what	_	WDT	WDT	_	4	nsubj	_	_
+4	blew	_	VBD	VBD	_	0	root	_	_
+5	me	_	PRP	PRP	_	7	nsubj	_	_
+6	away	_	RB	RB	_	7	advmod	_	_
+7	was	_	VBD	VBD	_	4	ccomp	_	_
+8	how	_	WRB	WRB	_	14	advmod	_	_
+9	friendly	_	JJ	JJ	_	13	amod	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	attentive	_	JJ	JJ	_	9	conj	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	staff	_	NN	NN	_	14	nsubj	_	_
+14	were	_	VBD	VBD	_	7	ccomp	_	_
+15	!	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	made	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	stay	_	NN	NN	_	2	dobj	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	Chicago	_	NNP	NNP	_	7	nn	_	_
+7	perfect	_	NNP	NNP	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

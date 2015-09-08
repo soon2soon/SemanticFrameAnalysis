@@ -1,0 +1,51 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	near	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	park	_	NN	NN	_	3	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	cab	_	NN	NN	_	3	nsubj	_	_
+3	ride	_	VBP	VBP	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	shopping	_	NN	NN	_	4	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	great	_	JJ	JJ	_	9	amod	_	_
+8	Chicago	_	NNP	NNP	_	9	nn	_	_
+9	restaurants	_	NNS	NNS	_	5	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Room	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	good	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	service	_	NN	NN	_	7	nsubj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	great	_	JJ	JJ	_	3	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Valet	_	JJ	JJ	_	2	amod	_	_
+2	parking	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	expensive	_	JJ	JJ	_	0	root	_	_
+5	at	_	IN	IN	_	4	prep	_	_
+6	$	_	$	$	_	5	pobj	_	_
+7	55	_	CD	CD	_	6	num	_	_
+8	overnight	_	RB	RB	_	4	advmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	More	_	JJR	JJR	_	0	root	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	corporate	_	JJ	JJ	_	5	amod	_	_
+5	hotel	_	NN	NN	_	2	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	bit	_	NN	NN	_	5	conj	_	_
+9	dated	_	VBN	VBN	_	1	vmod	_	_
+10	but	_	CC	CC	_	9	cc	_	_
+11	well	_	RB	RB	_	10	advmod	_	_
+12	maintained	_	VBN	VBN	_	9	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

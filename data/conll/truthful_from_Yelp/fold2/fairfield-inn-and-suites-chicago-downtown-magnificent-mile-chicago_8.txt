@@ -1,0 +1,76 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	downtown	_	NN	NN	_	2	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	walked	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	Mag	_	NNP	NNP	_	5	nn	_	_
+5	Mile	_	NNP	NNP	_	3	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	State	_	NNP	NNP	_	9	nn	_	_
+8	Street	_	NNP	NNP	_	9	nn	_	_
+9	shops	_	NNS	NNS	_	5	appos	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	Navy	_	NNP	NNP	_	12	nn	_	_
+12	Pier	_	NNP	NNP	_	9	appos	_	_
+13	for	_	IN	IN	_	2	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	fireworks	_	NNS	NNS	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Everyone	_	NN	NN	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	friendly	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	helpful	_	JJ	JJ	_	3	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	like	_	VB	VB	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	location	_	NN	NN	_	4	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	our	_	PRP$	PRP$	_	9	poss	_	_
+9	room	_	NN	NN	_	7	pobj	_	_
+10	and	_	CC	CC	_	4	cc	_	_
+11	they	_	PRP	PRP	_	15	nsubj	_	_
+12	immediately	_	RB	RB	_	15	advmod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	graciously	_	RB	RB	_	12	conj	_	_
+15	took	_	VBD	VBD	_	4	conj	_	_
+16	us	_	PRP	PRP	_	15	dobj	_	_
+17	to	_	TO	TO	_	15	prep	_	_
+18	a	_	DT	DT	_	20	det	_	_
+19	different	_	JJ	JJ	_	20	amod	_	_
+20	one	_	NN	NN	_	17	pobj	_	_
+21	which	_	WDT	WDT	_	23	nsubj	_	_
+22	was	_	VBD	VBD	_	23	cop	_	_
+23	great	_	JJ	JJ	_	20	rcmod	_	_
+24	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	clean	_	JJ	JJ	_	5	dep	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	nice	_	JJ	JJ	_	5	amod	_	_
+5	pillows	_	NNS	NNS	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Tons	_	NNS	NNS	_	0	root	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	choices	_	NNS	NNS	_	2	pobj	_	_
+4	at	_	IN	IN	_	1	prep	_	_
+5	breakfast	_	NN	NN	_	4	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	3	aux	_	_
+2	definitely	_	RB	RB	_	3	advmod	_	_
+3	stay	_	VB	VB	_	0	root	_	_
+4	here	_	RB	RB	_	3	advmod	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+

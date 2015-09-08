@@ -1,0 +1,72 @@
+1	As	_	IN	IN	_	6	prep	_	_
+2	ALWAYS	_	NNP	NNP	_	1	pobj	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	Four	_	NNP	NNP	_	5	nn	_	_
+5	Seasons	_	NNPS	NNPS	_	6	nsubj	_	_
+6	stands	_	VBZ	VBZ	_	0	root	_	_
+7	head	_	NN	NN	_	6	dobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	shoulders	_	NNS	NNS	_	7	conj	_	_
+10	above	_	IN	IN	_	6	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	competition	_	NN	NN	_	10	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	Sure	_	RB	RB	_	6	discourse	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	cheap	_	JJ	JJ	_	0	root	_	_
+7	but	_	CC	CC	_	11	cc	_	_
+8	this	_	DT	DT	_	11	nsubj	_	_
+9	is	_	VBZ	VBZ	_	11	cop	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	kind	_	NN	NN	_	6	ccomp	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	place	_	NN	NN	_	12	pobj	_	_
+14	where	_	WRB	WRB	_	16	advmod	_	_
+15	exclusivity	_	NN	NN	_	16	nsubj	_	_
+16	shines	_	VBZ	VBZ	_	11	rcmod	_	_
+17	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	concierge	_	NN	NN	_	3	nsubj	_	_
+3	hooked	_	VBD	VBD	_	0	root	_	_
+4	us	_	PRP	PRP	_	3	dobj	_	_
+5	up	_	RP	RP	_	3	prt	_	_
+6	with	_	IN	IN	_	3	prep	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	private	_	JJ	JJ	_	9	amod	_	_
+9	club	_	NN	NN	_	6	pobj	_	_
+10	atop	_	IN	IN	_	9	prep	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	highrise	_	NN	NN	_	10	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	Thank	_	VB	VB	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	also	_	RB	RB	_	1	advmod	_	_
+4	to	_	TO	TO	_	1	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	chauffeur	_	NN	NN	_	4	pobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	butler	_	NN	NN	_	6	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	suite	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	stay	_	NN	NN	_	2	appos	_	_
+6	-	_	:	:	_	0	erased	_	_
+7	all	_	DT	DT	_	2	dep	_	_
+8	excellent	_	JJ	JJ	_	7	amod	_	_
+9	!	_	.	.	_	0	erased	_	_
+
+1	See	_	VB	VB	_	0	root	_	_
+2	you	_	PRP	PRP	_	4	dep	_	_
+3	next	_	JJ	JJ	_	4	amod	_	_
+4	trip	_	NN	NN	_	1	dobj	_	_
+5	!	_	.	.	_	0	erased	_	_
+

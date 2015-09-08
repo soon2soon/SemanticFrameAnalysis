@@ -1,0 +1,27 @@
+1	Prompt	_	VB	VB	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	courteous	_	VB	VB	_	1	conj	_	_
+4	service	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	0	root	_	_
+2	cars	_	NNS	NNS	_	1	dep	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Provides	_	VBZ	VBZ	_	0	root	_	_
+2	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+3	and	_	CC	CC	_	4	cc	_	_
+4	installs	_	VBZ	VBZ	_	1	dep	_	_
+5	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+6	car	_	NN	NN	_	7	nn	_	_
+7	seats	_	NNS	NNS	_	1	dobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	2	nsubj	_	_
+2	use	_	VBP	VBP	_	0	root	_	_
+3	again	_	RB	RB	_	2	advmod	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	highly	_	RB	RB	_	6	advmod	_	_
+6	recommend	_	VBP	VBP	_	2	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,13 @@
+1	Great	_	NNP	NNP	_	2	nn	_	_
+2	location	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	service	_	NN	NN	_	2	conj	_	_
+5	!!	_	VBD	VBD	_	0	root	_	_
+6	Freshly	_	NNP	NNP	_	8	nn	_	_
+7	baked	_	JJ	JJ	_	8	amod	_	_
+8	cookies	_	NNS	NNS	_	5	dobj	_	_
+9	at	_	IN	IN	_	5	prep	_	_
+10	check	_	NN	NN	_	9	pobj	_	_
+11	in	_	IN	IN	_	5	prep	_	_
+12	.	_	.	.	_	0	erased	_	_
+

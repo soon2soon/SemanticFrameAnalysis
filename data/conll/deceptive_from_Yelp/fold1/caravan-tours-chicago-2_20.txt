@@ -1,0 +1,42 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	went	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	Mexico	_	NNP	NNP	_	3	pobj	_	_
+5	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	tour	_	NN	NN	_	4	dep	_	_
+8	that	_	IN	IN	_	12	mark	_	_
+9	they	_	PRP	PRP	_	12	nsubj	_	_
+10	no	_	RB	RB	_	11	neg	_	_
+11	longer	_	RB	RB	_	12	advmod	_	_
+12	offer	_	VBP	VBP	_	7	dep	_	_
+13	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	Yellowstone	_	NNP	NNP	_	4	appos	_	_
+16	,	_	,	,	_	0	erased	_	_
+17	and	_	CC	CC	_	15	cc	_	_
+18	Grand	_	NNP	NNP	_	19	nn	_	_
+19	Canyon	_	NNP	NNP	_	15	conj	_	_
+20	with	_	IN	IN	_	15	prep	_	_
+21	them	_	PRP	PRP	_	20	pobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	director/guides	_	NNS	NNS	_	5	nsubj	_	_
+3	are	_	VBP	VBP	_	5	cop	_	_
+4	always	_	RB	RB	_	5	advmod	_	_
+5	excellent	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	pace	_	NN	NN	_	10	nsubj	_	_
+9	is	_	VBZ	VBZ	_	10	cop	_	_
+10	good	_	JJ	JJ	_	5	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Plus	_	CC	CC	_	5	cc	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	price	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	exceptional	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+

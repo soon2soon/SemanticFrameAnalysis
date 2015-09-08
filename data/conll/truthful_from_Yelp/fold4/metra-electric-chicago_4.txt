@@ -1,0 +1,42 @@
+1	still	_	RB	RB	_	3	dep	_	_
+2	the	_	DT	DT	_	3	dep	_	_
+3	best	_	JJS	JJS	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	easiest	_	JJS	JJS	_	3	conj	_	_
+6	way	_	NN	NN	_	8	nsubj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	go	_	VB	VB	_	3	rcmod	_	_
+9	from	_	IN	IN	_	8	prep	_	_
+10	michigan	_	NN	NN	_	9	pobj	_	_
+11	to	_	TO	TO	_	8	prep	_	_
+12	indiana	_	NN	NN	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	cheap	_	JJ	JJ	_	3	amod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	cheap	_	JJ	JJ	_	5	dep	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	cheap	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	you	_	PRP	PRP	_	3	nsubj	_	_
+2	can	_	MD	MD	_	3	aux	_	_
+3	park	_	VB	VB	_	0	root	_	_
+4	your	_	PRP$	PRP$	_	5	poss	_	_
+5	car	_	NN	NN	_	3	dobj	_	_
+6	safely	_	RB	RB	_	3	advmod	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	be	_	VB	VB	_	9	cop	_	_
+9	right	_	JJ	JJ	_	3	conj	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	millennium	_	JJ	JJ	_	12	amod	_	_
+12	station	_	NN	NN	_	10	pobj	_	_
+13	when	_	WRB	WRB	_	15	advmod	_	_
+14	you	_	PRP	PRP	_	15	nsubj	_	_
+15	depart	_	VB	VB	_	9	advcl	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	love	_	NN	NN	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	juston	_	NN	NN	_	1	appos	_	_
+

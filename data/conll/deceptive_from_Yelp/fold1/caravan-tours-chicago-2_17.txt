@@ -1,0 +1,44 @@
+1	I	_	PRP	PRP	_	6	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	wife	_	NN	NN	_	1	conj	_	_
+5	have	_	VBP	VBP	_	6	aux	_	_
+6	taken	_	VBN	VBN	_	0	root	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	two	_	CD	CD	_	10	num	_	_
+9	Canadian	_	JJ	JJ	_	10	amod	_	_
+10	tours	_	NNS	NNS	_	6	dobj	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	Caravan	_	NNP	NNP	_	11	pobj	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	we	_	PRP	PRP	_	17	nsubj	_	_
+15	ca	_	MD	MD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	heap	_	VB	VB	_	6	conj	_	_
+18	too	_	RB	RB	_	19	advmod	_	_
+19	much	_	JJ	JJ	_	20	amod	_	_
+20	praise	_	NN	NN	_	17	dobj	_	_
+21	on	_	IN	IN	_	17	prep	_	_
+22	them	_	PRP	PRP	_	21	pobj	_	_
+23	.	_	.	.	_	0	erased	_	_
+
+1	Both	_	DT	DT	_	3	preconj	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	Rockies	_	NNPS	NNPS	_	8	nsubj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Maritimes	_	NNPS	NNPS	_	3	conj	_	_
+7	were	_	VBD	VBD	_	8	cop	_	_
+8	outstanding	_	JJ	JJ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	GREAT	_	JJ	JJ	_	2	amod	_	_
+2	guides	_	NNS	NNS	_	8	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	enjoyable	_	JJ	JJ	_	7	amod	_	_
+7	sightseeing	_	NN	NN	_	2	conj	_	_
+8	trip	_	VBZ	VBZ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+

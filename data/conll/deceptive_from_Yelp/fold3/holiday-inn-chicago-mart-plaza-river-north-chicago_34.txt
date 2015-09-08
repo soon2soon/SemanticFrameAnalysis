@@ -1,0 +1,30 @@
+1	hidden	_	JJ	JJ	_	2	amod	_	_
+2	jewel	_	NN	NN	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	Chicago	_	NNP	NNP	_	3	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	large	_	JJ	JJ	_	9	amod	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	clean	_	JJ	JJ	_	6	conj	_	_
+9	rooms	_	NNS	NNS	_	2	appos	_	_
+10	with	_	IN	IN	_	9	prep	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	nice	_	JJ	JJ	_	13	amod	_	_
+13	views	_	NNS	NNS	_	10	pobj	_	_
+14	!	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	's	_	VBZ	VBZ	_	3	cop	_	_
+3	one	_	CD	CD	_	0	root	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	our	_	PRP$	PRP$	_	8	poss	_	_
+6	wedding	_	NN	NN	_	8	nn	_	_
+7	block	_	NN	NN	_	8	nn	_	_
+8	hotels	_	NNS	NNS	_	4	pobj	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	my	_	PRP$	PRP$	_	11	poss	_	_
+11	guests	_	NNS	NNS	_	14	nsubj	_	_
+12	were	_	VBD	VBD	_	14	cop	_	_
+13	pretty	_	RB	RB	_	14	advmod	_	_
+14	happy	_	JJ	JJ	_	3	conj	_	_
+

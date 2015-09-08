@@ -1,0 +1,75 @@
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	must-do	_	NN	NN	_	0	root	_	_
+5	if	_	IN	IN	_	8	mark	_	_
+6	visiting	_	NNP	NNP	_	7	nn	_	_
+7	Chicago	_	NNP	NNP	_	8	nsubj	_	_
+8	!!!	_	VBD	VBD	_	4	advcl	_	_
+9	We	_	PRP	PRP	_	10	nsubj	_	_
+10	took	_	VBD	VBD	_	8	ccomp	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	Pedway	_	NNP	NNP	_	13	nn	_	_
+13	tour	_	NN	NN	_	10	dobj	_	_
+14	on	_	IN	IN	_	10	prep	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	Saturday	_	NNP	NNP	_	14	pobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	Margaret	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	awesome	_	JJ	JJ	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	funny	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	full	_	JJ	JJ	_	3	conj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	energy	_	NN	NN	_	6	pobj	_	_
+8	and	_	CC	CC	_	3	cc	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	knowledgeable	_	JJ	JJ	_	3	conj	_	_
+11	about	_	IN	IN	_	3	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	city	_	NN	NN	_	11	pobj	_	_
+14	!	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	n't	_	RB	RB	_	2	neg	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	question	_	NN	NN	_	2	nsubj	_	_
+6	we	_	PRP	PRP	_	7	nsubj	_	_
+7	asked	_	VBD	VBD	_	5	rcmod	_	_
+8	that	_	IN	IN	_	12	mark	_	_
+9	she	_	PRP	PRP	_	12	nsubj	_	_
+10	could	_	MD	MD	_	12	aux	_	_
+11	n't	_	RB	RB	_	12	neg	_	_
+12	answer	_	VB	VB	_	7	ccomp	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	were	_	VBD	VBD	_	4	cop	_	_
+3	simply	_	RB	RB	_	4	advmod	_	_
+4	delighted	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	experience	_	NN	NN	_	5	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	do	_	VB	VB	_	0	root	_	_
+5	another	_	DT	DT	_	6	det	_	_
+6	tour	_	NN	NN	_	4	dobj	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	her	_	PRP	PRP	_	7	pobj	_	_
+9	on	_	IN	IN	_	4	prep	_	_
+10	our	_	PRP$	PRP$	_	12	poss	_	_
+11	next	_	JJ	JJ	_	12	amod	_	_
+12	visit	_	NN	NN	_	9	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+

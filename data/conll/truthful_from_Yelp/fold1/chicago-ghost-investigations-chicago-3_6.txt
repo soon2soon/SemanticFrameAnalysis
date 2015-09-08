@@ -1,0 +1,53 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	experience	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Lots	_	NNS	NNS	_	4	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	information	_	NN	NN	_	2	pobj	_	_
+4	provided	_	VBD	VBD	_	0	root	_	_
+5	at	_	IN	IN	_	4	prep	_	_
+6	booking	_	VBG	VBG	_	5	pcomp	_	_
+7	so	_	IN	IN	_	9	mark	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	know	_	VBP	VBP	_	6	advcl	_	_
+10	exactly	_	RB	RB	_	11	advmod	_	_
+11	what	_	WP	WP	_	13	nsubj	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	expect	_	VB	VB	_	9	ccomp	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	guide	_	NN	NN	_	8	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	Allison	_	NNP	NNP	_	2	appos	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	was	_	VBD	VBD	_	8	cop	_	_
+7	so	_	RB	RB	_	8	advmod	_	_
+8	enthusiastic	_	JJ	JJ	_	0	root	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	really	_	RB	RB	_	11	advmod	_	_
+11	made	_	VBD	VBD	_	8	conj	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	night	_	NN	NN	_	14	nsubj	_	_
+14	enjoyable	_	JJ	JJ	_	11	xcomp	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	2	nsubj	_	_
+2	experience	_	VBP	VBP	_	0	root	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	ghosts	_	NNS	NNS	_	3	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Definitely	_	NNP	NNP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	recommend	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	friends	_	NNS	NNS	_	4	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	family	_	NN	NN	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

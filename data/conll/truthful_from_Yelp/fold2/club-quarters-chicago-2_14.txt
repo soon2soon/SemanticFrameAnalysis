@@ -1,0 +1,10 @@
+1	Really	_	RB	RB	_	3	advmod	_	_
+2	great	_	JJ	JJ	_	3	nsubj	_	_
+3	place	_	VBP	VBP	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	stay	_	VB	VB	_	3	xcomp	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	location	_	NN	NN	_	8	nn	_	_
+8	convenience	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

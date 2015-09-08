@@ -1,0 +1,41 @@
+1	Very	_	JJ	JJ	_	3	amod	_	_
+2	large	_	JJ	JJ	_	3	amod	_	_
+3	room	_	NN	NN	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	beautiful	_	JJ	JJ	_	6	amod	_	_
+6	lobby	_	NN	NN	_	3	appos	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	hotel	_	NN	NN	_	3	nn	_	_
+3	parking	_	NN	NN	_	6	nsubj	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	expensive	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	less	_	JJR	JJR	_	6	conj	_	_
+9	in	_	IN	IN	_	6	prep	_	_
+10	front	_	NN	NN	_	9	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	hotel	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	during	_	IN	IN	_	16	prep	_	_
+2	breakfast	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	small	_	JJ	JJ	_	7	amod	_	_
+6	French	_	JJ	JJ	_	7	amod	_	_
+7	creperie	_	NN	NN	_	16	nsubj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	corner	_	NN	NN	_	8	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	street	_	NN	NN	_	11	pobj	_	_
+14	is	_	VBZ	VBZ	_	16	cop	_	_
+15	very	_	RB	RB	_	16	advmod	_	_
+16	good	_	JJ	JJ	_	0	root	_	_
+17	.	_	.	.	_	0	erased	_	_
+

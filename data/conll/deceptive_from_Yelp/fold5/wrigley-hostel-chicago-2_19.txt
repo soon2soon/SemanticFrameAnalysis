@@ -1,0 +1,28 @@
+1	A	_	DT	DT	_	2	det	_	_
+2	lot	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	features	_	NNS	NNS	_	3	pobj	_	_
+6	that	_	WDT	WDT	_	8	nsubjpass	_	_
+7	were	_	VBD	VBD	_	8	auxpass	_	_
+8	offered	_	VBN	VBN	_	5	rcmod	_	_
+9	absolutely	_	RB	RB	_	10	advmod	_	_
+10	astounded	_	JJ	JJ	_	8	xcomp	_	_
+11	me	_	PRP	PRP	_	10	dep	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	wifi	_	NNS	NNS	_	2	dobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	free	_	JJ	JJ	_	6	amod	_	_
+6	parking	_	NN	NN	_	3	appos	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	it	_	PRP	PRP	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	blocks	_	NNS	NNS	_	2	conj	_	_
+11	from	_	IN	IN	_	10	prep	_	_
+12	Wrigley	_	NNP	NNP	_	13	nn	_	_
+13	field	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+

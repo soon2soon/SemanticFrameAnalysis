@@ -1,0 +1,63 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	stay	_	NN	NN	_	1	dobj	_	_
+5	at	_	IN	IN	_	4	prep	_	_
+6	Hampton	_	NNP	NNP	_	7	nn	_	_
+7	Inn	_	NNP	NNP	_	5	pobj	_	_
+8	&	_	CC	CC	_	7	cc	_	_
+9	Suites	_	NNP	NNP	_	7	conj	_	_
+10	over	_	IN	IN	_	7	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	weekend	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	extremely	_	RB	RB	_	5	advmod	_	_
+5	friendly	_	JJ	JJ	_	0	root	_	_
+6	&	_	CC	CC	_	5	cc	_	_
+7	welcoming	_	VBG	VBG	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	4	nsubj	_	_
+3	were	_	VBD	VBD	_	4	cop	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	updated	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	stay	_	VB	VB	_	0	root	_	_
+4	there	_	RB	RB	_	3	advmod	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	went	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	Howl	_	NNP	NNP	_	7	nn	_	_
+5	@	_	NNP	NNP	_	7	nn	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	Moon	_	NNP	NNP	_	3	pobj	_	_
+8	for	_	IN	IN	_	2	prep	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	birthday	_	NN	NN	_	11	nn	_	_
+11	party	_	NN	NN	_	8	pobj	_	_
+12	and	_	CC	CC	_	2	cc	_	_
+13	it	_	PRP	PRP	_	16	nsubj	_	_
+14	was	_	VBD	VBD	_	16	cop	_	_
+15	super	_	JJ	JJ	_	16	amod	_	_
+16	close	_	NN	NN	_	2	conj	_	_
+17	to	_	TO	TO	_	16	prep	_	_
+18	that	_	DT	DT	_	17	pobj	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	alot	_	NN	NN	_	18	conj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	other	_	JJ	JJ	_	23	amod	_	_
+23	bars	_	NNS	NNS	_	21	pobj	_	_
+24	!	_	.	.	_	0	erased	_	_
+

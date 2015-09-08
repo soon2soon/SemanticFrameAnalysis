@@ -1,0 +1,72 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	husband	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	have	_	VBP	VBP	_	6	aux	_	_
+6	done	_	VBN	VBN	_	0	root	_	_
+7	both	_	PDT	PDT	_	10	preconj	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	Bucktown/Wicker	_	NNP	NNP	_	10	nn	_	_
+10	Park	_	NNP	NNP	_	6	xcomp	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	Gold	_	NNP	NNP	_	15	nn	_	_
+13	Coast/Old	_	NNP	NNP	_	15	nn	_	_
+14	Town	_	NNP	NNP	_	15	nn	_	_
+15	tours	_	NNS	NNS	_	10	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Both	_	DT	DT	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	excellent	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	Bucktown/Wicker	_	NNP	NNP	_	4	nn	_	_
+3	Park	_	NNP	NNP	_	4	nn	_	_
+4	tour	_	NN	NN	_	5	nsubj	_	_
+5	has	_	VBZ	VBZ	_	0	root	_	_
+6	much	_	RB	RB	_	7	advmod	_	_
+7	more	_	JJR	JJR	_	8	amod	_	_
+8	food	_	NN	NN	_	5	dobj	_	_
+9	included	_	VBN	VBN	_	8	vmod	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	unable	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	finish	_	VB	VB	_	4	xcomp	_	_
+7	everything	_	NN	NN	_	6	dobj	_	_
+8	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	really	_	RB	RB	_	3	advmod	_	_
+3	enjoyed	_	VBD	VBD	_	0	root	_	_
+4	learning	_	VBG	VBG	_	3	xcomp	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	much	_	RB	RB	_	4	advmod	_	_
+7	that	_	IN	IN	_	11	mark	_	_
+8	I	_	PRP	PRP	_	11	nsubj	_	_
+9	did	_	VBD	VBD	_	11	aux	_	_
+10	n't	_	RB	RB	_	11	neg	_	_
+11	know	_	VB	VB	_	4	ccomp	_	_
+12	about	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	city	_	NN	NN	_	12	pobj	_	_
+15	that	_	IN	IN	_	17	mark	_	_
+16	I	_	PRP	PRP	_	17	nsubj	_	_
+17	lived	_	VBD	VBD	_	11	ccomp	_	_
+18	in	_	RP	RP	_	17	prt	_	_
+19	for	_	IN	IN	_	17	prep	_	_
+20	12	_	CD	CD	_	21	num	_	_
+21	years	_	NNS	NNS	_	19	pobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	Strongly	_	RB	RB	_	2	advmod	_	_
+2	recommend	_	VB	VB	_	0	root	_	_
+3	these	_	DT	DT	_	5	det	_	_
+4	tours	_	NNS	NNS	_	5	nn	_	_
+5	!!	_	NN	NN	_	2	dobj	_	_
+

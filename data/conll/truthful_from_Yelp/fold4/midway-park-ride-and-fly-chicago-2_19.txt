@@ -1,0 +1,52 @@
+1	By	_	IN	IN	_	10	prep	_	_
+2	far	_	RB	RB	_	6	advmod	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	BEST	_	NN	NN	_	2	pobj	_	_
+5	airport	_	NN	NN	_	6	nn	_	_
+6	shuttle	_	NN	NN	_	1	pobj	_	_
+7	I	_	PRP	PRP	_	10	nsubj	_	_
+8	have	_	VBP	VBP	_	10	aux	_	_
+9	ever	_	RB	RB	_	10	advmod	_	_
+10	taken	_	VBN	VBN	_	0	root	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	So	_	RB	RB	_	0	root	_	_
+2	friendly	_	JJ	JJ	_	1	dep	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	easy	_	JJ	JJ	_	2	amod	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	JJ	JJ	_	2	dep	_	_
+2	professional	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	have	_	VB	VB	_	12	ccomp	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	wait	_	VB	VB	_	4	xcomp	_	_
+7	at	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	airport	_	NN	NN	_	7	pobj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	they	_	PRP	PRP	_	12	nsubj	_	_
+12	were	_	VBD	VBD	_	0	root	_	_
+13	there	_	RB	RB	_	14	advmod	_	_
+14	shortly	_	RB	RB	_	12	advmod	_	_
+15	after	_	IN	IN	_	17	mark	_	_
+16	I	_	PRP	PRP	_	17	nsubj	_	_
+17	called	_	VBD	VBD	_	14	advcl	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	will	_	MD	MD	_	5	aux	_	_
+3	for	_	IN	IN	_	5	prep	_	_
+4	sure	_	JJ	JJ	_	3	pobj	_	_
+5	use	_	VB	VB	_	0	root	_	_
+6	their	_	PRP$	PRP$	_	7	poss	_	_
+7	service	_	NN	NN	_	5	dobj	_	_
+8	again	_	RB	RB	_	5	advmod	_	_
+9	!	_	.	.	_	0	erased	_	_
+

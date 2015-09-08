@@ -1,0 +1,6 @@
+1	it	_	PRP	PRP	_	5	nsubj	_	_
+2	's	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	beautiful	_	JJ	JJ	_	5	amod	_	_
+5	building	_	NN	NN	_	0	root	_	_
+

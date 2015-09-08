@@ -1,0 +1,14 @@
+1	Woohoo	_	NNP	NNP	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+
+1	As	_	RB	RB	_	2	advmod	_	_
+2	good	_	RB	RB	_	0	root	_	_
+3	as	_	IN	IN	_	5	mark	_	_
+4	it	_	PRP	PRP	_	5	nsubj	_	_
+5	gets	_	VBZ	VBZ	_	2	dep	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	ORACLE	_	NNP	NNP	_	3	nn	_	_
+2	cloud	_	NNP	NNP	_	3	nn	_	_
+3	Day	_	NNP	NNP	_	0	root	_	_
+

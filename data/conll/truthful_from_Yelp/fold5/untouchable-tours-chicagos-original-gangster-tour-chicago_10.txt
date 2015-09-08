@@ -1,0 +1,19 @@
+1	Definitely	_	VB	VB	_	0	root	_	_
+2	worth	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	cheap	_	JJ	JJ	_	5	amod	_	_
+5	price	_	NN	NN	_	2	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Informative	_	NNP	NNP	_	7	dep	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	fun	_	NN	NN	_	1	appos	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	awesome	_	JJ	JJ	_	7	amod	_	_
+6	tour	_	NN	NN	_	7	nn	_	_
+7	guides	_	NNS	NNS	_	0	root	_	_
+8	...	_	:	:	_	0	erased	_	_
+9	Very	_	NNP	NNP	_	10	dep	_	_
+10	entertaining	_	JJ	JJ	_	7	parataxis	_	_
+11	.	_	.	.	_	0	erased	_	_
+

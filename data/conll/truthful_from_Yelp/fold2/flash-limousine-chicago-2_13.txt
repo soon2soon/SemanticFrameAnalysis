@@ -1,0 +1,31 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	driver	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	professional	_	NN	NN	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	showed	_	VBD	VBD	_	4	conj	_	_
+7	up	_	RP	RP	_	6	prt	_	_
+8	on	_	IN	IN	_	6	prep	_	_
+9	time	_	NN	NN	_	8	pobj	_	_
+10	and	_	CC	CC	_	4	cc	_	_
+11	has	_	VBZ	VBZ	_	13	aux	_	_
+12	been	_	VBN	VBN	_	13	cop	_	_
+13	polite	_	JJ	JJ	_	4	conj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	interior	_	NN	NN	_	7	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	car	_	NN	NN	_	3	pobj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	spotless	_	JJ	JJ	_	12	ccomp	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	minibar	_	NN	NN	_	12	nsubj	_	_
+11	was	_	VBD	VBD	_	12	cop	_	_
+12	nice	_	JJ	JJ	_	0	root	_	_
+13	as	_	IN	IN	_	12	prep	_	_
+14	well	_	RB	RB	_	13	pcomp	_	_
+15	.	_	.	.	_	0	erased	_	_
+

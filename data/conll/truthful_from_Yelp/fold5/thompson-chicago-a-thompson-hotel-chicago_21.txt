@@ -1,0 +1,22 @@
+1	Loved	_	VB	VB	_	0	root	_	_
+2	our	_	PRP$	PRP$	_	3	poss	_	_
+3	weekend	_	NN	NN	_	1	dobj	_	_
+4	at	_	IN	IN	_	1	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Thompson	_	NNP	NNP	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Hip	_	VB	VB	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	busy	_	JJ	JJ	_	12	amod	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	in	_	IN	IN	_	3	conj	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	location	_	NN	NN	_	5	pobj	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	chicago	_	NNP	NNP	_	9	pobj	_	_
+12	getaway	_	NN	NN	_	1	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

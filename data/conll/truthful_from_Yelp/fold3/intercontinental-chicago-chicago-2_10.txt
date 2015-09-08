@@ -1,0 +1,32 @@
+1	Love	_	VB	VB	_	0	root	_	_
+2	this	_	DT	DT	_	3	det	_	_
+3	hotel	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Their	_	PRP$	PRP$	_	2	poss	_	_
+2	conference/rooms	_	NNS	NNS	_	4	nsubjpass	_	_
+3	are	_	VBP	VBP	_	4	auxpass	_	_
+4	arabian	_	VBN	VBN	_	0	root	_	_
+5	themed	_	JJ	JJ	_	4	xcomp	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	are	_	VBP	VBP	_	8	cop	_	_
+8	oh-so-pretty	_	JJ	JJ	_	4	conj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	colorful	_	JJ	JJ	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	have	_	VBP	VBP	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	best	_	JJS	JJS	_	5	amod	_	_
+5	pool	_	NN	NN	_	2	dobj	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	city	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Olympic-size	_	NNP	NNP	_	0	root	_	_
+2	AND	_	CC	CC	_	1	cc	_	_
+3	indoor	_	NNP	NNP	_	1	conj	_	_
+4	!	_	.	.	_	0	erased	_	_
+

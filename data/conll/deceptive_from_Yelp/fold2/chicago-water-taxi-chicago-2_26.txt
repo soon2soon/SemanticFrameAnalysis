@@ -1,0 +1,39 @@
+1	The	_	DT	DT	_	4	det	_	_
+2	Chicago	_	NNP	NNP	_	4	nn	_	_
+3	water	_	NN	NN	_	4	nn	_	_
+4	taxis	_	NNS	NNS	_	6	nsubj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	easy	_	JJ	JJ	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	spot	_	VB	VB	_	6	xcomp	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	like	_	IN	IN	_	7	prep	_	_
+3	land	_	NN	NN	_	4	nn	_	_
+4	taxis	_	NNS	NNS	_	2	pobj	_	_
+5	they	_	PRP	PRP	_	7	nsubjpass	_	_
+6	are	_	VBP	VBP	_	7	auxpass	_	_
+7	painted	_	VBN	VBN	_	0	root	_	_
+8	yellow	_	JJ	JJ	_	7	xcomp	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	near	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Wrigley	_	NNP	NNP	_	6	nn	_	_
+6	Building	_	NNP	NNP	_	3	pobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	Riverside	_	NNP	NNP	_	9	nn	_	_
+9	Plaza	_	NNP	NNP	_	6	conj	_	_
+10	...	_	:	:	_	0	erased	_	_
+11	indoor	_	JJ	JJ	_	13	amod	_	_
+12	bench	_	NN	NN	_	13	nn	_	_
+13	seats	_	NNS	NNS	_	6	dep	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	some	_	DT	DT	_	17	det	_	_
+16	outdoor	_	JJ	JJ	_	17	amod	_	_
+17	seating	_	NN	NN	_	13	conj	_	_
+18	.	_	.	.	_	0	erased	_	_
+

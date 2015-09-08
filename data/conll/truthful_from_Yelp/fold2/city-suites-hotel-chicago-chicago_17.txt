@@ -1,0 +1,52 @@
+1	Love	_	NN	NN	_	0	root	_	_
+2	this	_	DT	DT	_	3	det	_	_
+3	hotel	_	NN	NN	_	1	dep	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	staff	_	NN	NN	_	3	appos	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	great	_	JJ	JJ	_	9	amod	_	_
+9	location	_	NN	NN	_	3	appos	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	train	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	right	_	JJ	JJ	_	0	root	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	hotel	_	NN	NN	_	5	pobj	_	_
+8	but	_	CC	CC	_	4	cc	_	_
+9	it	_	PRP	PRP	_	12	nsubj	_	_
+10	did	_	VBD	VBD	_	12	aux	_	_
+11	n't	_	RB	RB	_	12	neg	_	_
+12	wake	_	VB	VB	_	4	conj	_	_
+13	me	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	lots	_	NNS	NNS	_	2	nsubj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	food	_	NN	NN	_	4	pobj	_	_
+7	near	_	IN	IN	_	6	prep	_	_
+8	by	_	IN	IN	_	7	pcomp	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	it	_	PRP	PRP	_	15	nsubj	_	_
+11	's	_	VBZ	VBZ	_	15	cop	_	_
+12	just	_	RB	RB	_	15	advmod	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	short	_	JJ	JJ	_	15	amod	_	_
+15	walk	_	NN	NN	_	2	conj	_	_
+16	to	_	TO	TO	_	15	prep	_	_
+17	Wrigley	_	NNP	NNP	_	16	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	What	_	WP	WP	_	2	det	_	_
+2	more	_	JJR	JJR	_	5	dobj	_	_
+3	could	_	MD	MD	_	5	aux	_	_
+4	you	_	PRP	PRP	_	5	nsubj	_	_
+5	want	_	VB	VB	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+

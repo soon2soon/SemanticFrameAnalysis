@@ -1,0 +1,28 @@
+1	great	_	JJ	JJ	_	2	amod	_	_
+2	price	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	clean	_	JJ	JJ	_	2	appos	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	location	_	NN	NN	_	4	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	would	_	MD	MD	_	2	aux	_	_
+2	stay	_	VB	VB	_	0	root	_	_
+3	again	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	parking	_	NN	NN	_	2	nsubj	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	1/2block	_	NN	NN	_	5	npadvmod	_	_
+5	away	_	RB	RB	_	2	advmod	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	for	_	IN	IN	_	2	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	money	_	NN	NN	_	7	pobj	_	_
+10	it	_	PRP	PRP	_	12	nsubj	_	_
+11	gets	_	VBZ	VBZ	_	12	dep	_	_
+12	5-stars	_	JJ	JJ	_	9	rcmod	_	_
+

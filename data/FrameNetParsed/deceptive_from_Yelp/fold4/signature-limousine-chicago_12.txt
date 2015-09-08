@@ -1,0 +1,3 @@
+{"frames":[{"target":{"name":"Avoiding","spans":[{"start":0,"end":1,"text":"AVOID"}]},"annotationSets":[{"rank":0,"score":42.864574646548846,"frameElements":[]}]},{"target":{"name":"Being_located","spans":[{"start":5,"end":6,"text":"lie"}]},"annotationSets":[{"rank":0,"score":15.959029156987693,"frameElements":[{"name":"Theme","spans":[{"start":0,"end":3,"text":"AVOID !!! Non"}]}]}]},{"target":{"name":"Hair_configuration","spans":[{"start":11,"end":12,"text":"style"}]},"annotationSets":[{"rank":0,"score":23.315116012598615,"frameElements":[]}]}],"tokens":["AVOID","!!!","Non","profesional",",","lie",",","Romanian","-","Gypsy","``","style","''","``","bui","$","$","inezz","."]}
+{"frames":[],"tokens":["Save","yourself","."]}
+{"frames":[],"tokens":["Just","my","advice"]}

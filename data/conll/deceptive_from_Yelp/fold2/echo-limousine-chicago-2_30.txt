@@ -1,0 +1,25 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	careful	_	JJ	JJ	_	5	amod	_	_
+5	driver	_	NN	NN	_	2	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	clean	_	JJ	JJ	_	8	amod	_	_
+8	car	_	NN	NN	_	5	conj	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	excellent	_	JJ	JJ	_	11	amod	_	_
+11	communication	_	NN	NN	_	5	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	highly	_	RB	RB	_	2	advmod	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	will	_	MD	MD	_	7	aux	_	_
+6	certainly	_	RB	RB	_	7	advmod	_	_
+7	use	_	VB	VB	_	2	conj	_	_
+8	this	_	DT	DT	_	9	det	_	_
+9	business	_	NN	NN	_	7	dobj	_	_
+10	again	_	RB	RB	_	7	advmod	_	_
+11	!	_	.	.	_	0	erased	_	_
+

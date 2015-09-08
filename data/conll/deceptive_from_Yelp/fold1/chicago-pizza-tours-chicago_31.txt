@@ -1,0 +1,18 @@
+1	This	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	awesome	_	JJ	JJ	_	0	root	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	0	root	_	_
+2	food	_	NN	NN	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	service	_	NN	NN	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	2	nsubj	_	_
+2	return	_	VBP	VBP	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	sure	_	JJ	JJ	_	3	pobj	_	_
+5	!	_	.	.	_	0	erased	_	_
+

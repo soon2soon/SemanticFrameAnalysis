@@ -1,0 +1,42 @@
+1	Easy	_	JJ	JJ	_	0	root	_	_
+2	in	_	RP	RP	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	out	_	RP	RP	_	2	dep	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	picked	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	up	_	RP	RP	_	2	prt	_	_
+5	at	_	IN	IN	_	2	prep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	car	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	dropped	_	VBD	VBD	_	2	dep	_	_
+10	us	_	PRP	PRP	_	9	dobj	_	_
+11	at	_	IN	IN	_	9	prep	_	_
+12	curbside	_	JJ	JJ	_	13	amod	_	_
+13	check-in	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	bus	_	NN	NN	_	5	npadvmod	_	_
+5	ready	_	JJ	JJ	_	2	acomp	_	_
+6	for	_	IN	IN	_	2	prep	_	_
+7	us	_	PRP	PRP	_	6	pobj	_	_
+8	when	_	WRB	WRB	_	10	advmod	_	_
+9	we	_	PRP	PRP	_	10	nsubj	_	_
+10	returned	_	VBD	VBD	_	2	advcl	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	use	_	VB	VB	_	0	root	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	lot	_	NN	NN	_	4	dobj	_	_
+7	again	_	RB	RB	_	4	advmod	_	_
+8	!	_	.	.	_	0	erased	_	_
+

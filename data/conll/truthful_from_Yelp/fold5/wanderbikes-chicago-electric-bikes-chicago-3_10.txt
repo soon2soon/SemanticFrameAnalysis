@@ -1,0 +1,27 @@
+1	Rented	_	VB	VB	_	0	root	_	_
+2	their	_	PRP$	PRP$	_	3	poss	_	_
+3	bikes	_	NNS	NNS	_	1	dobj	_	_
+4	two	_	CD	CD	_	5	num	_	_
+5	days	_	NNS	NNS	_	1	tmod	_	_
+6	in	_	IN	IN	_	1	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	row	_	NN	NN	_	6	pobj	_	_
+9	and	_	CC	CC	_	1	cc	_	_
+10	had	_	VBD	VBD	_	1	conj	_	_
+11	an	_	DT	DT	_	13	det	_	_
+12	excellent	_	JJ	JJ	_	13	amod	_	_
+13	time	_	NN	NN	_	10	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Deffinetly	_	RB	RB	_	2	advmod	_	_
+2	doing	_	VBG	VBG	_	8	dep	_	_
+3	it	_	PRP	PRP	_	2	dobj	_	_
+4	again	_	RB	RB	_	2	advmod	_	_
+5	next	_	JJ	JJ	_	6	amod	_	_
+6	time	_	NN	NN	_	2	dobj	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	'm	_	VBP	VBP	_	0	root	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	town	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

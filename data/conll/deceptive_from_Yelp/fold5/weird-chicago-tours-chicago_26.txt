@@ -1,0 +1,51 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	niece	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	took	_	VBD	VBD	_	0	root	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	Dillinger	_	NNP	NNP	_	8	nn	_	_
+8	tour	_	NN	NN	_	5	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	3	poss	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	8	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	Paul	_	NNP	NNP	_	3	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	knowledgeable	_	JJ	JJ	_	0	root	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	entertaining	_	JJ	JJ	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	gave	_	VBD	VBD	_	0	root	_	_
+4	us	_	PRP	PRP	_	3	iobj	_	_
+5	resources	_	NNS	NNS	_	3	dobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	find	_	VB	VB	_	5	vmod	_	_
+8	out	_	RP	RP	_	7	prt	_	_
+9	more	_	JJR	JJR	_	7	dobj	_	_
+10	about	_	IN	IN	_	9	prep	_	_
+11	Dillinger	_	NNP	NNP	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Next	_	JJ	JJ	_	2	amod	_	_
+2	time	_	NN	NN	_	4	nsubj	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	'm	_	VBP	VBP	_	9	dep	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	will	_	MD	MD	_	9	aux	_	_
+9	take	_	VB	VB	_	0	root	_	_
+10	another	_	DT	DT	_	11	det	_	_
+11	tour	_	NN	NN	_	9	dobj	_	_
+12	from	_	IN	IN	_	9	prep	_	_
+13	Weird	_	NNP	NNP	_	14	nn	_	_
+14	Chicago	_	NNP	NNP	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,51 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	guide	_	NN	NN	_	3	nsubj	_	_
+3	talked	_	VBD	VBD	_	0	root	_	_
+4	nonstop	_	JJ	JJ	_	3	dobj	_	_
+5	for	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	entire	_	JJ	JJ	_	8	amod	_	_
+8	tour	_	NN	NN	_	5	pobj	_	_
+9	about	_	IN	IN	_	3	prep	_	_
+10	Chicago	_	NNP	NNP	_	11	nn	_	_
+11	Architecture	_	NNP	NNP	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Impressive	_	NNP	NNP	_	3	nn	_	_
+2	!	_	.	.	_	0	erased	_	_
+3	Very	_	NNP	NNP	_	4	nsubj	_	_
+4	enjoyable	_	VBD	VBD	_	0	root	_	_
+5	way	_	NN	NN	_	4	dobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	see	_	VB	VB	_	4	vmod	_	_
+8	Chicago	_	NNP	NNP	_	7	dobj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	its	_	PRP$	PRP$	_	12	poss	_	_
+11	beautiful	_	JJ	JJ	_	12	amod	_	_
+12	buildings	_	NNS	NNS	_	8	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	one	_	CD	CD	_	2	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	earliest	_	JJS	JJS	_	7	amod	_	_
+7	tours	_	NNS	NNS	_	4	pobj	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	ample	_	JJ	JJ	_	10	amod	_	_
+10	seating	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	entire	_	JJ	JJ	_	5	amod	_	_
+5	front	_	NN	NN	_	2	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	boat	_	NN	NN	_	6	pobj	_	_
+9	to	_	TO	TO	_	2	prep	_	_
+10	ourselves	_	PRP	PRP	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

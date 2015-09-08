@@ -1,0 +1,24 @@
+1	Great	_	JJ	JJ	_	3	amod	_	_
+2	family	_	NN	NN	_	3	nn	_	_
+3	affair	_	NN	NN	_	7	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	we	_	PRP	PRP	_	7	nsubj	_	_
+6	have	_	VBP	VBP	_	7	aux	_	_
+7	lived	_	VBN	VBN	_	0	root	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	Chicago	_	NNP	NNP	_	8	pobj	_	_
+10	forever	_	RB	RB	_	7	advmod	_	_
+11	and	_	CC	CC	_	7	cc	_	_
+12	had	_	VBD	VBD	_	14	aux	_	_
+13	not	_	RB	RB	_	14	neg	_	_
+14	taken	_	VBN	VBN	_	7	conj	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	tour	_	NN	NN	_	14	dobj	_	_
+17	before	_	RB	RB	_	14	advmod	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Glad	_	JJ	JJ	_	0	root	_	_
+2	we	_	PRP	PRP	_	3	nsubj	_	_
+3	did	_	VBD	VBD	_	1	dep	_	_
+4	!	_	.	.	_	0	erased	_	_
+

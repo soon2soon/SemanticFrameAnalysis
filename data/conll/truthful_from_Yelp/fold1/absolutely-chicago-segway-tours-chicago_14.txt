@@ -1,0 +1,45 @@
+1	this	_	DT	DT	_	2	det	_	_
+2	tour	_	NN	NN	_	6	nsubj	_	_
+3	was	_	VBD	VBD	_	6	cop	_	_
+4	AWESOME	_	NNP	NNP	_	6	nn	_	_
+5	!	_	NNP	NNP	_	0	erased	_	_
+6	Paul	_	NNP	NNP	_	0	root	_	_
+7	our	_	PRP$	PRP$	_	9	poss	_	_
+8	trainer/tour	_	NN	NN	_	9	nn	_	_
+9	guide	_	NN	NN	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	amazing	_	JJ	JJ	_	6	rcmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	great	_	JJ	JJ	_	2	amod	_	_
+2	personality	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	facts	_	NNS	NNS	_	2	conj	_	_
+5	about	_	IN	IN	_	2	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	reservation	_	NN	NN	_	3	nn	_	_
+3	online	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	simple	_	JJ	JJ	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	check	_	NN	NN	_	10	nsubj	_	_
+8	in	_	RB	RB	_	10	advmod	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	great	_	JJ	JJ	_	5	conj	_	_
+11	and	_	CC	CC	_	5	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	segway	_	NN	NN	_	16	nsubj	_	_
+14	was	_	VBD	VBD	_	16	cop	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	blast	_	NN	NN	_	5	conj	_	_
+17	!	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	them	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+

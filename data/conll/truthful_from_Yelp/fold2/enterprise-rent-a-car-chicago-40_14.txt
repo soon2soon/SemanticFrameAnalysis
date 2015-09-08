@@ -1,0 +1,43 @@
+1	Super	_	VB	VB	_	0	root	_	_
+2	friendly	_	JJ	JJ	_	1	acomp	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	easy	_	JJ	JJ	_	2	conj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	work	_	VB	VB	_	2	xcomp	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Being	_	VBG	VBG	_	8	vmod	_	_
+2	from	_	IN	IN	_	1	prep	_	_
+3	out	_	NN	NN	_	2	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	town	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	appreciated	_	VBD	VBD	_	0	root	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	suggestion	_	NN	NN	_	8	dobj	_	_
+11	for	_	IN	IN	_	8	prep	_	_
+12	getting	_	VBG	VBG	_	11	pcomp	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	IPASS	_	NNS	NNS	_	12	dobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+2	Toll	_	JJ	JJ	_	3	amod	_	_
+3	road	_	NN	NN	_	0	root	_	_
+4	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	That	_	DT	DT	_	2	det	_	_
+2	suggestion	_	NN	NN	_	3	nsubj	_	_
+3	saved	_	VBD	VBD	_	0	root	_	_
+4	us	_	PRP	PRP	_	5	nsubj	_	_
+5	money	_	NN	NN	_	3	xcomp	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	ton	_	NN	NN	_	5	conj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	time	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

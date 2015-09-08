@@ -1,0 +1,57 @@
+1	Although	_	IN	IN	_	3	mark	_	_
+2	they	_	PRP	PRP	_	3	nsubj	_	_
+3	seemed	_	VBD	VBD	_	15	advcl	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	bit	_	NN	NN	_	3	xcomp	_	_
+6	understaffed	_	VBN	VBN	_	5	vmod	_	_
+7	at	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	front	_	JJ	JJ	_	10	amod	_	_
+10	desk	_	NN	NN	_	7	pobj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	service	_	NN	NN	_	15	nsubj	_	_
+14	was	_	VBD	VBD	_	15	cop	_	_
+15	fantastic	_	JJ	JJ	_	0	root	_	_
+16	!	_	.	.	_	0	erased	_	_
+
+1	Housekeeping	_	NNP	NNP	_	2	nsubj	_	_
+2	went	_	VBD	VBD	_	0	root	_	_
+3	above	_	IN	IN	_	2	prep	_	_
+4	&	_	CC	CC	_	5	cc	_	_
+5	beyond	_	NN	NN	_	3	pobj	_	_
+6	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+7	even	_	RB	RB	_	11	advmod	_	_
+8	arranging	_	VBG	VBG	_	11	csubj	_	_
+9	my	_	PRP$	PRP$	_	10	poss	_	_
+10	kids	_	NNS	NNS	_	8	dobj	_	_
+11	stuffed	_	VBD	VBD	_	5	dep	_	_
+12	animals	_	NNS	NNS	_	11	dobj	_	_
+13	so	_	IN	IN	_	15	mark	_	_
+14	they	_	PRP	PRP	_	15	nsubj	_	_
+15	greeted	_	VBD	VBD	_	11	advcl	_	_
+16	us	_	PRP	PRP	_	15	dobj	_	_
+17	when	_	WRB	WRB	_	19	advmod	_	_
+18	we	_	PRP	PRP	_	19	nsubj	_	_
+19	returned	_	VBD	VBD	_	15	advcl	_	_
+20	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	4	det	_	_
+2	+	_	JJ	JJ	_	4	amod	_	_
+3	The	_	DT	DT	_	4	det	_	_
+4	hotel	_	NN	NN	_	8	nsubj	_	_
+5	itself	_	PRP	PRP	_	4	advmod	_	_
+6	is	_	VBZ	VBZ	_	8	cop	_	_
+7	fabulous	_	JJ	JJ	_	8	amod	_	_
+8	luxury	_	NN	NN	_	0	root	_	_
+9	throughout	_	IN	IN	_	8	prep	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	5	nsubj	_	_
+2	will	_	MD	MD	_	5	aux	_	_
+3	not	_	RB	RB	_	5	neg	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	disappointed	_	JJ	JJ	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+

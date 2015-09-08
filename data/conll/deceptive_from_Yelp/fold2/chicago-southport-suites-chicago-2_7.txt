@@ -1,0 +1,19 @@
+1	Just	_	RB	RB	_	5	advmod	_	_
+2	an	_	DT	DT	_	5	det	_	_
+3	all-around	_	JJ	JJ	_	5	amod	_	_
+4	excellent	_	JJ	JJ	_	5	amod	_	_
+5	place	_	NN	NN	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	stay	_	VB	VB	_	5	dep	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	neighborhood	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	place	_	NN	NN	_	2	conj	_	_
+6	-	_	:	:	_	0	erased	_	_
+7	highly	_	RB	RB	_	8	advmod	_	_
+8	recommended	_	JJ	JJ	_	2	dep	_	_
+9	!	_	.	.	_	0	erased	_	_
+

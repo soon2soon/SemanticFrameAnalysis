@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Desirability","spans":[{"start":0,"end":1,"text":"Good"}]},"annotationSets":[{"rank":0,"score":34.18153770570638,"frameElements":[{"name":"Evaluee","spans":[{"start":0,"end":1,"text":"Good"}]}]}]}],"tokens":["Good"]}

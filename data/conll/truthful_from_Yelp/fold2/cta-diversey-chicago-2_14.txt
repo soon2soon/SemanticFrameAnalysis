@@ -1,0 +1,41 @@
+1	I	_	PRP	PRP	_	7	nsubj	_	_
+2	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+3	sorta	_	NN	NN	_	4	nsubj	_	_
+4	thought	_	VBD	VBD	_	7	parataxis	_	_
+5	I	_	PRP	PRP	_	4	dobj	_	_
+6	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+7	left	_	VBD	VBD	_	0	root	_	_
+8	my	_	PRP$	PRP$	_	9	poss	_	_
+9	bag	_	NN	NN	_	7	dobj	_	_
+10	on	_	IN	IN	_	7	prep	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	brown-line	_	JJ	JJ	_	13	amod	_	_
+13	car	_	NN	NN	_	10	pobj	_	_
+14	here	_	RB	RB	_	7	advmod	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	lady	_	NN	NN	_	4	nn	_	_
+3	working	_	VBG	VBG	_	4	amod	_	_
+4	downstairs	_	NN	NN	_	7	nsubj	_	_
+5	was	_	VBD	VBD	_	7	cop	_	_
+6	extremely	_	RB	RB	_	7	advmod	_	_
+7	helpful	_	JJ	JJ	_	0	root	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	as	_	IN	IN	_	12	mark	_	_
+10	was	_	VBD	VBD	_	12	cop	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	lady	_	NN	NN	_	7	advcl	_	_
+13	I	_	PRP	PRP	_	15	nsubj	_	_
+14	then	_	RB	RB	_	15	advmod	_	_
+15	talked	_	VBD	VBD	_	12	rcmod	_	_
+16	to	_	TO	TO	_	15	prep	_	_
+17	on	_	IN	IN	_	15	prep	_	_
+18	888-yourCTA	_	JJ	JJ	_	17	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNS	NNS	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	ladies	_	NNS	NNS	_	1	appos	_	_
+4	!	_	.	.	_	0	erased	_	_
+

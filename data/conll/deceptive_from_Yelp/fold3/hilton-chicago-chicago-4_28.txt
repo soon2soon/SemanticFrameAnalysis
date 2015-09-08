@@ -1,0 +1,86 @@
+1	DO	_	NNP	NNP	_	3	nn	_	_
+2	NOT	_	NNP	NNP	_	3	nn	_	_
+3	STAY	_	NNP	NNP	_	5	nsubj	_	_
+4	HERE	_	RB	RB	_	5	advmod	_	_
+5	!	_	VBP	VBP	_	0	erased	_	_
+6	Perhaps	_	RB	RB	_	5	advmod	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	worse	_	JJR	JJR	_	9	amod	_	_
+9	Hilton	_	NN	NN	_	5	dobj	_	_
+10	ever	_	RB	RB	_	5	advmod	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	First	_	RB	RB	_	3	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	expect	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	wait	_	VB	VB	_	3	xcomp	_	_
+6	up	_	RP	RP	_	5	prt	_	_
+7	to	_	TO	TO	_	5	prep	_	_
+8	60	_	CD	CD	_	9	num	_	_
+9	minutes	_	NNS	NNS	_	7	pobj	_	_
+10	to	_	TO	TO	_	9	prep	_	_
+11	check-in	_	NN	NN	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Second	_	LS	LS	_	3	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	expect	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	find	_	VB	VB	_	3	xcomp	_	_
+6	your	_	PRP$	PRP$	_	7	poss	_	_
+7	room	_	NN	NN	_	5	dobj	_	_
+8	unmade	_	JJ	JJ	_	7	amod	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	dusty/dirty	_	JJ	JJ	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Third	_	LS	LS	_	5	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	halls	_	NNS	NNS	_	5	nsubj	_	_
+5	smell	_	VBP	VBP	_	0	root	_	_
+6	like	_	IN	IN	_	5	prep	_	_
+7	decaying	_	VBG	VBG	_	6	pcomp	_	_
+8	flesh	_	NN	NN	_	7	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Fourth	_	JJ	JJ	_	9	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	in-house	_	JJ	JJ	_	6	amod	_	_
+5	PBX	_	NNP	NNP	_	6	nn	_	_
+6	phones	_	NNS	NNS	_	9	nsubj	_	_
+7	do	_	VBP	VBP	_	9	aux	_	_
+8	not	_	RB	RB	_	9	neg	_	_
+9	work	_	VB	VB	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Everything	_	NN	NN	_	9	nsubj	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	especially	_	RB	RB	_	1	advmod	_	_
+4	Internet	_	NN	NN	_	5	nn	_	_
+5	service	_	NN	NN	_	1	dep	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	is	_	VBZ	VBZ	_	9	cop	_	_
+8	extremely	_	RB	RB	_	9	advmod	_	_
+9	expensive	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubjpass	_	_
+2	was	_	VBD	VBD	_	3	auxpass	_	_
+3	promised	_	VBN	VBN	_	0	root	_	_
+4	25,000	_	CD	CD	_	5	num	_	_
+5	miles	_	NNS	NNS	_	6	npadvmod	_	_
+6	for	_	IN	IN	_	3	prep	_	_
+7	all	_	PDT	PDT	_	9	predet	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	inconveniences	_	NNS	NNS	_	6	pobj	_	_
+10	and	_	CC	CC	_	3	cc	_	_
+11	still	_	RB	RB	_	12	advmod	_	_
+12	waiting	_	VBG	VBG	_	3	conj	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	see	_	VB	VB	_	12	xcomp	_	_
+15	them	_	PRP	PRP	_	14	dobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+

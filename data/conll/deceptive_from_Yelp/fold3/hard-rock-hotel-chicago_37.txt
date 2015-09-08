@@ -1,0 +1,45 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	here	_	RB	RB	_	6	advmod	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	few	_	JJ	JJ	_	6	amod	_	_
+6	weeks	_	NNS	NNS	_	7	npadvmod	_	_
+7	ago	_	RB	RB	_	2	advmod	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	had	_	VBD	VBD	_	2	conj	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	great	_	JJ	JJ	_	12	amod	_	_
+12	time	_	NN	NN	_	9	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Hard	_	NNP	NNP	_	3	nn	_	_
+2	Rock	_	NNP	NNP	_	3	nn	_	_
+3	hotel	_	NN	NN	_	4	nsubj	_	_
+4	has	_	VBZ	VBZ	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	nice	_	JJ	JJ	_	7	amod	_	_
+7	restaurant	_	NN	NN	_	4	dobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	lounge	_	NN	NN	_	10	nn	_	_
+10	bar	_	NN	NN	_	7	appos	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	and	_	CC	CC	_	4	cc	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	room	_	NN	NN	_	16	nsubj	_	_
+15	was	_	VBD	VBD	_	16	cop	_	_
+16	excellent	_	JJ	JJ	_	4	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	i	_	FW	FW	_	3	nsubj	_	_
+3	go	_	VBP	VBP	_	9	advcl	_	_
+4	back	_	RB	RB	_	3	advmod	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	'll	_	MD	MD	_	9	aux	_	_
+9	stay	_	VB	VB	_	0	root	_	_
+10	here	_	RB	RB	_	9	advmod	_	_
+11	again	_	RB	RB	_	9	advmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+

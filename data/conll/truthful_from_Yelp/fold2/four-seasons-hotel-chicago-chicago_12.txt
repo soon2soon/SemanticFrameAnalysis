@@ -1,0 +1,17 @@
+1	Another	_	DT	DT	_	3	det	_	_
+2	perfect	_	JJ	JJ	_	3	amod	_	_
+3	stay	_	NN	NN	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	Chicago	_	NNP	NNP	_	4	pobj	_	_
+6	...	_	:	:	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	four	_	CD	CD	_	3	num	_	_
+3	seasons	_	NNS	NNS	_	5	nsubj	_	_
+4	never	_	RB	RB	_	5	neg	_	_
+5	fails	_	VBZ	VBZ	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	exceed	_	VB	VB	_	5	xcomp	_	_
+8	expectations	_	NNS	NNS	_	7	dobj	_	_
+9	...	_	:	:	_	0	erased	_	_
+

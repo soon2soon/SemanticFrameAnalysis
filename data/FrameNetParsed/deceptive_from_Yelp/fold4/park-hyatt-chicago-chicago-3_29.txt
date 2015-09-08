@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Experiencer_focus","spans":[{"start":0,"end":1,"text":"Love"}]},"annotationSets":[{"rank":0,"score":50.326416286882704,"frameElements":[]}]}],"tokens":["Love","!!"]}

@@ -1,0 +1,15 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	happy	_	JJ	JJ	_	0	root	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	stay	_	NN	NN	_	3	pobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	0	root	_	_
+2	room	_	NN	NN	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	wonderful	_	JJ	JJ	_	6	amod	_	_
+6	staff	_	NN	NN	_	2	conj	_	_
+7	!	_	.	.	_	0	erased	_	_
+

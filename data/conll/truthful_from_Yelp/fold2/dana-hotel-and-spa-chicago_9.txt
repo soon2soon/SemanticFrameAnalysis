@@ -1,0 +1,54 @@
+1	Took	_	VB	VB	_	0	root	_	_
+2	exemplary	_	JJ	JJ	_	3	amod	_	_
+3	care	_	NN	NN	_	1	dobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	us	_	PRP	PRP	_	4	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	from	_	IN	IN	_	1	prep	_	_
+8	doorman	_	NN	NN	_	7	pobj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	concierge	_	VB	VB	_	8	vmod	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Complimentary	_	JJ	JJ	_	2	amod	_	_
+2	bottle	_	NN	NN	_	12	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	sparkling	_	JJ	JJ	_	7	amod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	amazing	_	JJ	JJ	_	7	amod	_	_
+7	view	_	NN	NN	_	3	dep	_	_
+8	-	_	:	:	_	0	erased	_	_
+9	all	_	DT	DT	_	10	advmod	_	_
+10	after	_	IN	IN	_	7	prep	_	_
+11	staff	_	NN	NN	_	10	pobj	_	_
+12	found	_	VBD	VBD	_	0	root	_	_
+13	out	_	RP	RP	_	12	prt	_	_
+14	we	_	PRP	PRP	_	15	nsubj	_	_
+15	made	_	VBD	VBD	_	12	ccomp	_	_
+16	it	_	PRP	PRP	_	17	nsubj	_	_
+17	official	_	JJ	JJ	_	15	xcomp	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Cozy	_	RB	RB	_	13	advmod	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	discrete	_	JJ	JJ	_	13	dep	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	central	_	JJ	JJ	_	3	conj	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	lot	_	NN	NN	_	6	pobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	things	_	NNS	NNS	_	9	pobj	_	_
+11	you	_	PRP	PRP	_	13	nsubj	_	_
+12	'd	_	MD	MD	_	13	aux	_	_
+13	want	_	VB	VB	_	0	root	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	do	_	VB	VB	_	13	xcomp	_	_
+16	in	_	IN	IN	_	15	prep	_	_
+17	Chitown	_	NNP	NNP	_	16	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+

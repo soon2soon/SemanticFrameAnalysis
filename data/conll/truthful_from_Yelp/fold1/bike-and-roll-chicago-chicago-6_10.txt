@@ -1,0 +1,40 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	tour	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	Chicago	_	NNP	NNP	_	8	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	Hyde	_	NNP	NNP	_	8	nn	_	_
+7	Park	_	NNP	NNP	_	8	nn	_	_
+8	neighborhood	_	NN	NN	_	3	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Tour	_	NNP	NNP	_	3	nn	_	_
+2	guide	_	NN	NN	_	3	nn	_	_
+3	Vincent	_	NNP	NNP	_	6	nsubj	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	knowledgeable	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	made	_	VBD	VBD	_	6	conj	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	day	_	NN	NN	_	11	nn	_	_
+11	fun	_	NN	NN	_	8	dobj	_	_
+12	!	_	.	.	_	0	erased	_	_
+
+1	Easy	_	NNP	NNP	_	3	nn	_	_
+2	bike	_	NN	NN	_	3	nn	_	_
+3	ride	_	NN	NN	_	11	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	food	_	NN	NN	_	3	conj	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	bikes	_	NNS	NNS	_	3	conj	_	_
+9	were	_	VBD	VBD	_	11	cop	_	_
+10	top	_	JJ	JJ	_	11	amod	_	_
+11	notch	_	NNS	NNS	_	0	root	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Do	_	VB	VB	_	0	root	_	_
+2	this	_	DT	DT	_	1	dobj	_	_
+3	!	_	.	.	_	0	erased	_	_
+

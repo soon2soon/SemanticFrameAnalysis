@@ -1,0 +1,96 @@
+1	Suite	_	NNP	NNP	_	3	nn	_	_
+2	Home	_	NNP	NNP	_	3	nn	_	_
+3	Chicago	_	NNP	NNP	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	amazing	_	JJ	JJ	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Jen	_	NNP	NNP	_	4	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	Sarah	_	NNP	NNP	_	1	conj	_	_
+4	found	_	VBD	VBD	_	0	root	_	_
+5	us	_	PRP	PRP	_	7	dep	_	_
+6	temporary	_	JJ	JJ	_	7	amod	_	_
+7	housing	_	NN	NN	_	4	dobj	_	_
+8	on	_	IN	IN	_	4	prep	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	short	_	JJ	JJ	_	11	amod	_	_
+11	notice	_	NN	NN	_	8	pobj	_	_
+12	with	_	IN	IN	_	4	prep	_	_
+13	1	_	CD	CD	_	15	num	_	_
+14	big	_	JJ	JJ	_	15	amod	_	_
+15	request	_	NN	NN	_	12	pobj	_	_
+16	...	_	:	:	_	0	erased	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	bring	_	VB	VB	_	4	parataxis	_	_
+19	our	_	PRP$	PRP$	_	21	poss	_	_
+20	2	_	CD	CD	_	21	num	_	_
+21	cats	_	NNS	NNS	_	18	dobj	_	_
+22	with	_	IN	IN	_	18	prep	_	_
+23	us	_	PRP	PRP	_	22	pobj	_	_
+24	.	_	.	.	_	0	erased	_	_
+
+1	SHC	_	NNP	NNP	_	2	nsubj	_	_
+2	placed	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	large	_	JJ	JJ	_	7	amod	_	_
+7	studio	_	NN	NN	_	4	pobj	_	_
+8	in	_	IN	IN	_	2	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Gold	_	NNP	NNP	_	11	nn	_	_
+11	Coast	_	NNP	NNP	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	great	_	JJ	JJ	_	3	amod	_	_
+3	home	_	NN	NN	_	13	nsubj	_	_
+4	away	_	RB	RB	_	3	advmod	_	_
+5	from	_	IN	IN	_	4	prep	_	_
+6	home	_	NN	NN	_	5	pobj	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	28	_	CD	CD	_	9	num	_	_
+9	days	_	NNS	NNS	_	7	pobj	_	_
+10	while	_	IN	IN	_	11	mark	_	_
+11	having	_	VBG	VBG	_	3	dep	_	_
+12	remodeling	_	VBG	VBG	_	11	vmod	_	_
+13	done	_	VBN	VBN	_	0	root	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Close	_	VB	VB	_	0	root	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	office	_	NN	NN	_	2	pobj	_	_
+5	and	_	CC	CC	_	1	cc	_	_
+6	close	_	VB	VB	_	1	conj	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	our	_	PRP$	PRP$	_	9	poss	_	_
+9	home	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	NNP	NNP	_	4	nn	_	_
+2	Suite	_	NNP	NNP	_	4	nn	_	_
+3	Home	_	NNP	NNP	_	4	nn	_	_
+4	Chicago	_	NNP	NNP	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	team	_	NN	NN	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	responsive	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	unit	_	NN	NN	_	9	nsubj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	well-stocked	_	JJ	JJ	_	4	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	HIGHLY	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	Suite	_	NNP	NNP	_	6	nn	_	_
+5	Home	_	NNP	NNP	_	6	nn	_	_
+6	Chicago	_	NNP	NNP	_	3	dobj	_	_
+7	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,22 @@
+1	Took	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	Chocolate	_	NNP	NNP	_	4	nn	_	_
+4	Tour	_	NNP	NNP	_	1	dobj	_	_
+5	with	_	IN	IN	_	1	prep	_	_
+6	Greg	_	NNP	NNP	_	5	pobj	_	_
+7	today	_	NN	NN	_	1	tmod	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	and	_	CC	CC	_	1	cc	_	_
+10	had	_	VBD	VBD	_	1	conj	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	great	_	JJ	JJ	_	13	amod	_	_
+13	time	_	NN	NN	_	10	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Looking	_	VBG	VBG	_	0	root	_	_
+2	forward	_	RB	RB	_	1	advmod	_	_
+3	to	_	TO	TO	_	1	prep	_	_
+4	more	_	JJR	JJR	_	5	amod	_	_
+5	tours	_	NNS	NNS	_	3	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+

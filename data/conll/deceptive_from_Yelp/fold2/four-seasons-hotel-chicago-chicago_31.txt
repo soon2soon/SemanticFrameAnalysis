@@ -1,0 +1,6 @@
+1	Absolutely	_	RB	RB	_	2	advmod	_	_
+2	love	_	VB	VB	_	0	root	_	_
+3	their	_	PRP$	PRP$	_	5	poss	_	_
+4	Sunday	_	NNP	NNP	_	5	nn	_	_
+5	brunch	_	NN	NN	_	2	dobj	_	_
+

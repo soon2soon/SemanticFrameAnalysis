@@ -1,0 +1,24 @@
+1	Best	_	RBS	RBS	_	2	advmod	_	_
+2	priced	_	VBN	VBN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	directly	_	RB	RB	_	2	conj	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	middle	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	magnificent	_	JJ	JJ	_	11	amod	_	_
+11	mile	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Recommend	_	VBN	VBN	_	0	root	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	anyone	_	NN	NN	_	2	pobj	_	_
+4	coming	_	VBG	VBG	_	3	vmod	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	Chicago	_	NNP	NNP	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	No	_	NNP	NNP	_	2	nn	_	_
+2	complaints	_	NNS	NNS	_	0	root	_	_
+

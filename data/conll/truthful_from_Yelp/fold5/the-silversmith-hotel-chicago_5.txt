@@ -1,0 +1,62 @@
+1	Wonderful	_	JJ	JJ	_	2	amod	_	_
+2	experience	_	NN	NN	_	0	root	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	time	_	NN	NN	_	3	pobj	_	_
+5	of	_	IN	IN	_	2	prep	_	_
+6	check/in	_	NN	NN	_	5	pobj	_	_
+7	to	_	TO	TO	_	2	prep	_	_
+8	check-out	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Other	_	JJ	JJ	_	2	amod	_	_
+2	reviewers	_	NNS	NNS	_	3	nsubj	_	_
+3	commented	_	VBD	VBD	_	0	root	_	_
+4	on	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	silver	_	JJ	JJ	_	7	amod	_	_
+7	theme	_	NN	NN	_	4	pobj	_	_
+8	...	_	:	:	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	thought	_	VBD	VBD	_	0	root	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	tastefully	_	RB	RB	_	6	advmod	_	_
+6	executed	_	JJ	JJ	_	2	ccomp	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	beautiful	_	JJ	JJ	_	10	amod	_	_
+10	retreat	_	NN	NN	_	6	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	room	_	NN	NN	_	7	nsubjpass	_	_
+3	was	_	VBD	VBD	_	7	auxpass	_	_
+4	spacious	_	RB	RB	_	7	advmod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	well	_	RB	RB	_	4	conj	_	_
+7	appointed	_	VBN	VBN	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Loved	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	bathroom	_	NN	NN	_	1	dobj	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	2	mark	_	_
+2	looking	_	VBG	VBG	_	10	advcl	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	stay	_	VB	VB	_	2	xcomp	_	_
+5	near	_	IN	IN	_	4	prep	_	_
+6	shopping	_	NN	NN	_	5	pobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	theaters	_	NNS	NNS	_	6	conj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	take	_	VB	VB	_	0	root	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	look	_	NN	NN	_	10	dobj	_	_
+13	at	_	IN	IN	_	10	prep	_	_
+14	this	_	DT	DT	_	15	det	_	_
+15	hotel	_	NN	NN	_	13	pobj	_	_
+16	!	_	.	.	_	0	erased	_	_
+

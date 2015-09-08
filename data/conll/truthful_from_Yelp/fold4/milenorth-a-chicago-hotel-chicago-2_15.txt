@@ -1,0 +1,56 @@
+1	One	_	CD	CD	_	5	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	fav	_	NN	NN	_	2	pobj	_	_
+5	experiences	_	VBZ	VBZ	_	0	root	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	far	_	RB	RB	_	6	pcomp	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Perfect	_	NNP	NNP	_	2	nn	_	_
+2	location	_	NN	NN	_	24	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	Starbucks	_	NNP	NNP	_	2	appos	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	lobby	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	GREAT	_	JJ	JJ	_	10	amod	_	_
+10	price	_	NN	NN	_	2	appos	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	close	_	RB	RB	_	10	advmod	_	_
+13	to	_	TO	TO	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	lake	_	NN	NN	_	13	pobj	_	_
+16	,	_	,	,	_	0	erased	_	_
+17	great	_	JJ	JJ	_	18	amod	_	_
+18	service	_	NN	NN	_	2	appos	_	_
+19	,	_	,	,	_	0	erased	_	_
+20	super	_	JJ	JJ	_	22	amod	_	_
+21	clean	_	JJ	JJ	_	22	amod	_	_
+22	room	_	NN	NN	_	2	appos	_	_
+23	,	_	,	,	_	0	erased	_	_
+24	MOCA	_	VBD	VBD	_	0	root	_	_
+25	right	_	RB	RB	_	24	advmod	_	_
+26	around	_	IN	IN	_	25	prep	_	_
+27	the	_	DT	DT	_	28	det	_	_
+28	corner	_	NN	NN	_	26	pobj	_	_
+29	,	_	,	,	_	0	erased	_	_
+30	Blue	_	JJ	JJ	_	31	amod	_	_
+31	line	_	NN	NN	_	28	appos	_	_
+32	to	_	TO	TO	_	31	prep	_	_
+33	the	_	DT	DT	_	36	det	_	_
+34	66	_	CD	CD	_	36	num	_	_
+35	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+36	bus	_	NN	NN	_	32	pobj	_	_
+37	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+38	1 1/2	_	CD	CD	_	39	num	_	_
+39	block	_	NN	NN	_	40	npadvmod	_	_
+40	away	_	RB	RB	_	26	advmod	_	_
+41	from	_	IN	IN	_	24	prep	_	_
+42	stop	_	NN	NN	_	41	pobj	_	_
+43	.	_	.	.	_	0	erased	_	_
+
+1	PERFECT	_	NNP	NNP	_	2	nn	_	_
+2	!!!	_	NNP	NNP	_	0	root	_	_
+

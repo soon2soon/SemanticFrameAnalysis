@@ -1,0 +1,90 @@
+1	Chicago	_	NNP	NNP	_	2	nn	_	_
+2	Limousine	_	NNP	NNP	_	5	nsubj	_	_
+3	&	_	CC	CC	_	2	cc	_	_
+4	Cars	_	NNPS	NNPS	_	2	conj	_	_
+5	did	_	VBD	VBD	_	0	root	_	_
+6	an	_	DT	DT	_	8	det	_	_
+7	outstanding	_	JJ	JJ	_	8	amod	_	_
+8	job	_	NN	NN	_	5	dobj	_	_
+9	for	_	IN	IN	_	5	prep	_	_
+10	me	_	PRP	PRP	_	9	pobj	_	_
+11	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	limo	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VBD	VBD	_	4	auxpass	_	_
+4	nice	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	clean	_	JJ	JJ	_	4	conj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	arrived	_	VBN	VBN	_	4	conj	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	time	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	driver	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	courteous	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	helpful	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	needed	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	make	_	VB	VB	_	2	xcomp	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	unexpected	_	JJ	JJ	_	7	amod	_	_
+7	stop	_	NN	NN	_	4	dobj	_	_
+8	and	_	CC	CC	_	2	cc	_	_
+9	he	_	PRP	PRP	_	10	nsubj	_	_
+10	said	_	VBD	VBD	_	2	conj	_	_
+11	it	_	PRP	PRP	_	14	nsubj	_	_
+12	was	_	VBD	VBD	_	14	cop	_	_
+13	no	_	DT	DT	_	14	neg	_	_
+14	problem	_	NN	NN	_	10	ccomp	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	drove	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	over	_	RP	RP	_	2	prt	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	waited	_	VBD	VBD	_	2	conj	_	_
+7	until	_	IN	IN	_	10	mark	_	_
+8	we	_	PRP	PRP	_	10	nsubjpass	_	_
+9	were	_	VBD	VBD	_	10	auxpass	_	_
+10	done	_	VBN	VBN	_	6	advcl	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	From	_	IN	IN	_	4	prep	_	_
+2	there	_	RB	RB	_	1	pobj	_	_
+3	we	_	PRP	PRP	_	4	nsubj	_	_
+4	went	_	VBD	VBD	_	0	root	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	destination	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Smooth	_	NNP	NNP	_	2	nsubj	_	_
+2	ride	_	VBP	VBP	_	0	root	_	_
+3	no	_	DT	DT	_	4	neg	_	_
+4	complaints	_	NNS	NNS	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	used	_	VBD	VBD	_	0	root	_	_
+3	them	_	PRP	PRP	_	2	dobj	_	_
+4	before	_	RB	RB	_	2	advmod	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	will	_	MD	MD	_	2	conj	_	_
+7	in	_	IN	IN	_	2	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	future	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Thank	_	VB	VB	_	0	root	_	_
+2	you	_	PRP	PRP	_	1	dobj	_	_
+3	!	_	.	.	_	0	erased	_	_
+

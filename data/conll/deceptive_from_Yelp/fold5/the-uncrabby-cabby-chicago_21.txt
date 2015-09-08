@@ -1,0 +1,38 @@
+1	LOVE	_	NNP	NNP	_	3	nn	_	_
+2	THEM	_	NNP	NNP	_	3	nn	_	_
+3	!!!!	_	NNP	NNP	_	0	root	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	really	_	RB	RB	_	3	advmod	_	_
+3	live	_	VBP	VBP	_	0	root	_	_
+4	up	_	RP	RP	_	3	prt	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	their	_	PRP$	PRP$	_	7	poss	_	_
+7	name	_	NN	NN	_	5	pobj	_	_
+8	too	_	RB	RB	_	7	advmod	_	_
+9	-	_	:	:	_	0	erased	_	_
+10	so	_	RB	RB	_	11	advmod	_	_
+11	friendly	_	JJ	JJ	_	7	amod	_	_
+12	and	_	CC	CC	_	7	cc	_	_
+13	not	_	RB	RB	_	16	neg	_	_
+14	crabby	_	JJ	JJ	_	16	amod	_	_
+15	!!	_	NNP	NNP	_	16	nn	_	_
+16	Affordable	_	NNP	NNP	_	7	conj	_	_
+17	,	_	,	,	_	0	erased	_	_
+18	reliable	_	JJ	JJ	_	23	dep	_	_
+19	,	_	,	,	_	0	erased	_	_
+20	timely	_	JJ	JJ	_	23	conj	_	_
+21	and	_	CC	CC	_	23	cc	_	_
+22	extremely	_	NN	NN	_	23	conj	_	_
+23	professional	_	NN	NN	_	3	acomp	_	_
+24	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	3	nsubj	_	_
+2	definately	_	RB	RB	_	3	advmod	_	_
+3	use	_	VBP	VBP	_	0	root	_	_
+4	them	_	PRP	PRP	_	3	dobj	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	again	_	RB	RB	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

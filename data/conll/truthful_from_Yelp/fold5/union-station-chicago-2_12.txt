@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	10	nsubj	_	_
+3	at	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Amtrak	_	NNP	NNP	_	6	nn	_	_
+6	ticket	_	NN	NN	_	3	pobj	_	_
+7	counter	_	RB	RB	_	8	advmod	_	_
+8	here	_	RB	RB	_	10	advmod	_	_
+9	really	_	RB	RB	_	10	advmod	_	_
+10	go	_	VBP	VBP	_	0	root	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	extra	_	JJ	JJ	_	13	amod	_	_
+13	mile	_	NN	NN	_	10	dobj	_	_
+14	for	_	IN	IN	_	13	prep	_	_
+15	you	_	PRP	PRP	_	14	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,26 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	views	_	NNS	NNS	_	0	root	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Hollywood	_	NNP	NNP	_	6	nn	_	_
+6	sign	_	NN	NN	_	3	pobj	_	_
+7	from	_	IN	IN	_	2	prep	_	_
+8	here	_	RB	RB	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Interesting	_	VBG	VBG	_	0	root	_	_
+2	museum	_	NN	NN	_	1	dobj	_	_
+3	well	_	RB	RB	_	1	advmod	_	_
+4	worth	_	IN	IN	_	1	prep	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	look	_	NN	NN	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	information	_	NN	NN	_	3	nsubj	_	_
+3	displayed	_	VBN	VBN	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	interesting	_	JJ	JJ	_	7	amod	_	_
+7	way	_	NN	NN	_	4	pobj	_	_
+

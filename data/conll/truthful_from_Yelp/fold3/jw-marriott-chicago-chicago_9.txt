@@ -1,0 +1,22 @@
+1	Really	_	RB	RB	_	3	dep	_	_
+2	nice	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	8	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+5	.	_	.	.	_	0	erased	_	_
+6	Staff	_	NNP	NNP	_	8	nsubj	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	welcoming	_	NN	NN	_	0	root	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	professional	_	JJ	JJ	_	8	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Valet	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	fast	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	easy	_	JJ	JJ	_	4	conj	_	_
+7	...	_	:	:	_	0	erased	_	_
+8	Highly	_	NNP	NNP	_	9	nsubj	_	_
+9	recommend	_	VBP	VBP	_	4	parataxis	_	_
+

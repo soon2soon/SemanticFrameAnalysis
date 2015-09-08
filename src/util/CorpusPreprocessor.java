@@ -35,6 +35,11 @@ public class CorpusPreprocessor {
 	public final static String dataPath_deceptive_jiwei_hotel_negative_expert = "data/deception_dataset_jiwei/hotel/negative/deceptive_expert";
 	public final static String dataPath_truthful_jiwei_hotel_negative = "data/deception_dataset_jiwei/hotel/negative/truthful";
 	
+	
+	public final static String dataPath_deceptive_yelp = "data/deceptive_from_Yelp";
+	public final static String dataPath_truthful_yelp = "data/truthful_from_Yelp";
+	
+	
 
 	public static void main(String[] args) {
 
@@ -43,15 +48,18 @@ public class CorpusPreprocessor {
 //		cPreprocessor.processFiles(dataPath_deceptive_ott);
 //		cPreprocessor.processFiles(dataPath_truthful_ott);
 		
-		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_positive_turker);
-		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_positive_expert);
-		cPreprocessor.processFiles(dataPath_truthful_jiwei_hotel_positive);
-		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_negative_turker);
-		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_negative_expert);
-		cPreprocessor.processFiles(dataPath_truthful_jiwei_hotel_negative);
+//		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_positive_turker);
+//		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_positive_expert);
+//		cPreprocessor.processFiles(dataPath_truthful_jiwei_hotel_positive);
+//		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_negative_turker);
+//		cPreprocessor.processFiles(dataPath_deceptive_jiwei_hotel_negative_expert);
+//		cPreprocessor.processFiles(dataPath_truthful_jiwei_hotel_negative);
 		
 		
-
+		cPreprocessor.processFiles(dataPath_deceptive_yelp);
+		cPreprocessor.processFiles(dataPath_truthful_yelp);
+		
+		
 	}
 
 	public void processFiles(String dataPath) {

@@ -1,0 +1,23 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	customer	_	NN	NN	_	0	root	_	_
+3	service	_	NN	NN	_	2	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	keep	_	VBP	VBP	_	0	root	_	_
+3	coming	_	VBG	VBG	_	2	xcomp	_	_
+4	back	_	RP	RP	_	3	prt	_	_
+5	because	_	IN	IN	_	8	mark	_	_
+6	Lauren	_	NNP	NNP	_	8	nsubj	_	_
+7	really	_	RB	RB	_	8	advmod	_	_
+8	knows	_	VBZ	VBZ	_	3	advcl	_	_
+9	how	_	WRB	WRB	_	11	advmod	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	treat	_	VB	VB	_	8	ccomp	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	customers	_	NNS	NNS	_	11	dobj	_	_
+14	with	_	IN	IN	_	11	prep	_	_
+15	5-star	_	JJ	JJ	_	16	amod	_	_
+16	service	_	NN	NN	_	14	pobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,74 @@
+1	Loving	_	VBG	VBG	_	0	root	_	_
+2	our	_	PRP$	PRP$	_	3	poss	_	_
+3	stay	_	NN	NN	_	1	dobj	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	19th	_	JJ	JJ	_	2	amod	_	_
+2	floor	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	unforgettable	_	JJ	JJ	_	5	amod	_	_
+5	view	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Govt/mil	_	JJ	JJ	_	2	amod	_	_
+2	discount	_	NN	NN	_	3	nsubj	_	_
+3	got	_	VBD	VBD	_	0	root	_	_
+4	us	_	PRP	PRP	_	5	nsubj	_	_
+5	$	_	$	$	_	3	xcomp	_	_
+6	155	_	CD	CD	_	5	num	_	_
+7	for	_	IN	IN	_	5	prep	_	_
+8	room	_	NN	NN	_	7	pobj	_	_
+9	-	_	:	:	_	0	erased	_	_
+10	very	_	RB	RB	_	11	advmod	_	_
+11	affordable	_	JJ	JJ	_	8	amod	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	But	_	CC	CC	_	2	cc	_	_
+2	$	_	$	$	_	0	root	_	_
+3	50	_	CD	CD	_	2	num	_	_
+4	+	_	VBN	VBN	_	2	vmod	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	parking	_	NN	NN	_	5	pobj	_	_
+7	?	_	.	.	_	0	erased	_	_
+
+1	Ugh	_	NNP	NNP	_	4	dep	_	_
+2	!	_	.	.	_	0	erased	_	_
+3	We	_	PRP	PRP	_	4	nsubj	_	_
+4	are	_	VBP	VBP	_	0	root	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	one	_	CD	CD	_	5	pobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	rooms	_	NNS	NNS	_	7	pobj	_	_
+10	not	_	RB	RB	_	11	neg	_	_
+11	updated	_	VBN	VBN	_	9	amod	_	_
+12	--	_	:	:	_	0	erased	_	_
+13	it	_	PRP	PRP	_	15	nsubj	_	_
+14	is	_	VBZ	VBZ	_	15	cop	_	_
+15	lovely	_	JJ	JJ	_	4	parataxis	_	_
+16	!!	_	VBG	VBG	_	15	xcomp	_	_
+17	Clean	_	NNP	NNP	_	16	dobj	_	_
+18	and	_	CC	CC	_	17	cc	_	_
+19	classy	_	NNP	NNP	_	17	conj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	Marble	_	VB	VB	_	0	root	_	_
+2	bathroom	_	NN	NN	_	5	nn	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	soft	_	JJ	JJ	_	2	conj	_	_
+5	beds	_	NNS	NNS	_	1	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Close	_	NNP	NNP	_	9	nsubj	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	ALL	_	NNP	NNP	_	2	pobj	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	major	_	JJ	JJ	_	6	amod	_	_
+6	sights	_	NNS	NNS	_	1	dep	_	_
+7	;	_	:	:	_	0	erased	_	_
+8	can	_	MD	MD	_	9	aux	_	_
+9	walk	_	VB	VB	_	0	root	_	_
+10	almost	_	RB	RB	_	11	advmod	_	_
+11	everywhere	_	RB	RB	_	9	advmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,34 @@
+1	On	_	IN	IN	_	10	prep	_	_
+2	time	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	affordable	_	JJ	JJ	_	7	amod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	pleasant	_	JJ	JJ	_	7	amod	_	_
+7	driver	_	NN	NN	_	10	nsubj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	clean	_	JJ	JJ	_	7	conj	_	_
+10	smelling	_	VBZ	VBZ	_	0	root	_	_
+11	car	_	NN	NN	_	10	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	What	_	WP	WP	_	2	det	_	_
+2	more	_	JJR	JJR	_	6	pobj	_	_
+3	could	_	MD	MD	_	5	aux	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	ask	_	VB	VB	_	0	root	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	?	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	root	_	_
+3	me	_	PRP	PRP	_	2	dobj	_	_
+4	to	_	TO	TO	_	2	prep	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	from	_	IN	IN	_	4	conj	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	airport	_	NN	NN	_	4	pobj	_	_
+9	safely	_	RB	RB	_	2	advmod	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	comfortably	_	RB	RB	_	9	conj	_	_
+12	!	_	.	.	_	0	erased	_	_
+

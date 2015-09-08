@@ -1,0 +1,59 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	husband	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	had	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	wonderful	_	JJ	JJ	_	8	amod	_	_
+8	stay	_	NN	NN	_	5	dobj	_	_
+9	here	_	RB	RB	_	5	advmod	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	service	_	NN	NN	_	6	nsubj	_	_
+3	was	_	VBD	VBD	_	6	cop	_	_
+4	really	_	RB	RB	_	6	advmod	_	_
+5	top	_	JJ	JJ	_	6	amod	_	_
+6	notch	_	NNS	NNS	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	food	_	NN	NN	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	delicious	_	JJ	JJ	_	6	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	retun	_	VB	VB	_	0	root	_	_
+4	here	_	RB	RB	_	3	advmod	_	_
+5	in	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	future	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Gym	_	NNP	NNP	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	also	_	RB	RB	_	6	advmod	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	nice	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	I	_	PRP	PRP	_	10	nsubj	_	_
+9	highly	_	RB	RB	_	10	advmod	_	_
+10	reccomend	_	VBD	VBD	_	6	conj	_	_
+11	using	_	VBG	VBG	_	10	xcomp	_	_
+12	at	_	IN	IN	_	11	prep	_	_
+13	at	_	IN	IN	_	12	pcomp	_	_
+14	your	_	PRP$	PRP$	_	15	poss	_	_
+15	stay	_	NN	NN	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	room	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	large	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	spacious	_	JJ	JJ	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,16 @@
+1	Nice	_	JJ	JJ	_	2	amod	_	_
+2	rooms	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	great	_	JJ	JJ	_	6	amod	_	_
+5	customer	_	NN	NN	_	6	nn	_	_
+6	service	_	NN	NN	_	2	appos	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	good	_	JJ	JJ	_	9	amod	_	_
+9	location	_	NN	NN	_	6	appos	_	_
+10	!	_	.	.	_	0	erased	_	_
+
+1	Ca	_	MD	MD	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	complain	_	VB	VB	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

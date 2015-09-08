@@ -1,0 +1,13 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	fast	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	efficient	_	JJ	JJ	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	3	aux	_	_
+2	definitely	_	RB	RB	_	3	advmod	_	_
+3	use	_	VB	VB	_	0	root	_	_
+4	them	_	PRP	PRP	_	3	dobj	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+

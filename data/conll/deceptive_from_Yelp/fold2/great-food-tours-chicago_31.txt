@@ -1,0 +1,23 @@
+1	Greg	_	NNP	NNP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	job	_	NN	NN	_	2	dobj	_	_
+6	taking	_	VBG	VBG	_	2	xcomp	_	_
+7	us	_	PRP	PRP	_	6	dobj	_	_
+8	on	_	IN	IN	_	6	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	cupcake	_	JJ	JJ	_	11	amod	_	_
+11	tour	_	NN	NN	_	8	pobj	_	_
+12	!	_	.	.	_	0	erased	_	_
+
+1	Very	_	JJ	JJ	_	2	amod	_	_
+2	fun	_	NN	NN	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Informational	_	NN	NN	_	2	conj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	yummy	_	NN	NN	_	4	conj	_	_
+7	cupcake	_	VBP	VBP	_	0	root	_	_
+8	samples	_	NNS	NNS	_	7	dobj	_	_
+9	!	_	.	.	_	0	erased	_	_
+

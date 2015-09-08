@@ -1,0 +1,53 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	use	_	VB	VB	_	1	xcomp	_	_
+4	when	_	WRB	WRB	_	7	advmod	_	_
+5	our	_	PRP$	PRP$	_	6	poss	_	_
+6	car	_	NN	NN	_	7	nsubj	_	_
+7	was	_	VBD	VBD	_	3	advcl	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	shop	_	NN	NN	_	8	pobj	_	_
+11	getting	_	VBG	VBG	_	10	vmod	_	_
+12	fixed	_	VBN	VBN	_	11	dep	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Ariel	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	agent	_	NN	NN	_	0	root	_	_
+5	who	_	WP	WP	_	6	nsubj	_	_
+6	brought	_	VBD	VBD	_	4	rcmod	_	_
+7	us	_	PRP	PRP	_	6	iobj	_	_
+8	our	_	PRP$	PRP$	_	10	poss	_	_
+9	car	_	NN	NN	_	10	nn	_	_
+10	rental	_	NN	NN	_	6	dobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	nice	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	professional	_	JJ	JJ	_	8	nsubj	_	_
+8	took	_	VBD	VBD	_	4	conj	_	_
+9	time	_	NN	NN	_	8	dobj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	explain	_	VB	VB	_	8	vmod	_	_
+12	things	_	NNS	NNS	_	11	dobj	_	_
+13	to	_	TO	TO	_	11	prep	_	_
+14	us	_	PRP	PRP	_	13	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	nsubj	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	close	_	NN	NN	_	5	dep	_	_
+4	to	_	TO	TO	_	5	dep	_	_
+5	home	_	NN	NN	_	2	advmod	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	use	_	VB	VB	_	2	conj	_	_
+9	again	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	0	erased	_	_
+

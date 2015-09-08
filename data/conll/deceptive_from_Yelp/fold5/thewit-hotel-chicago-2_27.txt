@@ -1,0 +1,85 @@
+1	Disappointed	_	VBN	VBN	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	Wit	_	NNP	NNP	_	4	nsubj	_	_
+3	should	_	MD	MD	_	4	aux	_	_
+4	feel	_	VB	VB	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	way	_	NN	NN	_	4	dobj	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	'd	_	MD	MD	_	9	aux	_	_
+9	feel	_	VB	VB	_	6	rcmod	_	_
+10	if	_	IN	IN	_	12	mark	_	_
+11	I	_	PRP	PRP	_	12	nsubj	_	_
+12	failed	_	VBD	VBD	_	9	advcl	_	_
+13	a	_	DT	DT	_	14	det	_	_
+14	test	_	NN	NN	_	12	dobj	_	_
+15	in	_	IN	IN	_	12	prep	_	_
+16	school	_	NN	NN	_	15	pobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	From	_	IN	IN	_	6	prep	_	_
+2	begining	_	NN	NN	_	1	pobj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	end	_	VB	VB	_	2	vmod	_	_
+5	they	_	PRP	PRP	_	6	nsubj	_	_
+6	failed	_	VBD	VBD	_	0	root	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	customer	_	NN	NN	_	9	nn	_	_
+9	service	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	felt	_	VBD	VBD	_	0	root	_	_
+3	like	_	IN	IN	_	2	prep	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	unwelcomed	_	JJ	JJ	_	6	amod	_	_
+6	guest	_	NN	NN	_	3	pobj	_	_
+7	in	_	IN	IN	_	2	prep	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	strangers	_	JJ	JJ	_	10	amod	_	_
+10	home	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	2	advmod	_	_
+2	talking	_	VBG	VBG	_	8	advcl	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	hotel	_	NN	NN	_	6	nn	_	_
+6	Manager	_	NN	NN	_	3	pobj	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	felt	_	VBD	VBD	_	0	root	_	_
+9	unheard	_	JJ	JJ	_	8	acomp	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	undervalued	_	JJ	JJ	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Bottom	_	JJ	JJ	_	2	amod	_	_
+2	line	_	NN	NN	_	15	nsubj	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	wanted	_	VBD	VBD	_	2	rcmod	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	nice	_	JJ	JJ	_	7	amod	_	_
+7	experience	_	NN	NN	_	4	dobj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	ended	_	VBD	VBD	_	4	conj	_	_
+10	up	_	RP	RP	_	9	prt	_	_
+11	regretting	_	VBG	VBG	_	9	xcomp	_	_
+12	I	_	PRP	PRP	_	11	dobj	_	_
+13	had	_	VBD	VBD	_	15	aux	_	_
+14	n't	_	RB	RB	_	15	neg	_	_
+15	stayed	_	VBN	VBN	_	0	root	_	_
+16	somewhere	_	RB	RB	_	17	advmod	_	_
+17	else	_	RB	RB	_	15	advmod	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Although	_	IN	IN	_	5	mark	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	bath	_	NN	NN	_	5	nsubj	_	_
+5	tub	_	VBP	VBP	_	7	csubj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	nice	_	JJ	JJ	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+

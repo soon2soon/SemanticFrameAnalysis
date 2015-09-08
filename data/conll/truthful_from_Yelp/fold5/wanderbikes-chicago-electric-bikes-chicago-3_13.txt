@@ -1,0 +1,67 @@
+1	Stumbled	_	VBN	VBN	_	0	root	_	_
+2	across	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	electric	_	JJ	JJ	_	5	amod	_	_
+5	WanderBikes	_	NNS	NNS	_	2	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Enjoyed	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	ride	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Sturdy	_	JJ	JJ	_	2	amod	_	_
+2	bikes	_	NNS	NNS	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	neat	_	JJ	JJ	_	5	amod	_	_
+5	concept	_	NN	NN	_	2	conj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	great	_	JJ	JJ	_	2	conj	_	_
+9	for	_	IN	IN	_	2	prep	_	_
+10	touring	_	VBG	VBG	_	9	pcomp	_	_
+11	around	_	IN	IN	_	10	prep	_	_
+12	Chicago	_	NNP	NNP	_	11	pobj	_	_
+13	and	_	CC	CC	_	11	cc	_	_
+14	along	_	IN	IN	_	11	conj	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	lakefront	_	NN	NN	_	14	pobj	_	_
+17	without	_	IN	IN	_	10	prep	_	_
+18	having	_	VBG	VBG	_	17	pcomp	_	_
+19	to	_	TO	TO	_	20	aux	_	_
+20	do	_	VB	VB	_	18	xcomp	_	_
+21	all	_	PDT	PDT	_	23	predet	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	work	_	NN	NN	_	20	iobj	_	_
+24	yourself	_	PRP	PRP	_	20	dobj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	VB	VB	_	0	root	_	_
+2	friendly	_	JJ	JJ	_	5	amod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	nice	_	JJ	JJ	_	2	conj	_	_
+5	owner	_	NN	NN	_	1	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	're	_	VBP	VBP	_	10	advcl	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	need	_	NN	NN	_	4	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	some	_	DT	DT	_	8	det	_	_
+8	wheels	_	NNS	NNS	_	6	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	give	_	VB	VB	_	0	root	_	_
+11	this	_	DT	DT	_	10	iobj	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	shot	_	NN	NN	_	10	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	5	nsubj	_	_
+2	wo	_	MD	MD	_	5	aux	_	_
+3	n't	_	RB	RB	_	5	neg	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	disappointed	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+

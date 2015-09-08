@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Locale","spans":[{"start":1,"end":2,"text":"place"}]},"annotationSets":[{"rank":0,"score":45.00077054046267,"frameElements":[{"name":"Locale","spans":[{"start":1,"end":2,"text":"place"}]}]}]}],"tokens":["This","place","is","PIMP","!"]}

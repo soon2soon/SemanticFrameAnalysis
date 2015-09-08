@@ -1,0 +1,65 @@
+1	Pretty	_	VB	VB	_	0	root	_	_
+2	sweet	_	JJ	JJ	_	3	amod	_	_
+3	tour	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	3	poss	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	12	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	Jake	_	NNP	NNP	_	3	appos	_	_
+6	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+7	from	_	IN	IN	_	5	prep	_	_
+8	State	_	NNP	NNP	_	9	nn	_	_
+9	Farm	_	NNP	NNP	_	7	pobj	_	_
+10	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+11	was	_	VBD	VBD	_	12	cop	_	_
+12	knowledgeable	_	JJ	JJ	_	0	root	_	_
+13	about	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	major	_	JJ	JJ	_	16	amod	_	_
+16	buildings	_	NNS	NNS	_	13	pobj	_	_
+17	in	_	IN	IN	_	16	prep	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	city	_	NN	NN	_	20	nn	_	_
+20	skyline	_	NN	NN	_	17	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	Really	_	RB	RB	_	2	advmod	_	_
+2	good	_	JJ	JJ	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	crash	_	NN	NN	_	6	nn	_	_
+6	course	_	NN	NN	_	3	pobj	_	_
+7	about	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	city	_	NN	NN	_	10	nn	_	_
+10	skyline	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	No	_	DT	DT	_	2	neg	_	_
+2	negatives	_	NNS	NNS	_	4	nsubj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	report	_	VB	VB	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	NNP	NNP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	had	_	VBN	VBN	_	0	root	_	_
+4	five	_	CD	CD	_	5	num	_	_
+5	stars	_	NNS	NNS	_	3	dobj	_	_
+6	if	_	IN	IN	_	11	mark	_	_
+7	it	_	PRP	PRP	_	11	nsubj	_	_
+8	was	_	VBD	VBD	_	11	cop	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	longer	_	JJR	JJR	_	11	amod	_	_
+11	tour	_	NN	NN	_	5	dep	_	_
+12	and	_	CC	CC	_	3	cc	_	_
+13	continued	_	VBN	VBN	_	3	conj	_	_
+14	on	_	IN	IN	_	13	prep	_	_
+15	further	_	RB	RB	_	18	advmod	_	_
+16	down	_	IN	IN	_	18	amod	_	_
+17	Chicago	_	NNP	NNP	_	18	nn	_	_
+18	River	_	NN	NN	_	14	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+

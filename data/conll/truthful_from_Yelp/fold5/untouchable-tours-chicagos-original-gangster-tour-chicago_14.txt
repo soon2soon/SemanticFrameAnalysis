@@ -1,0 +1,51 @@
+1	This	_	DT	DT	_	2	det	_	_
+2	dame	_	NN	NN	_	3	nsubj	_	_
+3	loved	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	tour	_	NN	NN	_	3	dobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Johnny	_	NNP	NNP	_	3	nn	_	_
+2	Three	_	NNP	NNP	_	3	nn	_	_
+3	Knives	_	NNP	NNP	_	8	nsubj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	Nails	_	NNPS	NNPS	_	3	conj	_	_
+6	were	_	VBD	VBD	_	8	cop	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	entertaining	_	JJ	JJ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	grew	_	VBD	VBD	_	0	root	_	_
+3	up	_	RP	RP	_	2	prt	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	Chicago	_	NNP	NNP	_	4	pobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Untouchable	_	NNP	NNP	_	10	nn	_	_
+9	Tours	_	NNP	NNP	_	10	nn	_	_
+10	bus	_	NN	NN	_	11	nsubj	_	_
+11	passes	_	VBZ	VBZ	_	2	conj	_	_
+12	our	_	PRP$	PRP$	_	13	poss	_	_
+13	house	_	NN	NN	_	11	dobj	_	_
+14	daily	_	RB	RB	_	11	advmod	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	fiance	_	NN	NN	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	have	_	VBP	VBP	_	7	aux	_	_
+6	always	_	RB	RB	_	7	advmod	_	_
+7	wanted	_	VBN	VBN	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	take	_	VB	VB	_	7	xcomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	tour	_	NN	NN	_	9	dobj	_	_
+12	and	_	CC	CC	_	7	cc	_	_
+13	are	_	VBP	VBP	_	14	cop	_	_
+14	gad	_	JJ	JJ	_	7	conj	_	_
+15	we	_	PRP	PRP	_	16	nsubj	_	_
+16	did	_	VBD	VBD	_	14	ccomp	_	_
+17	!	_	.	.	_	0	erased	_	_
+

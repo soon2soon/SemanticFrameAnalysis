@@ -1,0 +1,54 @@
+1	Unique	_	VB	VB	_	0	root	_	_
+2	way	_	NN	NN	_	1	dobj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	see	_	VB	VB	_	1	vmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	city	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	8	cc	_	_
+2	by	_	IN	IN	_	8	prep	_	_
+3	see	_	VB	VB	_	2	pcomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	I	_	PRP	PRP	_	8	nsubj	_	_
+6	do	_	VBP	VBP	_	8	aux	_	_
+7	n't	_	RB	RB	_	8	neg	_	_
+8	mean	_	VB	VB	_	0	root	_	_
+9	traditional	_	JJ	JJ	_	10	amod	_	_
+10	sight	_	NN	NN	_	8	dobj	_	_
+11	seeing	_	VBG	VBG	_	10	vmod	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	More	_	RBR	RBR	_	2	advmod	_	_
+2	sustainable	_	JJ	JJ	_	3	amod	_	_
+3	touring	_	NN	NN	_	0	root	_	_
+4	--	_	:	:	_	0	erased	_	_
+5	facts	_	NNS	NNS	_	3	dep	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	ways	_	NNS	NNS	_	5	conj	_	_
+8	of	_	IN	IN	_	5	prep	_	_
+9	understanding	_	VBG	VBG	_	8	pcomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	city	_	NN	NN	_	9	dobj	_	_
+12	that	_	WDT	WDT	_	13	nsubj	_	_
+13	apply	_	VBP	VBP	_	11	rcmod	_	_
+14	elsewhere	_	RB	RB	_	13	advmod	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	2	det	_	_
+2	bit	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	dry	_	JJ	JJ	_	5	amod	_	_
+5	humor	_	NN	NN	_	3	pobj	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	side	_	NN	NN	_	6	pobj	_	_
+9	too	_	RB	RB	_	2	advmod	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNS	NNS	_	0	root	_	_
+2	Vicki	_	NNP	NNP	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Amanda	_	NNP	NNP	_	2	conj	_	_
+5	!	_	.	.	_	0	erased	_	_
+

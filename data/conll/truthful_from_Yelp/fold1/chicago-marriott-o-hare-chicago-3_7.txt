@@ -1,0 +1,18 @@
+1	Staff	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	wonderful	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	service	_	NN	NN	_	10	nsubj	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	hotel	_	NN	NN	_	6	pobj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	great	_	JJ	JJ	_	3	conj	_	_
+11	and	_	CC	CC	_	3	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	room	_	NN	NN	_	16	nsubj	_	_
+14	was	_	VBD	VBD	_	16	cop	_	_
+15	just	_	RB	RB	_	16	advmod	_	_
+16	perfect	_	JJ	JJ	_	3	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+

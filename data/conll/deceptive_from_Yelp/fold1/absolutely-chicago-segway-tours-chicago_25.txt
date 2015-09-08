@@ -1,0 +1,72 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	an	_	DT	DT	_	5	det	_	_
+4	excellent	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Aaron	_	NNP	NNP	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	tour	_	NN	NN	_	5	nn	_	_
+5	guide	_	NN	NN	_	0	root	_	_
+6	&	_	CC	CC	_	5	cc	_	_
+7	he	_	PRP	PRP	_	5	conj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	perfection	_	NN	NN	_	7	rcmod	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	funny	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	great	_	JJ	JJ	_	3	conj	_	_
+6	at	_	IN	IN	_	3	prep	_	_
+7	teaching	_	VBG	VBG	_	6	pcomp	_	_
+8	us	_	PRP	PRP	_	7	dobj	_	_
+9	how	_	WRB	WRB	_	11	advmod	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	use	_	VB	VB	_	7	xcomp	_	_
+12	product	_	NN	NN	_	11	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	knowledgeable	_	JJ	JJ	_	0	root	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	city	_	NN	NN	_	5	pobj	_	_
+7	which	_	WDT	WDT	_	8	nsubj	_	_
+8	taught	_	VBD	VBD	_	6	rcmod	_	_
+9	us	_	PRP	PRP	_	8	iobj	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	lot	_	NN	NN	_	8	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	loved	_	VBD	VBD	_	0	root	_	_
+3	how	_	WRB	WRB	_	7	advmod	_	_
+4	it	_	PRP	PRP	_	7	nsubj	_	_
+5	was	_	VBD	VBD	_	7	cop	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	family	_	NN	NN	_	2	ccomp	_	_
+8	owned	_	VBN	VBN	_	7	vmod	_	_
+9	&	_	CC	CC	_	10	nsubj	_	_
+10	operated	_	VBD	VBD	_	8	ccomp	_	_
+11	business	_	NN	NN	_	10	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	A	_	NNP	NNP	_	3	nsubj	_	_
+2	must	_	MD	MD	_	3	aux	_	_
+3	do	_	VB	VB	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	Chicago	_	NNP	NNP	_	4	pobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	!	_	UH	UH	_	0	erased	_	_
+
+1	Request	_	JJ	JJ	_	3	amod	_	_
+2	aaron	_	NN	NN	_	3	nn	_	_
+3	-LRB-	_	NNS	NNS	_	0	erased	_	_
+4	:	_	:	:	_	0	erased	_	_
+

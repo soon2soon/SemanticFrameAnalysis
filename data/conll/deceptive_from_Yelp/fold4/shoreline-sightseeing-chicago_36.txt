@@ -1,0 +1,6 @@
+1	had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	time	_	NN	NN	_	1	dobj	_	_
+5	!	_	.	.	_	0	erased	_	_
+

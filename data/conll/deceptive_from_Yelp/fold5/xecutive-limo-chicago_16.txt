@@ -1,0 +1,29 @@
+1	Driver	_	NN	NN	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	prompt	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	helpful	_	JJ	JJ	_	3	conj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	professional	_	JJ	JJ	_	3	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Limo	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	modern	_	JJ	JJ	_	13	ccomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	clean	_	JJ	JJ	_	13	nsubj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	stocked	_	NNP	NNP	_	5	appos	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	etc.	_	FW	FW	_	7	appos	_	_
+10	.	_	.	.	_	0	erased	_	_
+11	Would	_	MD	MD	_	13	aux	_	_
+12	definitely	_	RB	RB	_	13	advmod	_	_
+13	recommend	_	VB	VB	_	0	root	_	_
+14	Xecutive	_	NNP	NNP	_	15	nn	_	_
+15	Limo	_	NNP	NNP	_	13	dobj	_	_
+16	to	_	TO	TO	_	15	prep	_	_
+17	anyone	_	NN	NN	_	16	pobj	_	_
+18	!	_	.	.	_	0	erased	_	_
+

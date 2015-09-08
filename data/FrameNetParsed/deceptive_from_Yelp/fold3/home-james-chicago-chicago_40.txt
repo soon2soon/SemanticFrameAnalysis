@@ -1,0 +1,1 @@
+{"frames":[{"target":{"name":"Chemical-sense_description","spans":[{"start":0,"end":1,"text":"Smelly"}]},"annotationSets":[{"rank":0,"score":9.10266265638507,"frameElements":[]}]}],"tokens":["Smelly","car/driver"]}

@@ -1,0 +1,36 @@
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	flight	_	NN	NN	_	3	nsubj	_	_
+3	came	_	VBD	VBD	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	late	_	RB	RB	_	4	pobj	_	_
+7	but	_	CC	CC	_	3	cc	_	_
+8	everything	_	NN	NN	_	9	nsubj	_	_
+9	went	_	VBD	VBD	_	3	conj	_	_
+10	smooth	_	JJ	JJ	_	9	acomp	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	5	_	CD	CD	_	2	nsubj	_	_
+2	stars	_	VBZ	VBZ	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	:	_	:	:	_	0	erased	_	_
+5	on	_	IN	IN	_	2	prep	_	_
+6	time	_	NN	NN	_	7	nn	_	_
+7	service	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	very	_	RB	RB	_	11	advmod	_	_
+10	polite	_	RB	RB	_	11	advmod	_	_
+11	driver	_	JJ	JJ	_	2	dep	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	accommodating	_	VBG	VBG	_	11	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNS	NNS	_	0	root	_	_
+2	much	_	RB	RB	_	1	dep	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	service	_	NN	NN	_	3	pobj	_	_
+7	!	_	.	.	_	0	erased	_	_
+

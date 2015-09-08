@@ -1,0 +1,61 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	luved	_	VBD	VBD	_	0	root	_	_
+3	this	_	DT	DT	_	5	det	_	_
+4	boutique	_	NN	NN	_	5	nn	_	_
+5	hotel	_	NN	NN	_	2	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Beds	_	NNS	NNS	_	3	nsubj	_	_
+2	were	_	VBD	VBD	_	3	cop	_	_
+3	comfortable	_	JJ	JJ	_	7	ccomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	bath	_	NN	NN	_	7	nsubj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	nice	_	JJ	JJ	_	0	root	_	_
+8	&	_	CC	CC	_	7	cc	_	_
+9	most	_	RBS	RBS	_	10	advmod	_	_
+10	important	_	JJ	JJ	_	11	amod	_	_
+11	everything	_	NN	NN	_	7	conj	_	_
+12	was	_	VBD	VBD	_	14	cop	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	clean	_	JJ	JJ	_	11	rcmod	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	only	_	JJ	JJ	_	3	amod	_	_
+3	draw	_	NN	NN	_	6	nsubj	_	_
+4	back	_	RB	RB	_	6	advmod	_	_
+5	was	_	VBD	VBD	_	6	aux	_	_
+6	parking	_	VBG	VBG	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	$	_	$	$	_	5	nsubj	_	_
+2	54	_	CD	CD	_	1	num	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	night	_	NN	NN	_	1	dep	_	_
+5	seems	_	VBZ	VBZ	_	0	root	_	_
+6	high	_	JJ	JJ	_	5	acomp	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	me	_	PRP	PRP	_	7	pobj	_	_
+9	?	_	.	.	_	0	erased	_	_
+
+1	Other	_	JJ	JJ	_	11	nsubj	_	_
+2	then	_	RB	RB	_	1	advmod	_	_
+3	that	_	IN	IN	_	6	mark	_	_
+4	no	_	DT	DT	_	5	neg	_	_
+5	complaints	_	NNS	NNS	_	6	nsubj	_	_
+6	:-RRB-	_	VBD	VBD	_	1	dep	_	_
+7	We	_	PRP	PRP	_	8	nsubj	_	_
+8	booked	_	VBD	VBD	_	6	ccomp	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	Priceline	_	NNP	NNP	_	9	pobj	_	_
+11	@	_	VBZ	VBZ	_	0	root	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	rate	_	NN	NN	_	11	dobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	$	_	$	$	_	14	pobj	_	_
+16	220	_	CD	CD	_	15	num	_	_
+17	per	_	IN	IN	_	15	prep	_	_
+18	night	_	NN	NN	_	17	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+

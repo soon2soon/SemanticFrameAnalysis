@@ -1,0 +1,9 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	trains	_	NNS	NNS	_	0	root	_	_
+3	...	_	:	:	_	0	erased	_	_
+4	much	_	RB	RB	_	5	advmod	_	_
+5	better	_	JJR	JJR	_	2	dep	_	_
+6	than	_	IN	IN	_	5	prep	_	_
+7	driving	_	VBG	VBG	_	6	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+

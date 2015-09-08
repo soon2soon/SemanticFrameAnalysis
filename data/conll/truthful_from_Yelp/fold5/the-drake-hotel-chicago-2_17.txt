@@ -1,0 +1,63 @@
+1	Attended	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	6	det	_	_
+3	2012	_	CD	CD	_	6	num	_	_
+4	12th	_	NNP	NNP	_	6	nn	_	_
+5	Night	_	NNP	NNP	_	6	nn	_	_
+6	Masque	_	NNP	NNP	_	1	dobj	_	_
+7	on	_	IN	IN	_	1	prep	_	_
+8	January	_	NNP	NNP	_	7	pobj	_	_
+9	28	_	CD	CD	_	8	num	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	2	_	CD	CD	_	4	num	_	_
+4	rooms	_	NNS	NNS	_	2	dobj	_	_
+5	that	_	WDT	WDT	_	10	nsubj	_	_
+6	were	_	VBD	VBD	_	10	cop	_	_
+7	both	_	DT	DT	_	10	dep	_	_
+8	fantastic	_	JJ	JJ	_	9	amod	_	_
+9	great	_	JJ	JJ	_	10	amod	_	_
+10	views	_	NNS	NNS	_	4	rcmod	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	lake	_	NN	NN	_	11	pobj	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	Michigan	_	NNP	NNP	_	16	nn	_	_
+16	Avenue	_	NNP	NNP	_	13	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	Hotel	_	NNP	NNP	_	2	nn	_	_
+2	staff	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	WONDERFUL	_	NNP	NNP	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	doormen	_	NNS	NNS	_	4	appos	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	reception	_	NN	NN	_	4	appos	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	security	_	NN	NN	_	4	appos	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Brunch	_	JJ	JJ	_	4	amod	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	next	_	JJ	JJ	_	4	amod	_	_
+4	day	_	NN	NN	_	11	nsubj	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	9	det	_	_
+7	Drake	_	NNP	NNP	_	9	nn	_	_
+8	Bros.	_	NNPS	NNPS	_	9	nn	_	_
+9	restaurant	_	NN	NN	_	5	pobj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	delicious	_	JJ	JJ	_	0	root	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	THANK	_	VBD	VBD	_	0	root	_	_
+2	YOU	_	PRP	PRP	_	1	dobj	_	_
+3	for	_	IN	IN	_	1	prep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	GREAT	_	JJ	JJ	_	6	amod	_	_
+6	Party	_	NN	NN	_	3	pobj	_	_
+7	Drake	_	NNP	NNP	_	8	nn	_	_
+8	!!!	_	NNP	NNP	_	1	nsubj	_	_
+

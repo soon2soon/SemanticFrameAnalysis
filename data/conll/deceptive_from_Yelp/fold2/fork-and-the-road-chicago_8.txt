@@ -1,0 +1,4 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	idea	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,30 @@
+1	This	_	DT	DT	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	lot	_	NN	NN	_	0	root	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	fun	_	NN	NN	_	5	pobj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	staff	_	NN	NN	_	12	nsubj	_	_
+10	are	_	VBP	VBP	_	12	cop	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	knowledgeable	_	JJ	JJ	_	4	conj	_	_
+13	about	_	IN	IN	_	12	prep	_	_
+14	craft	_	NN	NN	_	15	nn	_	_
+15	beers	_	NNS	NNS	_	13	pobj	_	_
+16	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	way	_	NN	NN	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	sample	_	NN	NN	_	3	pobj	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	fruits	_	NNS	NNS	_	2	dep	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	chicago	_	JJ	JJ	_	11	amod	_	_
+9	craft	_	NN	NN	_	11	nn	_	_
+10	beer	_	NN	NN	_	11	nn	_	_
+11	scene	_	NN	NN	_	7	pobj	_	_
+12	!	_	.	.	_	0	erased	_	_
+

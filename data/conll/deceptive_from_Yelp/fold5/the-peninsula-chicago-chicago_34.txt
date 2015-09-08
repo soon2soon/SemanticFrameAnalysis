@@ -1,0 +1,20 @@
+1	Best	_	JJS	JJS	_	0	root	_	_
+2	hotel	_	NN	NN	_	1	dep	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	city	_	NN	NN	_	3	dep	_	_
+6	.	_	.	.	_	0	erased	_	_
+7	.	_	.	.	_	0	erased	_	_
+8	Best	_	:	:	_	5	punct	_	_
+9	spa	_	NN	NN	_	5	dep	_	_
+10	also	_	RB	RB	_	9	dep	_	_
+11	.	_	.	.	_	0	erased	_	_
+12	.	_	.	.	_	0	erased	_	_
+13	Great	_	JJ	JJ	_	14	amod	_	_
+14	food	_	NN	NN	_	1	dep	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	service	_	NN	NN	_	14	appos	_	_
+17	,	_	,	,	_	0	erased	_	_
+18	location	_	NN	NN	_	1	appos	_	_
+19	...	_	:	:	_	0	erased	_	_
+

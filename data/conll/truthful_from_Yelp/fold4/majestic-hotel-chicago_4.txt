@@ -1,0 +1,37 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	staff	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	accommodations	_	NNS	NNS	_	2	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	location	_	NN	NN	_	2	appos	_	_
+9	...	_	:	:	_	0	erased	_	_
+
+1	Not	_	RB	RB	_	2	dep	_	_
+2	much	_	RB	RB	_	3	advmod	_	_
+3	left	_	VBN	VBN	_	11	vmod	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	say	_	VB	VB	_	3	xcomp	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	I	_	PRP	PRP	_	11	nsubj	_	_
+8	'll	_	MD	MD	_	11	aux	_	_
+9	be	_	VB	VB	_	11	cop	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	repeat	_	NN	NN	_	0	root	_	_
+12	here	_	RB	RB	_	11	advmod	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	satisfied	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	only	_	JJ	JJ	_	3	amod	_	_
+3	hurdle	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	aux	_	_
+5	parking	_	VBG	VBG	_	0	root	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	occasion	_	NN	NN	_	6	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

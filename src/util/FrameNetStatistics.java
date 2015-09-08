@@ -32,6 +32,9 @@ public class FrameNetStatistics {
 	public final static String dataPath_deceptive_parsed = "data/FrameNetParsed/deceptive_from_MTurk";
 	public final static String dataPath_truthful_parsed = "data/FrameNetParsed/truthful_from_TripAdvisor";
 
+	public final static String dataPath_deceptive_parsed_yelp = "data/FrameNetParsed/deceptive_from_Yelp";
+	public final static String dataPath_truthful_parsed_yelp = "data/FrameNetParsed/truthful_from_Yelp";
+
 	public final static String dataPath_deceptive = "data/deceptive_from_MTurk";
 	public final static String dataPath_truthful = "data/truthful_from_TripAdvisor";
 
@@ -47,13 +50,13 @@ public class FrameNetStatistics {
 
 		FrameNetStatistics fStatistics = new FrameNetStatistics();
 
-		// fStatistics.getDocStatistics(dataPath_deceptive);
+//		 fStatistics.getDocStatistics(dataPath_deceptive);
 		// fStatistics.getDocStatistics(dataPath_truthful);
 
-		fStatistics.getFrameStatistics(dataPath_deceptive_parsed);
-//		 fStatistics.getFrameStatistics(dataPath_truthful_parsed);
-//
-//		 fStatistics.getFrameStatistics(dataPath_deceptive_jiwei_hotel_positive_expert);
+//		fStatistics.getFrameStatistics(dataPath_deceptive_parsed_yelp);
+		 fStatistics.getFrameStatistics(dataPath_truthful_parsed);
+		//
+		// fStatistics.getFrameStatistics(dataPath_deceptive_jiwei_hotel_positive_expert);
 
 	}
 
@@ -95,7 +98,7 @@ public class FrameNetStatistics {
 		HashSet<String> frameNameSet = new HashSet<String>();
 		HashSet<String> frameNameSet_bi = new HashSet<String>();
 		HashSet<String> frameNameSetPerFile = new HashSet<String>();
-		
+
 		String[] frameName_arr;
 
 		Set<File> files = (Set<File>) listFileTree(new File(path));
@@ -131,23 +134,6 @@ public class FrameNetStatistics {
 
 						frameNameSet.add(frameName);
 						frameNameSetPerFile.add(frameName);
-						
-						
-						
-						if (frameName.equals("Desiring")) {
-							
-							
-							JSONObject textObj = (JSONObject) target.get("spans");
-							
-							String text = (String) textObj.get("text");
-							
-							System.out.println(text);
-							
-							
-						}
-						
-						
-						
 
 						if (frameCount.containsKey(frameName)) {
 							frameCount.put(frameName, frameCount.get(frameName) + 1);
@@ -158,35 +144,28 @@ public class FrameNetStatistics {
 						numFrames++;
 					}
 
-					
-					
 					frameName_arr = frameNameSet.toArray(new String[frameNameSet.size()]);
-					
-					
-					for (int i = 0 ; i < frameName_arr.length ; i++) {
-						
+
+					for (int i = 0; i < frameName_arr.length; i++) {
+
 						if (i + 1 < frameName_arr.length) {
 							String tmpBiFrame = frameName_arr[i] + " " + frameName_arr[i + 1];
-							
+
 							if (frameCount_bi.containsKey(tmpBiFrame)) {
 								frameCount_bi.put(tmpBiFrame, frameCount_bi.get(tmpBiFrame) + 1);
 							} else {
 								frameCount_bi.put(tmpBiFrame, 1);
 							}
-							
 						}
-						
 					}
-					
-					
+
 					// System.out.println("----------------------------------");
 				}
-				
-//				System.out.println(frameNameSetPerFile);
-//				System.out.println("----------------------------------");
-				
+
+				// System.out.println(frameNameSetPerFile);
+				// System.out.println("----------------------------------");
+
 				frameNameSetPerFile.clear();
-				
 
 			} catch (Exception e) {
 				// read error
@@ -211,26 +190,50 @@ public class FrameNetStatistics {
 
 		Map<String, Integer> sortedMapDesc = sortByComparator(frameCount, false);
 
+		int totalSum = 0;
+
+		int sqrSum = 0;
+		
+		
 		for (String key : sortedMapDesc.keySet()) {
-			System.out.println(key + "\t" + sortedMapDesc.get(key));
+
+			totalSum += sortedMapDesc.get(key);
+
+			sqrSum += Math.pow(sortedMapDesc.get(key), 2);
+
 		}
 		
 		
-//		System.out.println();
-//		System.out.println("Frame bigram count");
-//		System.out.println();
-//		
-//		
-//		
-//		Map<String, Integer> sortedMapDesc_bi = sortByComparator(frameCount_bi, false);
-//
-//		for (String key : sortedMapDesc_bi.keySet()) {
-//			System.out.println(key + "\t" + sortedMapDesc_bi.get(key));
-//		}
-//		
+
+		for (String key : sortedMapDesc.keySet()) {
+			System.out.println(key + "\t" + sortedMapDesc.get(key));
+
+			totalSum += sortedMapDesc.get(key);
+
+			sqrSum += Math.pow(sortedMapDesc.get(key), 2);
+
+		}
+
+		double var = (sqrSum / numFrames) - Math.pow((totalSum / numFrames), 2);
 		
 		
 		
+		System.out.println("var " + var);
+		
+
+		// System.out.println();
+		// System.out.println("Frame bigram count");
+		// System.out.println();
+		//
+		//
+		//
+		// Map<String, Integer> sortedMapDesc_bi =
+		// sortByComparator(frameCount_bi, false);
+		//
+		// for (String key : sortedMapDesc_bi.keySet()) {
+		// System.out.println(key + "\t" + sortedMapDesc_bi.get(key));
+		// }
+		//
 
 	}
 

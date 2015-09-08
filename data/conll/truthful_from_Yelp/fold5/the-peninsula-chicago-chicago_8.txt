@@ -1,0 +1,56 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	brunch	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	enjoyed	_	VBD	VBD	_	0	root	_	_
+3	it	_	PRP	PRP	_	5	nsubj	_	_
+4	much	_	RB	RB	_	5	advmod	_	_
+5	more	_	RBR	RBR	_	2	xcomp	_	_
+6	than	_	IN	IN	_	2	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	one	_	NN	NN	_	6	pobj	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	Trump	_	NNP	NNP	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Peking	_	VBG	VBG	_	2	amod	_	_
+2	duck	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	so	_	RB	RB	_	5	advmod	_	_
+5	good	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	desserts	_	NNS	NNS	_	10	nsubj	_	_
+9	were	_	VBD	VBD	_	10	cop	_	_
+10	gorgeous	_	JJ	JJ	_	5	conj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	delicious	_	JJ	JJ	_	10	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	string	_	NN	NN	_	3	nn	_	_
+3	quartet	_	NN	NN	_	4	nsubj	_	_
+4	plays	_	VBZ	VBZ	_	0	root	_	_
+5	Pop	_	NNP	NNP	_	6	nn	_	_
+6	songs	_	NNS	NNS	_	4	dobj	_	_
+7	which	_	WDT	WDT	_	10	nsubj	_	_
+8	is	_	VBZ	VBZ	_	10	cop	_	_
+9	so	_	RB	RB	_	10	advmod	_	_
+10	fun	_	JJ	JJ	_	6	rcmod	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	3	cc	_	_
+2	they	_	PRP	PRP	_	3	nsubj	_	_
+3	take	_	VBP	VBP	_	0	root	_	_
+4	care	_	NN	NN	_	3	dobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	your	_	PRP$	PRP$	_	7	poss	_	_
+7	kids	_	NNS	NNS	_	5	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+
+1	Beautiful	_	JJ	JJ	_	2	amod	_	_
+2	atmosphere	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,92 @@
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	've	_	VBP	VBP	_	3	aux	_	_
+3	taken	_	VBN	VBN	_	0	root	_	_
+4	many	_	JJ	JJ	_	5	amod	_	_
+5	tours	_	NNS	NNS	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	many	_	JJ	JJ	_	8	amod	_	_
+8	cities	_	NNS	NNS	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	best	_	JJS	JJS	_	5	amod	_	_
+5	one	_	NN	NN	_	0	root	_	_
+6	I	_	PRP	PRP	_	8	nsubj	_	_
+7	've	_	VBP	VBP	_	8	aux	_	_
+8	been	_	VBN	VBN	_	5	rcmod	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Friendly	_	NNP	NNP	_	2	nsubj	_	_
+2	guide	_	VB	VB	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Interesting	_	VBG	VBG	_	0	root	_	_
+2	concept	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Climate	_	NN	NN	_	2	nsubj	_	_
+2	controlled	_	VBD	VBD	_	0	root	_	_
+3	comfortable	_	JJ	JJ	_	4	amod	_	_
+4	bus	_	NN	NN	_	2	dobj	_	_
+5	WITH	_	IN	IN	_	2	prep	_	_
+6	A	_	DT	DT	_	7	det	_	_
+7	BATHROOM	_	NNP	NNP	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	show	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	whole	_	JJ	JJ	_	5	amod	_	_
+5	bunch	_	NN	NN	_	2	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	movie	_	NN	NN	_	8	nn	_	_
+8	clips	_	NNS	NNS	_	6	pobj	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	then	_	RB	RB	_	11	advmod	_	_
+11	show	_	VBP	VBP	_	2	conj	_	_
+12	you	_	PRP	PRP	_	11	dobj	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	actual	_	JJ	JJ	_	15	amod	_	_
+15	places	_	NNS	NNS	_	2	dobj	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	clip	_	NN	NN	_	19	nsubjpass	_	_
+18	was	_	VBD	VBD	_	19	auxpass	_	_
+19	shot	_	VBN	VBN	_	15	rcmod	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	BRILLIANT	_	VB	VB	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	job	_	NN	NN	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	people	_	NNS	NNS	_	3	pobj	_	_
+6	who	_	WP	WP	_	7	nsubj	_	_
+7	created	_	VBD	VBD	_	5	rcmod	_	_
+8	this	_	DT	DT	_	9	det	_	_
+9	tour	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	now	_	RB	RB	_	3	advmod	_	_
+3	look	_	VBP	VBP	_	0	root	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	my	_	PRP$	PRP$	_	6	poss	_	_
+6	home	_	NN	NN	_	4	pobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	with	_	IN	IN	_	3	prep	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	newfound	_	JJ	JJ	_	12	amod	_	_
+12	respect	_	NN	NN	_	9	pobj	_	_
+13	for	_	IN	IN	_	12	prep	_	_
+14	it	_	PRP	PRP	_	17	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	cinema	_	NN	NN	_	17	nn	_	_
+17	history	_	NN	NN	_	13	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+

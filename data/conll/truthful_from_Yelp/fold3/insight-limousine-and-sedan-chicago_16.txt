@@ -1,0 +1,48 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	prompt	_	VB	VB	_	0	root	_	_
+3	friendly	_	JJ	JJ	_	4	amod	_	_
+4	service	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	driver	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	professional	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	courteous	_	RB	RB	_	4	advmod	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	knowledgable	_	JJ	JJ	_	4	conj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	best	_	JJS	JJS	_	13	amod	_	_
+13	route	_	NN	NN	_	10	pobj	_	_
+14	to	_	TO	TO	_	13	prep	_	_
+15	Midway	_	NNP	NNP	_	14	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	use	_	VB	VB	_	0	root	_	_
+5	this	_	DT	DT	_	6	det	_	_
+6	service	_	NN	NN	_	4	dobj	_	_
+7	again	_	RB	RB	_	4	advmod	_	_
+8	for	_	IN	IN	_	4	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	trip	_	NN	NN	_	8	pobj	_	_
+11	to	_	TO	TO	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	airport	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	4	det	_	_
+2	much	_	RB	RB	_	3	advmod	_	_
+3	better	_	JJR	JJR	_	4	amod	_	_
+4	experience	_	NN	NN	_	8	nsubj	_	_
+5	than	_	IN	IN	_	4	prep	_	_
+6	taxi	_	NN	NN	_	7	nn	_	_
+7	cab	_	NN	NN	_	5	pobj	_	_
+8	roulette	_	VBZ	VBZ	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+

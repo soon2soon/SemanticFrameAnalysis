@@ -1,0 +1,35 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	wife	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	bought	_	VBD	VBD	_	0	root	_	_
+6	tickets	_	NNS	NNS	_	5	dobj	_	_
+7	through	_	IN	IN	_	5	prep	_	_
+8	Goldstar	_	NNP	NNP	_	7	pobj	_	_
+9	for	_	IN	IN	_	5	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	sweets	_	NNS	NNS	_	12	nn	_	_
+12	tour	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	okay	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	aux	_	_
+5	lacking	_	VBG	VBG	_	0	root	_	_
+6	but	_	CC	CC	_	5	cc	_	_
+7	we	_	PRP	PRP	_	9	nsubj	_	_
+8	did	_	VBD	VBD	_	9	aux	_	_
+9	eat	_	VB	VB	_	5	conj	_	_
+10	our	_	PRP$	PRP$	_	12	poss	_	_
+11	fair	_	JJ	JJ	_	12	amod	_	_
+12	share	_	NN	NN	_	9	dobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	sweets	_	NNS	NNS	_	13	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+

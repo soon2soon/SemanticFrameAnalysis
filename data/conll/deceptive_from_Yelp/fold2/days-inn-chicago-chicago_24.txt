@@ -1,0 +1,62 @@
+1	Valet	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	beyond	_	RB	RB	_	4	advmod	_	_
+4	rude	_	JJ	JJ	_	1	appos	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Woman	_	NNP	NNP	_	6	nsubj	_	_
+2	at	_	IN	IN	_	1	prep	_	_
+3	breakfast	_	NN	NN	_	4	nn	_	_
+4	bar	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	rude	_	VBZ	VBZ	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Front	_	NN	NN	_	2	nn	_	_
+2	desk	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	decent	_	JJ	JJ	_	2	appos	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Everyone	_	NN	NN	_	3	nsubj	_	_
+2	there	_	RB	RB	_	3	advmod	_	_
+3	has	_	VBZ	VBZ	_	10	ccomp	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	gross	_	JJ	JJ	_	6	amod	_	_
+6	attitude	_	NN	NN	_	3	dobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	room	_	NN	NN	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	okay	_	JJ	JJ	_	0	root	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	even	_	RB	RB	_	16	advmod	_	_
+13	though	_	IN	IN	_	16	mark	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	power	_	NN	NN	_	16	nsubj	_	_
+16	went	_	VBD	VBD	_	10	advcl	_	_
+17	out	_	RP	RP	_	16	prt	_	_
+18	for	_	IN	IN	_	16	prep	_	_
+19	a	_	DT	DT	_	21	det	_	_
+20	good	_	JJ	JJ	_	21	amod	_	_
+21	portion	_	NN	NN	_	18	pobj	_	_
+22	of	_	IN	IN	_	21	prep	_	_
+23	the	_	DT	DT	_	24	det	_	_
+24	night	_	NN	NN	_	22	pobj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	it	_	PRP	PRP	_	3	nsubj	_	_
+3	wasnt	_	VBP	VBP	_	13	advcl	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	staff	_	NN	NN	_	4	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	experience	_	NN	NN	_	13	nsubj	_	_
+10	would	_	MD	MD	_	13	aux	_	_
+11	have	_	VB	VB	_	13	aux	_	_
+12	been	_	VBN	VBN	_	13	cop	_	_
+13	alot	_	JJ	JJ	_	0	root	_	_
+14	better	_	RBR	RBR	_	13	advmod	_	_
+15	.	_	.	.	_	0	erased	_	_
+

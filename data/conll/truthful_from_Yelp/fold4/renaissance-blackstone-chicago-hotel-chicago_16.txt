@@ -1,0 +1,42 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	beautiful	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	4	nsubj	_	_
+4	located	_	VBN	VBN	_	0	root	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	9	det	_	_
+7	most	_	RBS	RBS	_	8	advmod	_	_
+8	exclusive	_	JJ	JJ	_	9	amod	_	_
+9	area	_	NN	NN	_	5	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	Chicago	_	NNP	NNP	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	A	_	DT	DT	_	3	det	_	_
+2	few	_	JJ	JJ	_	3	amod	_	_
+3	steps	_	NNS	NNS	_	8	nsubj	_	_
+4	from	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	lake	_	NN	NN	_	4	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	surrounded	_	VBN	VBN	_	0	root	_	_
+9	by	_	IN	IN	_	8	prep	_	_
+10	upscale	_	JJ	JJ	_	11	amod	_	_
+11	shopping	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Beautiful	_	JJ	JJ	_	2	amod	_	_
+2	room	_	NN	NN	_	3	nsubj	_	_
+3	view	_	VBP	VBP	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	restaurants	_	NNS	NNS	_	4	dep	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	good	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	3	dep	_	_
+2	friendly	_	JJ	JJ	_	3	amod	_	_
+3	staff	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,36 @@
+1	A	_	DT	DT	_	2	det	_	_
+2	lot	_	NN	NN	_	0	root	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	fun	_	NN	NN	_	3	pobj	_	_
+5	!	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	group	_	NN	NN	_	2	dobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	6	_	CD	CD	_	5	pobj	_	_
+7	of	_	IN	IN	_	4	prep	_	_
+8	us	_	PRP	PRP	_	7	pobj	_	_
+9	all	_	DT	DT	_	10	dep	_	_
+10	from	_	IN	IN	_	2	prep	_	_
+11	Chicago	_	NNP	NNP	_	10	pobj	_	_
+12	&	_	CC	CC	_	11	cc	_	_
+13	our	_	PRP$	PRP$	_	14	poss	_	_
+14	guide	_	NN	NN	_	11	conj	_	_
+15	Dan	_	NNP	NNP	_	17	nsubj	_	_
+16	still	_	RB	RB	_	17	advmod	_	_
+17	taught	_	VBD	VBD	_	14	rcmod	_	_
+18	us	_	PRP	PRP	_	21	nsubj	_	_
+19	each	_	DT	DT	_	20	det	_	_
+20	something	_	NN	NN	_	21	npadvmod	_	_
+21	new	_	JJ	JJ	_	17	xcomp	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	taking	_	VBG	VBG	_	2	xcomp	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	tour	_	NN	NN	_	3	dobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+

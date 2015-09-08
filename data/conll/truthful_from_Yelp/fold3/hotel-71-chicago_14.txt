@@ -1,0 +1,8 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	think	_	VBP	VBP	_	0	root	_	_
+3	it	_	PRP	PRP	_	6	nsubj	_	_
+4	's	_	VBZ	VBZ	_	6	cop	_	_
+5	pretty	_	RB	RB	_	6	advmod	_	_
+6	great	_	JJ	JJ	_	2	ccomp	_	_
+7	.	_	.	.	_	0	erased	_	_
+

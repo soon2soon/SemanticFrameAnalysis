@@ -1,0 +1,8 @@
+1	My	_	PRP$	PRP$	_	3	poss	_	_
+2	favorite	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	stay	_	VB	VB	_	3	dep	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	downtown	_	NN	NN	_	6	pobj	_	_
+

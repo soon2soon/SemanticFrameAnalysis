@@ -1,0 +1,69 @@
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	an	_	DT	DT	_	5	det	_	_
+4	incredible	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Pilot	_	NNP	NNP	_	2	nn	_	_
+2	John	_	NNP	NNP	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Ryan	_	NNP	NNP	_	5	nn	_	_
+5	host	_	NN	NN	_	2	conj	_	_
+6	were	_	VBD	VBD	_	7	cop	_	_
+7	nice	_	JJ	JJ	_	0	root	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	friendly	_	JJ	JJ	_	7	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Helicopters	_	JJ	JJ	_	3	amod	_	_
+2	blow	_	NN	NN	_	3	nn	_	_
+3	planes	_	NNS	NNS	_	0	root	_	_
+4	out	_	RB	RB	_	5	advmod	_	_
+5	of	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	water	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Imagine	_	VB	VB	_	0	root	_	_
+2	hovering	_	VBG	VBG	_	1	xcomp	_	_
+3	right	_	RB	RB	_	4	advmod	_	_
+4	next	_	JJ	JJ	_	2	advmod	_	_
+5	to	_	TO	TO	_	2	prep	_	_
+6	Willis	_	NNP	NNP	_	9	nn	_	_
+7	tower	_	NN	NN	_	9	nn	_	_
+8	buckingham	_	NN	NN	_	9	nn	_	_
+9	fountain	_	NN	NN	_	5	pobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	navy	_	NN	NN	_	12	nn	_	_
+12	pier	_	NN	NN	_	9	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	get	_	VB	VB	_	0	root	_	_
+5	wrigley	_	JJ	JJ	_	6	amod	_	_
+6	bc	_	NN	NN	_	4	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	no	_	DT	DT	_	10	neg	_	_
+9	fly	_	NN	NN	_	10	nn	_	_
+10	zone	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	8	nsubj	_	_
+2	is	_	VBZ	VBZ	_	8	cop	_	_
+3	a	_	DT	DT	_	8	det	_	_
+4	once	_	RB	RB	_	8	amod	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	lifetime	_	NN	NN	_	5	pobj	_	_
+8	event	_	NN	NN	_	0	root	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'll	_	MD	MD	_	4	aux	_	_
+3	never	_	RB	RB	_	4	neg	_	_
+4	forget	_	VB	VB	_	0	root	_	_
+5	!	_	.	.	_	0	erased	_	_
+

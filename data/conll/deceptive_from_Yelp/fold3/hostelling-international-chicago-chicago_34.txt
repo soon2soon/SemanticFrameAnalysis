@@ -1,0 +1,4 @@
+1	Good	_	JJ	JJ	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	clean	_	JJ	JJ	_	1	conj	_	_
+

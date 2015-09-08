@@ -1,0 +1,147 @@
+1	Lovely	_	JJ	JJ	_	2	amod	_	_
+2	wife	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	were	_	VBD	VBD	_	0	root	_	_
+6	there	_	RB	RB	_	5	advmod	_	_
+7	for	_	IN	IN	_	5	prep	_	_
+8	NBEA	_	NNP	NNP	_	9	nn	_	_
+9	Teacher	_	NNP	NNP	_	11	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	Conference	_	NN	NN	_	7	pobj	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	8	_	CD	CD	_	14	num	_	_
+14	days	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	fantastic	_	JJ	JJ	_	5	amod	_	_
+5	experience	_	NN	NN	_	0	root	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	all	_	DT	DT	_	8	det	_	_
+8	ways	_	NNS	NNS	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Starting	_	VBG	VBG	_	0	root	_	_
+2	with	_	IN	IN	_	1	prep	_	_
+3	Danielle	_	NNP	NNP	_	2	pobj	_	_
+4	at	_	IN	IN	_	1	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	front	_	JJ	JJ	_	7	amod	_	_
+7	desk	_	NN	NN	_	4	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	went	_	VBD	VBD	_	0	root	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	her	_	PRP$	PRP$	_	5	poss	_	_
+5	way	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	was	_	VBD	VBD	_	9	cop	_	_
+8	incredibly	_	RB	RB	_	9	advmod	_	_
+9	professional	_	NN	NN	_	2	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Maria	_	NNP	NNP	_	2	nn	_	_
+2	Garcia	_	NNP	NNP	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	housekeeper	_	NN	NN	_	0	root	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	entire	_	JJ	JJ	_	9	amod	_	_
+9	time	_	NN	NN	_	6	pobj	_	_
+10	and	_	CC	CC	_	5	cc	_	_
+11	was	_	VBD	VBD	_	14	cop	_	_
+12	an	_	DT	DT	_	14	det	_	_
+13	absolute	_	JJ	JJ	_	14	amod	_	_
+14	joy	_	NN	NN	_	5	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Always	_	RB	RB	_	2	advmod	_	_
+2	concerned	_	VBN	VBN	_	17	csubj	_	_
+3	how	_	WRB	WRB	_	6	advmod	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	room	_	NN	NN	_	6	nsubj	_	_
+6	looked	_	VBD	VBD	_	2	ccomp	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	even	_	RB	RB	_	9	advmod	_	_
+9	called	_	VBD	VBD	_	6	conj	_	_
+10	one	_	CD	CD	_	11	num	_	_
+11	time	_	NN	NN	_	9	dobj	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	make	_	VB	VB	_	9	vmod	_	_
+14	sure	_	JJ	JJ	_	15	amod	_	_
+15	everything	_	NN	NN	_	13	dobj	_	_
+16	was	_	VBD	VBD	_	17	cop	_	_
+17	alright	_	JJ	JJ	_	0	root	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	used	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	concierge	_	JJ	JJ	_	5	amod	_	_
+5	service	_	NN	NN	_	2	dobj	_	_
+6	almost	_	RB	RB	_	8	advmod	_	_
+7	every	_	DT	DT	_	8	det	_	_
+8	day	_	NN	NN	_	2	tmod	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Customer	_	NN	NN	_	2	nn	_	_
+2	service	_	NN	NN	_	3	nsubj	_	_
+3	seems	_	VBZ	VBZ	_	0	root	_	_
+4	to	_	TO	TO	_	7	aux	_	_
+5	be	_	VB	VB	_	7	cop	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	priority	_	NN	NN	_	3	xcomp	_	_
+8	here	_	RB	RB	_	9	advmod	_	_
+9	at	_	IN	IN	_	7	prep	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	Hotel	_	NNP	NNP	_	9	pobj	_	_
+12	and	_	CC	CC	_	3	cc	_	_
+13	it	_	PRP	PRP	_	14	nsubj	_	_
+14	shines	_	VBZ	VBZ	_	3	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	waitress	_	NN	NN	_	9	nsubj	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	The	_	DT	DT	_	6	det	_	_
+5	Harvest	_	NNP	NNP	_	6	nn	_	_
+6	restaurant	_	NN	NN	_	3	pobj	_	_
+7	was	_	VBD	VBD	_	9	cop	_	_
+8	very	_	RB	RB	_	9	advmod	_	_
+9	nice	_	JJ	JJ	_	0	root	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	helped	_	VBD	VBD	_	9	conj	_	_
+12	us	_	PRP	PRP	_	11	dobj	_	_
+13	with	_	IN	IN	_	11	prep	_	_
+14	places	_	NNS	NNS	_	13	pobj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	see	_	VB	VB	_	11	vmod	_	_
+17	around	_	RP	RP	_	16	prt	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	city	_	NN	NN	_	16	dobj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	Beautiful	_	VB	VB	_	0	root	_	_
+2	room	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Impecable	_	VB	VB	_	0	root	_	_
+2	service	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Professional	_	NNP	NNP	_	0	root	_	_
+2	employees	_	NNS	NNS	_	1	dep	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Ca	_	MD	MD	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	wait	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	return	_	VB	VB	_	3	xcomp	_	_
+6	.	_	.	.	_	0	erased	_	_
+

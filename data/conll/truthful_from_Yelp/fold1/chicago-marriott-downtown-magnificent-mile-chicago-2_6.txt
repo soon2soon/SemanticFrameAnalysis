@@ -1,0 +1,64 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	best	_	JJS	JJS	_	3	amod	_	_
+3	hotel	_	NN	NN	_	0	root	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	travelers	_	NNS	NNS	_	7	nn	_	_
+7	trip	_	NN	NN	_	4	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Prime	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Best	_	JJS	JJS	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	pizza	_	NN	NN	_	5	nn	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	causal	_	NN	NN	_	2	pobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	fine	_	NN	NN	_	9	nn	_	_
+9	dining	_	NN	NN	_	5	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Walking	_	VBG	VBG	_	2	amod	_	_
+2	distance	_	NN	NN	_	6	nsubj	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	major	_	JJ	JJ	_	5	amod	_	_
+5	sites	_	NNS	NNS	_	3	pobj	_	_
+6	like	_	VBP	VBP	_	0	root	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	river	_	NN	NN	_	6	dobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	bean	_	NN	NN	_	8	conj	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	and	_	CC	CC	_	8	cc	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	Signature	_	NNP	NNP	_	16	nn	_	_
+16	Room	_	NNP	NNP	_	8	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	JJ	JJ	_	2	amod	_	_
+2	rooms	_	NNS	NNS	_	12	nsubjpass	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	big	_	JJ	JJ	_	5	amod	_	_
+5	beds	_	NNS	NNS	_	2	conj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	I	_	PRP	PRP	_	5	conj	_	_
+9	was	_	VBD	VBD	_	12	auxpass	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	most	_	JJS	JJS	_	12	dobj	_	_
+12	shocked	_	VBN	VBN	_	0	root	_	_
+13	at	_	IN	IN	_	12	prep	_	_
+14	how	_	WRB	WRB	_	15	advmod	_	_
+15	quiet	_	JJ	JJ	_	18	dep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	rooms	_	NNS	NNS	_	18	nsubj	_	_
+18	were	_	VBD	VBD	_	13	pcomp	_	_
+19	at	_	IN	IN	_	18	prep	_	_
+20	night	_	NN	NN	_	19	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+

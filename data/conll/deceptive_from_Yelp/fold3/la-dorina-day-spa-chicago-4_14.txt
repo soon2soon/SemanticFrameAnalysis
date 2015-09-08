@@ -1,0 +1,71 @@
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	have	_	VBP	VBP	_	4	aux	_	_
+3	been	_	VBN	VBN	_	4	aux	_	_
+4	going	_	VBG	VBG	_	0	root	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	Dorina	_	NNP	NNP	_	5	pobj	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	over	_	IN	IN	_	10	amod	_	_
+9	10	_	CD	CD	_	10	num	_	_
+10	years	_	NNS	NNS	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Dorina	_	NNP	NNP	_	3	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	work	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	exceptional	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	professional	_	NN	NN	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	and	_	CC	CC	_	4	cc	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	quality	_	NN	NN	_	13	nsubj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	her	_	PRP$	PRP$	_	11	poss	_	_
+11	care	_	NN	NN	_	9	pobj	_	_
+12	is	_	VBZ	VBZ	_	13	cop	_	_
+13	excellent	_	JJ	JJ	_	4	conj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Her	_	PRP$	PRP$	_	2	poss	_	_
+2	manicures	_	NNS	NNS	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	pedicures	_	NNS	NNS	_	2	conj	_	_
+5	are	_	VBP	VBP	_	6	cop	_	_
+6	relaxing	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	of	_	IN	IN	_	6	conj	_	_
+9	superior	_	JJ	JJ	_	10	amod	_	_
+10	quality	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	gives	_	VBZ	VBZ	_	0	root	_	_
+3	individual	_	JJ	JJ	_	4	amod	_	_
+4	attention	_	NN	NN	_	2	dobj	_	_
+5	to	_	TO	TO	_	2	prep	_	_
+6	her	_	PRP$	PRP$	_	7	poss	_	_
+7	facials	_	NNS	NNS	_	5	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	massages	_	NNS	NNS	_	7	conj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	and	_	CC	CC	_	7	cc	_	_
+12	waxing	_	NN	NN	_	7	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	9	cc	_	_
+2	best	_	JJS	JJS	_	9	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	all	_	DT	DT	_	3	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	her	_	PRP$	PRP$	_	7	poss	_	_
+7	prices	_	NNS	NNS	_	4	appos	_	_
+8	are	_	VBP	VBP	_	9	cop	_	_
+9	reasonable	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+

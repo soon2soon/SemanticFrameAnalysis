@@ -1,0 +1,8 @@
+1	Very	_	RB	RB	_	3	advmod	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	busy	_	JJ	JJ	_	0	root	_	_
+4	with	_	IN	IN	_	3	prep	_	_
+5	mediocre	_	JJ	JJ	_	6	amod	_	_
+6	service	_	NN	NN	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+

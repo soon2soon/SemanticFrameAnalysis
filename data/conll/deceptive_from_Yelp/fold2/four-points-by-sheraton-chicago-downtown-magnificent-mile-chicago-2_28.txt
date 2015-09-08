@@ -1,0 +1,73 @@
+1	Fantastic	_	UH	UH	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+
+1	Jeremy	_	NNP	NNP	_	9	nsubj	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	at	_	IN	IN	_	1	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	front	_	JJ	JJ	_	6	amod	_	_
+6	desk	_	NN	NN	_	3	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	awesome	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	helped	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	out	_	RP	RP	_	2	prt	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	much	_	RB	RB	_	2	advmod	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	his	_	PRP$	PRP$	_	9	poss	_	_
+9	recommendations	_	NNS	NNS	_	11	nsubj	_	_
+10	were	_	VBD	VBD	_	11	cop	_	_
+11	spot-on	_	JJ	JJ	_	2	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	hotel	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	aux	_	_
+4	affordable	_	VBG	VBG	_	0	root	_	_
+5	&	_	CC	CC	_	6	cc	_	_
+6	fun	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	beer-tasting	_	JJ	JJ	_	4	amod	_	_
+4	everyday	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	One	_	CD	CD	_	6	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	best	_	JJS	JJS	_	5	amod	_	_
+5	hotel	_	NN	NN	_	2	pobj	_	_
+6	experiences	_	VBZ	VBZ	_	0	root	_	_
+7	I	_	PRP	PRP	_	10	nsubj	_	_
+8	've	_	VBP	VBP	_	10	aux	_	_
+9	ever	_	RB	RB	_	10	advmod	_	_
+10	had	_	VBN	VBN	_	6	ccomp	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	location	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	perfect	_	JJ	JJ	_	0	root	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	enjoying	_	VBG	VBG	_	5	pcomp	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	city	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'd	_	MD	MD	_	3	aux	_	_
+3	stay	_	VB	VB	_	0	root	_	_
+4	there	_	RB	RB	_	5	advmod	_	_
+5	again	_	RB	RB	_	3	advmod	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	second	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

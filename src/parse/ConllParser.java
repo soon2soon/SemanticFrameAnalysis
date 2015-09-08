@@ -40,7 +40,7 @@ public class ConllParser {
 		GrammaticalStructure gs = gsf.newGrammaticalStructure(parse);
 
 		// output as CONLL format
-		parsedResult = GrammaticalStructure.dependenciesToString(gs, gs.typedDependencies(), parse, false, false);
+		parsedResult = GrammaticalStructure.dependenciesToString(gs, gs.typedDependencies(), parse, true, false);
 
 		
 		return parsedResult;

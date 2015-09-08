@@ -1,0 +1,55 @@
+1	Extremely	_	RB	RB	_	2	advmod	_	_
+2	busy	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	crowded	_	JJ	JJ	_	2	conj	_	_
+5	during	_	IN	IN	_	2	prep	_	_
+6	holidays	_	NNS	NNS	_	5	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	making	_	VBG	VBG	_	2	dep	_	_
+9	it	_	PRP	PRP	_	13	nsubj	_	_
+10	extremely	_	RB	RB	_	11	advmod	_	_
+11	difficult	_	JJ	JJ	_	13	dep	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	navigate	_	VB	VB	_	8	xcomp	_	_
+14	through	_	RP	RP	_	13	prt	_	_
+15	with	_	IN	IN	_	13	prep	_	_
+16	baggage	_	NN	NN	_	15	pobj	_	_
+17	on	_	IN	IN	_	16	prep	_	_
+18	trains	_	NNS	NNS	_	17	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Less	_	RBR	RBR	_	2	advmod	_	_
+2	busy	_	JJ	JJ	_	6	amod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	normal	_	JJ	JJ	_	2	conj	_	_
+5	travel	_	NN	NN	_	6	nn	_	_
+6	days	_	NNS	NNS	_	7	nsubj	_	_
+7	offer	_	VBP	VBP	_	0	root	_	_
+8	ease	_	NN	NN	_	7	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	travel	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Book	_	NNP	NNP	_	2	nsubj	_	_
+2	train	_	VBP	VBP	_	0	root	_	_
+3	tickets	_	NNS	NNS	_	2	dobj	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	advance	_	NN	NN	_	4	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Try	_	VB	VB	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	arrive	_	VB	VB	_	1	xcomp	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	gates	_	VBG	VBG	_	4	pcomp	_	_
+6	at	_	IN	IN	_	8	quantmod	_	_
+7	least	_	JJS	JJS	_	6	mwe	_	_
+8	30	_	CD	CD	_	9	num	_	_
+9	mins	_	NNS	NNS	_	5	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	prior	_	RB	RB	_	0	root	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	boarding	_	NN	NN	_	2	pobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+

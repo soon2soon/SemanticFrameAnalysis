@@ -1,0 +1,62 @@
+1	Fantastic	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	friendly	_	JJ	JJ	_	1	appos	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	on	_	IN	IN	_	1	prep	_	_
+6	time	_	NN	NN	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Phil	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	joy	_	NN	NN	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	do	_	VB	VB	_	4	vmod	_	_
+7	business	_	NN	NN	_	6	dobj	_	_
+8	with	_	IN	IN	_	6	prep	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	'm	_	VBP	VBP	_	3	aux	_	_
+3	passing	_	VBG	VBG	_	0	root	_	_
+4	his	_	PRP$	PRP$	_	5	poss	_	_
+5	card	_	NN	NN	_	3	dobj	_	_
+6	along	_	RB	RB	_	3	advmod	_	_
+7	to	_	TO	TO	_	3	prep	_	_
+8	my	_	PRP$	PRP$	_	10	poss	_	_
+9	entire	_	JJ	JJ	_	10	amod	_	_
+10	family	_	NN	NN	_	7	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Want	_	VB	VB	_	0	root	_	_
+2	personable	_	JJ	JJ	_	7	amod	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	reliable	_	JJ	JJ	_	7	amod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	speedy	_	JJ	JJ	_	7	amod	_	_
+7	service	_	NN	NN	_	1	dobj	_	_
+8	?	_	.	.	_	0	erased	_	_
+
+1	Call	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	Uncrabby	_	NNP	NNP	_	4	nn	_	_
+4	cabby	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	5	nsubj	_	_
+2	will	_	MD	MD	_	5	aux	_	_
+3	NOT	_	RB	RB	_	5	neg	_	_
+4	be	_	VB	VB	_	5	cop	_	_
+5	disappointed	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	what	_	WP	WP	_	8	dobj	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	cab	_	NN	NN	_	6	nn	_	_
+6	service	_	NN	NN	_	8	nsubj	_	_
+7	should	_	MD	MD	_	8	aux	_	_
+8	be	_	VB	VB	_	2	ccomp	_	_
+9	.	_	.	.	_	0	erased	_	_
+

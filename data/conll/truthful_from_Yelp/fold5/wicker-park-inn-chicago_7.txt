@@ -1,0 +1,87 @@
+1	Wow	_	WP	WP	_	6	dep	_	_
+2	.	_	.	.	_	0	erased	_	_
+3	.	_	.	.	_	0	erased	_	_
+4	ca	_	MD	MD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	say	_	VB	VB	_	0	root	_	_
+7	enough	_	RB	RB	_	8	advmod	_	_
+8	positive	_	JJ	JJ	_	6	acomp	_	_
+9	about	_	IN	IN	_	6	prep	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	place	_	NN	NN	_	9	pobj	_	_
+12	!	_	.	.	_	0	erased	_	_
+
+1	Hmm	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	amazing	_	JJ	JJ	_	5	amod	_	_
+4	breakfast	_	NN	NN	_	5	nn	_	_
+5	choices	_	NNS	NNS	_	1	appos	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	morning	_	NN	NN	_	6	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	with	_	IN	IN	_	1	prep	_	_
+11	all	_	DT	DT	_	12	det	_	_
+12	sorts	_	NNS	NNS	_	10	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	high	_	JJ	JJ	_	16	amod	_	_
+15	quality	_	NN	NN	_	16	nn	_	_
+16	protein	_	NN	NN	_	13	pobj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	milk	_	NN	NN	_	16	conj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	My	_	PRP$	PRP$	_	5	poss	_	_
+2	``	_	``	``	_	0	erased	_	_
+3	Chicago	_	NNP	NNP	_	5	nn	_	_
+4	''	_	''	''	_	0	erased	_	_
+5	room	_	NN	NN	_	7	nsubj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	spotless	_	JJ	JJ	_	0	root	_	_
+8	as	_	IN	IN	_	10	mark	_	_
+9	can	_	MD	MD	_	10	aux	_	_
+10	be	_	VB	VB	_	7	dep	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Bathrooms	_	NNS	NNS	_	3	nsubj	_	_
+2	were	_	VBD	VBD	_	3	cop	_	_
+3	clean	_	JJ	JJ	_	0	root	_	_
+4	as	_	IN	IN	_	3	prep	_	_
+5	well	_	RB	RB	_	4	pcomp	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Robin	_	NNP	NNP	_	10	nsubj	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	front	_	JJ	JJ	_	5	amod	_	_
+4	desk	_	NN	NN	_	5	nn	_	_
+5	gal	_	NN	NN	_	1	dep	_	_
+6	was	_	VBD	VBD	_	10	cop	_	_
+7	so	_	RB	RB	_	10	advmod	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	so	_	RB	RB	_	10	advmod	_	_
+10	nice	_	JJ	JJ	_	0	root	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	helped	_	VBD	VBD	_	0	root	_	_
+3	me	_	PRP	PRP	_	2	dobj	_	_
+4	out	_	IN	IN	_	2	prep	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	few	_	JJ	JJ	_	7	amod	_	_
+7	times	_	NNS	NNS	_	4	pobj	_	_
+8	when	_	WRB	WRB	_	12	advmod	_	_
+9	I	_	PRP	PRP	_	12	nsubj	_	_
+10	could	_	MD	MD	_	12	aux	_	_
+11	n't	_	RB	RB	_	12	neg	_	_
+12	open	_	VB	VB	_	2	advcl	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	damn	_	JJ	JJ	_	15	amod	_	_
+15	door	_	NN	NN	_	12	dobj	_	_
+16	!	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	2	nsubj	_	_
+2	stay	_	VBP	VBP	_	0	root	_	_
+3	here	_	RB	RB	_	2	advmod	_	_
+4	again	_	RB	RB	_	2	advmod	_	_
+5	!	_	.	.	_	0	erased	_	_
+

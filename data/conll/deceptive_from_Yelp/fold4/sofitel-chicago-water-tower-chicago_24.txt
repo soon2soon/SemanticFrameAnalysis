@@ -1,0 +1,37 @@
+1	had	_	VBN	VBN	_	11	dep	_	_
+2	my	_	PRP$	PRP$	_	3	poss	_	_
+3	shower	_	NN	NN	_	1	dobj	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	Sofitel	_	NNP	NNP	_	4	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+8	.	_	.	.	_	0	erased	_	_
+9	we	_	PRP	PRP	_	11	nsubj	_	_
+10	all	_	DT	DT	_	9	det	_	_
+11	had	_	VBD	VBD	_	0	root	_	_
+12	a	_	DT	DT	_	14	det	_	_
+13	fabolous	_	JJ	JJ	_	14	amod	_	_
+14	time	_	NN	NN	_	11	dobj	_	_
+15	there	_	RB	RB	_	11	advmod	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	the	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	6	nsubj	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	decor	_	NN	NN	_	5	nn	_	_
+5	everything	_	NN	NN	_	2	dep	_	_
+6	was	_	VBD	VBD	_	0	root	_	_
+7	exactly	_	RB	RB	_	6	advmod	_	_
+8	what	_	WP	WP	_	14	dep	_	_
+9	i	_	RB	RB	_	10	advmod	_	_
+10	wanted	_	RB	RB	_	8	advmod	_	_
+11	.	_	.	.	_	0	erased	_	_
+12	.	_	.	.	_	0	erased	_	_
+13	great	_	JJ	JJ	_	14	amod	_	_
+14	place	_	NN	NN	_	6	dep	_	_
+15	for	_	IN	IN	_	14	prep	_	_
+16	small	_	JJ	JJ	_	18	amod	_	_
+17	special	_	JJ	JJ	_	18	amod	_	_
+18	ocassions	_	NNS	NNS	_	15	pobj	_	_
+19	.	_	.	.	_	0	erased	_	_
+

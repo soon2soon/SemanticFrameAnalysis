@@ -1,0 +1,47 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	cool	_	JJ	JJ	_	3	amod	_	_
+3	cruise	_	NN	NN	_	6	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	everyone	_	NN	NN	_	3	appos	_	_
+6	got	_	VBD	VBD	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	sit	_	VB	VB	_	6	xcomp	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	top	_	JJ	JJ	_	12	amod	_	_
+12	deck	_	NN	NN	_	9	pobj	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	views	_	NNS	NNS	_	17	nsubj	_	_
+16	were	_	VBD	VBD	_	17	cop	_	_
+17	great	_	JJ	JJ	_	6	conj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	Ed	_	NNP	NNP	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	he	_	PRP	PRP	_	9	nsubjpass	_	_
+8	was	_	VBD	VBD	_	9	auxpass	_	_
+9	packed	_	VBN	VBN	_	5	conj	_	_
+10	full	_	JJ	JJ	_	9	dobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	Chicago	_	NNP	NNP	_	13	nn	_	_
+13	knowledge	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	P.s-we	_	NNP	NNP	_	7	nsubj	_	_
+2	may	_	MD	MD	_	7	aux	_	_
+3	have	_	VB	VB	_	7	aux	_	_
+4	been	_	VBN	VBN	_	7	cop	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	only	_	JJ	JJ	_	7	amod	_	_
+7	locals	_	NNS	NNS	_	0	root	_	_
+8	on	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	tour	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	lol	_	NN	NN	_	10	appos	_	_
+

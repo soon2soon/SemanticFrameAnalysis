@@ -1,0 +1,26 @@
+1	Awesome	_	NNP	NNP	_	5	nn	_	_
+2	!!	_	NNP	NNP	_	5	nn	_	_
+3	Free	_	NNP	NNP	_	5	nn	_	_
+4	breakfast	_	NN	NN	_	5	nn	_	_
+5	bar	_	NN	NN	_	14	dep	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	wonderful	_	JJ	JJ	_	8	amod	_	_
+8	staff	_	NN	NN	_	5	conj	_	_
+9	and	_	CC	CC	_	5	cc	_	_
+10	super	_	JJ	JJ	_	11	amod	_	_
+11	close	_	NN	NN	_	5	conj	_	_
+12	to	_	TO	TO	_	5	prep	_	_
+13	l	_	NNP	NNP	_	12	pobj	_	_
+14	train	_	NN	NN	_	22	dep	_	_
+15	to	_	TO	TO	_	14	prep	_	_
+16	Midway	_	NNP	NNP	_	17	nn	_	_
+17	Airport	_	NNP	NNP	_	15	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+19	.	_	.	.	_	0	erased	_	_
+20	will	_	MD	MD	_	22	aux	_	_
+21	definately	_	RB	RB	_	22	advmod	_	_
+22	stay	_	VB	VB	_	0	root	_	_
+23	there	_	EX	EX	_	25	expl	_	_
+24	again	_	RB	RB	_	25	advmod	_	_
+25	!!	_	JJ	JJ	_	22	dep	_	_
+

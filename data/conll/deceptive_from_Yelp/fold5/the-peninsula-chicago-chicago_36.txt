@@ -1,0 +1,48 @@
+1	Attended	_	VB	VB	_	0	root	_	_
+2	conference	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Nicestest	_	VB	VB	_	0	root	_	_
+2	staff	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	accomodations	_	NNS	NNS	_	2	conj	_	_
+5	ever	_	RB	RB	_	1	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Soo	_	NNP	NNP	_	2	nn	_	_
+2	clean	_	NNP	NNP	_	6	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	comfortable	_	JJ	JJ	_	2	amod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	cared	_	VBD	VBD	_	0	root	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Lots	_	NNS	NNS	_	0	root	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	attention	_	NN	NN	_	2	pobj	_	_
+4	to	_	TO	TO	_	1	prep	_	_
+5	detail	_	NN	NN	_	4	pobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	efficentcy	_	NN	NN	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Really	_	NNP	NNP	_	2	nsubj	_	_
+2	enjoyed	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	location	_	NN	NN	_	5	nn	_	_
+5	lots	_	NNS	NNS	_	2	dobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	walk	_	VB	VB	_	2	vmod	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	and	_	CC	CC	_	7	cc	_	_
+10	enjoy	_	VB	VB	_	7	conj	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	area	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Best	_	CD	CD	_	0	root	_	_
+2	ever	_	RB	RB	_	1	advmod	_	_
+3	.	_	.	.	_	0	erased	_	_
+

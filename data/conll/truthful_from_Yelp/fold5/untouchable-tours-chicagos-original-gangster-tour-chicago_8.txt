@@ -1,0 +1,31 @@
+1	THiS	_	NNS	NNS	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	GREAT	_	UH	UH	_	5	discourse	_	_
+4	!	_	.	.	_	0	erased	_	_
+5	More	_	JJR	JJR	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	better	_	JJR	JJR	_	5	conj	_	_
+8	than	_	IN	IN	_	10	mark	_	_
+9	I	_	PRP	PRP	_	10	nsubj	_	_
+10	expected	_	VBD	VBD	_	5	advcl	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	These	_	DT	DT	_	2	det	_	_
+2	guys	_	NNS	NNS	_	3	nsubj	_	_
+3	know	_	VBP	VBP	_	0	root	_	_
+4	their	_	PRP$	PRP$	_	5	poss	_	_
+5	stuff	_	NN	NN	_	3	dobj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	make	_	VBP	VBP	_	3	conj	_	_
+8	it	_	PRP	PRP	_	9	nsubj	_	_
+9	fun	_	JJ	JJ	_	7	xcomp	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	interesting	_	JJ	JJ	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	MORE	_	JJR	JJR	_	0	root	_	_
+2	than	_	IN	IN	_	4	mark	_	_
+3	reasonably	_	RB	RB	_	4	advmod	_	_
+4	priced	_	VBN	VBN	_	1	dep	_	_
+5	.	_	.	.	_	0	erased	_	_
+

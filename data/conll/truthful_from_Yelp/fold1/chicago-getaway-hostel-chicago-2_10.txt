@@ -1,0 +1,79 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	loved	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	5	poss	_	_
+4	two	_	CD	CD	_	5	num	_	_
+5	night	_	NN	NN	_	6	nsubj	_	_
+6	stay	_	VBP	VBP	_	2	ccomp	_	_
+7	here	_	RB	RB	_	6	advmod	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	In	_	IN	IN	_	6	prep	_	_
+2	town	_	NN	NN	_	3	nn	_	_
+3	w	_	NN	NN	_	1	pobj	_	_
+4	/	_	:	:	_	6	punct	_	_
+5	three	_	CD	CD	_	6	num	_	_
+6	friends	_	NNS	NNS	_	0	root	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	concert	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	4-bed	_	JJ	JJ	_	7	amod	_	_
+2	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+3	two	_	CD	CD	_	4	num	_	_
+4	bunks	_	NNS	NNS	_	1	dep	_	_
+5	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+6	private	_	JJ	JJ	_	7	amod	_	_
+7	room	_	NN	NN	_	0	root	_	_
+8	w	_	JJ	JJ	_	7	dep	_	_
+9	/	_	:	:	_	7	punct	_	_
+10	bath	_	RB	RB	_	7	dep	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	0	root	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	quiet	_	JJ	JJ	_	1	conj	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	great	_	JJ	JJ	_	10	ccomp	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	fellow	_	JJ	JJ	_	6	amod	_	_
+6	travelers	_	NNS	NNS	_	10	nsubj	_	_
+7	were	_	VBD	VBD	_	10	cop	_	_
+8	all	_	PDT	PDT	_	10	dep	_	_
+9	very	_	RB	RB	_	10	advmod	_	_
+10	pleasant	_	JJ	JJ	_	0	root	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	fun	_	NN	NN	_	10	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Free	_	JJ	JJ	_	2	amod	_	_
+2	breakfast	_	NN	NN	_	6	nsubj	_	_
+3	was	_	VBD	VBD	_	6	cop	_	_
+4	more	_	RBR	RBR	_	5	advmod	_	_
+5	than	_	IN	IN	_	6	advmod	_	_
+6	adequate	_	JJ	JJ	_	10	ccomp	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	kitchen	_	NN	NN	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	available	_	JJ	JJ	_	0	root	_	_
+11	if	_	IN	IN	_	12	mark	_	_
+12	wanted	_	VBD	VBD	_	10	ccomp	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	2	nsubj	_	_
+2	stay	_	VBP	VBP	_	0	root	_	_
+3	here	_	RB	RB	_	4	advmod	_	_
+4	again	_	RB	RB	_	8	advmod	_	_
+5	next	_	JJ	JJ	_	6	amod	_	_
+6	time	_	NN	NN	_	8	nsubj	_	_
+7	I	_	PRP	PRP	_	8	nsubj	_	_
+8	'm	_	VBP	VBP	_	2	ccomp	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	Windy	_	NNP	NNP	_	12	nn	_	_
+12	City	_	NNP	NNP	_	9	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+

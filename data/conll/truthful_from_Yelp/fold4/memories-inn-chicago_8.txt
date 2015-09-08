@@ -1,0 +1,106 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	best	_	JJS	JJS	_	3	amod	_	_
+3	pho	_	NN	NN	_	7	dep	_	_
+4	'	_	''	''	_	0	erased	_	_
+5	we	_	PRP	PRP	_	7	nsubj	_	_
+6	have	_	VBP	VBP	_	7	aux	_	_
+7	had	_	VBN	VBN	_	0	root	_	_
+8	north	_	NN	NN	_	7	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	Argyle	_	NNP	NNP	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	friendly	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	bartender	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	super	_	RB	RB	_	5	advmod	_	_
+5	helpful	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	owner	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	present	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	hospitable	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	can	_	MD	MD	_	3	aux	_	_
+3	tell	_	VB	VB	_	0	root	_	_
+4	he	_	PRP	PRP	_	5	nsubj	_	_
+5	takes	_	VBZ	VBZ	_	3	ccomp	_	_
+6	pride	_	NN	NN	_	5	dobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	food	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	ordered	_	VBD	VBD	_	0	root	_	_
+3	carryout	_	NN	NN	_	2	dobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	but	_	CC	CC	_	2	cc	_	_
+6	would	_	MD	MD	_	7	aux	_	_
+7	love	_	VB	VB	_	2	conj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	return	_	VB	VB	_	7	xcomp	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	dine	_	VB	VB	_	9	xcomp	_	_
+12	in	_	RP	RP	_	11	prt	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	Satuday	_	NN	NN	_	0	root	_	_
+5	before	_	IN	IN	_	4	prep	_	_
+6	Easter	_	NNP	NNP	_	5	pobj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	owner	_	NN	NN	_	10	nsubj	_	_
+10	made	_	VBD	VBD	_	4	conj	_	_
+11	his	_	PRP$	PRP$	_	12	poss	_	_
+12	mom	_	NN	NN	_	16	poss	_	_
+13	's	_	POS	POS	_	12	possessive	_	_
+14	cheese	_	NN	NN	_	16	nn	_	_
+15	pita	_	NN	NN	_	16	nn	_	_
+16	bread	_	NN	NN	_	10	dobj	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	give	_	VB	VB	_	10	vmod	_	_
+19	to	_	TO	TO	_	18	prep	_	_
+20	customers	_	NNS	NNS	_	19	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	Delicious	_	UH	UH	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	food	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	0	root	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	fresh	_	JJ	JJ	_	4	conj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	flavorful	_	JJ	JJ	_	4	conj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	and	_	CC	CC	_	4	cc	_	_
+11	hot	_	JJ	JJ	_	4	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	3	nsubj	_	_
+3	seems	_	VBZ	VBZ	_	0	root	_	_
+4	clean	_	JJ	JJ	_	3	acomp	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Definitely	_	RB	RB	_	4	dep	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	hidden	_	JJ	JJ	_	4	amod	_	_
+4	gem	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+

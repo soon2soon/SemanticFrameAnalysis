@@ -1,0 +1,43 @@
+1	Had	_	VBD	VBD	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	gift	_	NN	NN	_	4	nn	_	_
+4	certificate	_	NN	NN	_	1	nsubj	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	10	det	_	_
+7	free	_	JJ	JJ	_	10	amod	_	_
+8	30	_	CD	CD	_	10	num	_	_
+9	minute	_	NN	NN	_	10	nn	_	_
+10	ride	_	NN	NN	_	5	pobj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	and	_	CC	CC	_	1	cc	_	_
+13	they	_	PRP	PRP	_	14	nsubj	_	_
+14	treated	_	VBD	VBD	_	1	conj	_	_
+15	us	_	PRP	PRP	_	14	dobj	_	_
+16	just	_	RB	RB	_	18	advmod	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	same	_	JJ	JJ	_	15	dep	_	_
+19	as	_	IN	IN	_	14	prep	_	_
+20	a	_	DT	DT	_	22	det	_	_
+21	paying	_	VBG	VBG	_	22	amod	_	_
+22	customer	_	NN	NN	_	19	pobj	_	_
+23	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	driver	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	nice	_	JJ	JJ	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	photo	_	NN	NN	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	great	_	JJ	JJ	_	5	conj	_	_
+12	too	_	RB	RB	_	11	advmod	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	MD	MD	_	3	aux	_	_
+2	definitely	_	NNP	NNP	_	3	nsubj	_	_
+3	return	_	VB	VB	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+

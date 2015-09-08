@@ -1,0 +1,23 @@
+1	AWSOME	_	RB	RB	_	4	advmod	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	can	_	MD	MD	_	4	aux	_	_
+4	have	_	VB	VB	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	pet	_	JJ	JJ	_	7	amod	_	_
+7	goldfish	_	NN	NN	_	4	dobj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	your	_	PRP$	PRP$	_	10	poss	_	_
+10	room	_	NN	NN	_	8	pobj	_	_
+11	!	_	.	.	_	0	erased	_	_
+
+1	Massages	_	NNS	NNS	_	0	root	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	friday	_	NNP	NNP	_	2	pobj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	food	_	NN	NN	_	3	conj	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	Yum	_	VB	VB	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+

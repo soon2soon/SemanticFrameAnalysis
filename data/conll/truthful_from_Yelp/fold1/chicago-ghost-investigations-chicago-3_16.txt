@@ -1,0 +1,94 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	took	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	son	_	NN	NN	_	2	dobj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	five	_	CD	CD	_	8	num	_	_
+7	other	_	JJ	JJ	_	8	amod	_	_
+8	boys	_	NNS	NNS	_	4	conj	_	_
+9	for	_	IN	IN	_	2	prep	_	_
+10	his	_	PRP$	PRP$	_	12	poss	_	_
+11	15th	_	JJ	JJ	_	12	amod	_	_
+12	birthday	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	blast	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	guide	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	friendly	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	knowledgable	_	JJ	JJ	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	warehouse	_	NN	NN	_	6	nsubj	_	_
+3	was	_	VBD	VBD	_	6	cop	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	perfect	_	JJ	JJ	_	6	amod	_	_
+6	place	_	NN	NN	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	look	_	VB	VB	_	6	vmod	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	ghosts	_	NNS	NNS	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	second	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	0	root	_	_
+6	there	_	RB	RB	_	5	advmod	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	it	_	PRP	PRP	_	12	nsubj	_	_
+9	was	_	VBD	VBD	_	12	cop	_	_
+10	just	_	RB	RB	_	12	advmod	_	_
+11	as	_	RB	RB	_	12	advmod	_	_
+12	exciting	_	JJ	JJ	_	5	conj	_	_
+13	as	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	first	_	JJ	JJ	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	much	_	JJ	JJ	_	5	amod	_	_
+5	fun	_	NN	NN	_	2	dobj	_	_
+6	using	_	VBG	VBG	_	2	xcomp	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	divination	_	NN	NN	_	9	nn	_	_
+9	rods	_	NNS	NNS	_	6	dobj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	communicate	_	VB	VB	_	6	vmod	_	_
+12	with	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	ghosts	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	easy	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	schedule	_	VB	VB	_	4	xcomp	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	arrange	_	VB	VB	_	6	conj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	go	_	VB	VB	_	8	xcomp	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	'll	_	MD	MD	_	3	aux	_	_
+3	go	_	VB	VB	_	0	root	_	_
+4	again	_	RB	RB	_	3	advmod	_	_
+5	for	_	IN	IN	_	3	prep	_	_
+6	sure	_	JJ	JJ	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+

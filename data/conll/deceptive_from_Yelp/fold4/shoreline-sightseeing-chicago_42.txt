@@ -1,0 +1,29 @@
+1	Excellent	_	JJ	JJ	_	3	amod	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	15	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	obviously	_	RB	RB	_	8	advmod	_	_
+6	an	_	DT	DT	_	8	det	_	_
+7	architecture	_	NN	NN	_	8	nn	_	_
+8	maniac	_	NN	NN	_	15	nsubj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	probably	_	RB	RB	_	14	advmod	_	_
+11	the	_	DT	DT	_	14	det	_	_
+12	most	_	RBS	RBS	_	13	advmod	_	_
+13	qualified	_	VBN	VBN	_	14	amod	_	_
+14	guy	_	NN	NN	_	8	conj	_	_
+15	got	_	VBD	VBD	_	0	root	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	job	_	NN	NN	_	15	dobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	Entertaining	_	NN	NN	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	BEAUTIFUL	_	NNP	NNP	_	6	nn	_	_
+4	night	_	NN	NN	_	6	nn	_	_
+5	time	_	NN	NN	_	6	nn	_	_
+6	river	_	NN	NN	_	1	appos	_	_
+7	architectural	_	JJ	JJ	_	8	amod	_	_
+8	tour	_	NN	NN	_	6	dep	_	_
+9	.	_	.	.	_	0	erased	_	_
+

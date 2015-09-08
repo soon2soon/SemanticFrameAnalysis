@@ -1,0 +1,53 @@
+1	Excellent	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	price	_	NN	NN	_	3	pobj	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	hotel	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	nothing	_	NN	NN	_	5	nn	_	_
+5	fancy	_	NN	NN	_	0	root	_	_
+6	-	_	:	:	_	0	erased	_	_
+7	no	_	DT	DT	_	9	neg	_	_
+8	room	_	NN	NN	_	9	nn	_	_
+9	service	_	NN	NN	_	5	dep	_	_
+10	or	_	CC	CC	_	9	cc	_	_
+11	extra	_	JJ	JJ	_	12	amod	_	_
+12	amenities	_	NNS	NNS	_	9	conj	_	_
+13	but	_	CC	CC	_	5	cc	_	_
+14	you	_	PRP	PRP	_	18	nsubj	_	_
+15	're	_	VBP	VBP	_	18	cop	_	_
+16	just	_	RB	RB	_	18	advmod	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	block	_	NN	NN	_	5	conj	_	_
+19	of	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	Magnificent	_	NNP	NNP	_	22	nn	_	_
+22	Mile	_	NNP	NNP	_	19	pobj	_	_
+23	-	_	:	:	_	0	erased	_	_
+24	plenty	_	RB	RB	_	26	advmod	_	_
+25	to	_	TO	TO	_	26	aux	_	_
+26	eat	_	VB	VB	_	18	vmod	_	_
+27	and	_	CC	CC	_	26	cc	_	_
+28	do	_	VB	VB	_	26	conj	_	_
+29	!	_	.	.	_	0	erased	_	_
+
+1	Room	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	relatively	_	RB	RB	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	As	_	RB	RB	_	2	advmod	_	_
+2	much	_	RB	RB	_	0	root	_	_
+3	as	_	IN	IN	_	5	mark	_	_
+4	I	_	PRP	PRP	_	5	nsubj	_	_
+5	expected	_	VBN	VBN	_	2	dep	_	_
+6	for	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	price	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

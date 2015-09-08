@@ -1,0 +1,35 @@
+1	Freaking	_	VBG	VBG	_	0	root	_	_
+2	awesome	_	JJ	JJ	_	3	amod	_	_
+3	tour	_	NN	NN	_	1	dobj	_	_
+4	around	_	IN	IN	_	1	prep	_	_
+5	Chicago	_	NNP	NNP	_	11	dep	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	beautiful	_	JJ	JJ	_	10	amod	_	_
+9	tour	_	NN	NN	_	10	nn	_	_
+10	guide	_	NN	NN	_	6	pobj	_	_
+11	Kim	_	NNP	NNP	_	4	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Just	_	RB	RB	_	2	advmod	_	_
+2	amazing	_	JJ	JJ	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	guys	_	VBZ	VBZ	_	0	root	_	_
+3	doing	_	VBG	VBG	_	2	xcomp	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	great	_	JJ	JJ	_	6	amod	_	_
+6	work	_	NN	NN	_	3	dobj	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	Btw	_	VB	VB	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	tour	_	NN	NN	_	7	nsubj	_	_
+5	was	_	VBD	VBD	_	7	cop	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	interesting	_	JJ	JJ	_	1	ccomp	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	informative	_	JJ	JJ	_	7	conj	_	_
+

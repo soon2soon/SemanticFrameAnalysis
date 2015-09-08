@@ -1,0 +1,24 @@
+1	Perfect	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	LOVE	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	Hyatt	_	NNP	NNP	_	5	nn	_	_
+4	Place	_	NNP	NNP	_	5	nn	_	_
+5	brand	_	NN	NN	_	1	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Always	_	NNP	NNP	_	0	root	_	_
+2	my	_	PRP$	PRP$	_	4	poss	_	_
+3	first	_	JJ	JJ	_	4	amod	_	_
+4	choice	_	NN	NN	_	1	dep	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	an	_	DT	DT	_	8	det	_	_
+7	affordable	_	JJ	JJ	_	8	amod	_	_
+8	hotel	_	NN	NN	_	5	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Corporate	_	JJ	JJ	_	2	amod	_	_
+2	Pilot	_	NN	NN	_	0	root	_	_
+

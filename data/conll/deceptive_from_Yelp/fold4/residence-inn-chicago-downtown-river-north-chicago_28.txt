@@ -1,0 +1,55 @@
+1	This	_	DT	DT	_	2	det	_	_
+2	place	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	simply	_	RB	RB	_	5	advmod	_	_
+5	awesome	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Chandra	_	NNP	NNP	_	10	nsubj	_	_
+2	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	caretaker	_	NN	NN	_	1	dep	_	_
+5	during	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	breakfast	_	NN	NN	_	8	nn	_	_
+8	time	_	NN	NN	_	5	pobj	_	_
+9	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+10	is	_	VBZ	VBZ	_	0	root	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	hospitable	_	JJ	JJ	_	10	advmod	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	friendly	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	nice	_	JJ	JJ	_	3	conj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	also	_	RB	RB	_	9	advmod	_	_
+8	very	_	RB	RB	_	9	advmod	_	_
+9	quick	_	JJ	JJ	_	3	conj	_	_
+10	at	_	IN	IN	_	3	prep	_	_
+11	serving	_	VBG	VBG	_	10	pcomp	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Also	_	RB	RB	_	9	advmod	_	_
+2	single	_	JJ	JJ	_	6	amod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	double	_	JJ	JJ	_	2	conj	_	_
+5	occupancy	_	NN	NN	_	6	nn	_	_
+6	rates	_	NNS	NNS	_	9	nsubj	_	_
+7	are	_	VBP	VBP	_	9	cop	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	same	_	JJ	JJ	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Breakfast	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	free	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Internet	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	free	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

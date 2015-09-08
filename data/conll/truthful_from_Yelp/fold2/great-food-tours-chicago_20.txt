@@ -1,0 +1,49 @@
+1	Went	_	VB	VB	_	11	ccomp	_	_
+2	on	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	cupcake	_	JJ	JJ	_	5	amod	_	_
+5	tour	_	NN	NN	_	2	pobj	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	Craig	_	NNP	NNP	_	6	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	he	_	PRP	PRP	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	great	_	JJ	JJ	_	0	root	_	_
+12	!	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	even	_	RB	RB	_	3	advmod	_	_
+3	called	_	VBD	VBD	_	0	root	_	_
+4	when	_	WRB	WRB	_	7	advmod	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	was	_	VBD	VBD	_	7	aux	_	_
+7	running	_	VBG	VBG	_	3	advcl	_	_
+8	late	_	RB	RB	_	7	advmod	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	made	_	VBD	VBD	_	3	conj	_	_
+11	sure	_	JJ	JJ	_	10	acomp	_	_
+12	that	_	IN	IN	_	14	mark	_	_
+13	I	_	PRP	PRP	_	14	nsubj	_	_
+14	found	_	VBD	VBD	_	11	ccomp	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	group	_	NN	NN	_	14	dobj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	recommend	_	VB	VB	_	0	root	_	_
+4	this	_	DT	DT	_	3	dobj	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	anyone	_	NN	NN	_	5	pobj	_	_
+7	looking	_	VBG	VBG	_	6	vmod	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	fun	_	NN	NN	_	11	nn	_	_
+11	afternoon	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Purchased	_	VBN	VBN	_	0	root	_	_
+2	through	_	IN	IN	_	1	prep	_	_
+3	amazon	_	NN	NN	_	2	pobj	_	_
+4	local	_	JJ	JJ	_	3	amod	_	_
+

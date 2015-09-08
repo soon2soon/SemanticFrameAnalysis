@@ -1,0 +1,81 @@
+1	After	_	IN	IN	_	9	prep	_	_
+2	using	_	VBG	VBG	_	1	pcomp	_	_
+3	several	_	JJ	JJ	_	5	amod	_	_
+4	car	_	NN	NN	_	5	nn	_	_
+5	services	_	NNS	NNS	_	2	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	finally	_	RB	RB	_	9	advmod	_	_
+9	found	_	VBD	VBD	_	0	root	_	_
+10	one	_	CD	CD	_	9	dobj	_	_
+11	that	_	WDT	WDT	_	13	nsubj	_	_
+12	is	_	VBZ	VBZ	_	13	cop	_	_
+13	great	_	JJ	JJ	_	10	rcmod	_	_
+14	!	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	easy	_	JJ	JJ	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	use	_	NN	NN	_	3	pobj	_	_
+5	and	_	CC	CC	_	2	cc	_	_
+6	friendly	_	JJ	JJ	_	2	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	All	_	PDT	PDT	_	3	predet	_	_
+2	their	_	PRP$	PRP$	_	3	poss	_	_
+3	drivers	_	NNS	NNS	_	5	nsubj	_	_
+4	are	_	VBP	VBP	_	5	cop	_	_
+5	pleasant	_	JJ	JJ	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	on	_	IN	IN	_	5	conj	_	_
+9	time	_	NN	NN	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	schedule	_	VB	VB	_	0	root	_	_
+4	pick	_	VB	VB	_	3	xcomp	_	_
+5	up	_	RP	RP	_	4	prt	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	day	_	NN	NN	_	4	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	your	_	PRP$	PRP$	_	10	poss	_	_
+10	departure	_	NN	NN	_	8	pobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	arrival	_	NN	NN	_	10	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	have	_	VBP	VBP	_	3	aux	_	_
+3	used	_	VBN	VBN	_	0	root	_	_
+4	them	_	PRP	PRP	_	3	iobj	_	_
+5	several	_	JJ	JJ	_	6	amod	_	_
+6	times	_	NNS	NNS	_	3	dobj	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	will	_	MD	MD	_	9	aux	_	_
+9	continue	_	VB	VB	_	3	conj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	use	_	VB	VB	_	9	xcomp	_	_
+12	this	_	DT	DT	_	13	det	_	_
+13	service	_	NN	NN	_	11	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	email	_	VB	VB	_	0	root	_	_
+3	reminders	_	NNS	NNS	_	2	dobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	invoices	_	NNS	NNS	_	3	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	2	cc	_	_
+8	send	_	VB	VB	_	2	conj	_	_
+9	thank	_	VB	VB	_	8	ccomp	_	_
+10	you	_	PRP	PRP	_	11	nsubj	_	_
+11	emails	_	JJ	JJ	_	9	xcomp	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	3	aux	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VB	VB	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,47 @@
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	recently	_	RB	RB	_	3	advmod	_	_
+3	hosted	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	team	_	NN	NN	_	7	nn	_	_
+6	building	_	NN	NN	_	7	nn	_	_
+7	activity	_	NN	NN	_	3	dobj	_	_
+8	with	_	IN	IN	_	3	prep	_	_
+9	TikiBoat	_	NNP	NNP	_	10	nn	_	_
+10	Chicago	_	NNP	NNP	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	5	det	_	_
+2	Captain	_	NNP	NNP	_	5	nn	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	First	_	NNP	NNP	_	2	conj	_	_
+5	Mate	_	NNP	NNP	_	7	nsubj	_	_
+6	were	_	VBD	VBD	_	7	cop	_	_
+7	excellent	_	JJ	JJ	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	even	_	RB	RB	_	3	advmod	_	_
+3	customized	_	VBN	VBN	_	0	root	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	music	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	group	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	aux	_	_
+4	having	_	VBG	VBG	_	9	dep	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	much	_	JJ	JJ	_	7	amod	_	_
+7	fun	_	NN	NN	_	4	dobj	_	_
+8	we	_	PRP	PRP	_	9	nsubj	_	_
+9	extended	_	VBD	VBD	_	0	root	_	_
+10	our	_	PRP$	PRP$	_	11	poss	_	_
+11	party	_	NN	NN	_	9	dobj	_	_
+12	another	_	DT	DT	_	13	det	_	_
+13	hour	_	NN	NN	_	11	dep	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Outstanding	_	FW	FW	_	0	root	_	_
+2	.	_	.	.	_	0	erased	_	_
+3	!	_	.	.	_	0	erased	_	_
+

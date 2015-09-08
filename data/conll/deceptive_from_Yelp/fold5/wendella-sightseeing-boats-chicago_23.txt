@@ -1,0 +1,54 @@
+1	Very	_	RB	RB	_	3	dep	_	_
+2	fun	_	NN	NN	_	3	nn	_	_
+3	tour	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	relaxing	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	informative	_	JJ	JJ	_	2	conj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	yet	_	RB	RB	_	8	advmod	_	_
+7	not	_	RB	RB	_	8	dep	_	_
+8	too	_	RB	RB	_	9	advmod	_	_
+9	overbearing	_	VBG	VBG	_	2	dep	_	_
+10	with	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	commentary	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Taking	_	VBG	VBG	_	18	csubj	_	_
+2	pics	_	NNS	NNS	_	1	dobj	_	_
+3	and	_	CC	CC	_	1	cc	_	_
+4	having	_	VBG	VBG	_	1	conj	_	_
+5	your	_	PRP$	PRP$	_	7	poss	_	_
+6	own	_	JJ	JJ	_	7	amod	_	_
+7	space	_	NN	NN	_	4	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	get	_	VB	VB	_	4	vmod	_	_
+10	out	_	RP	RP	_	9	prt	_	_
+11	on	_	IN	IN	_	9	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	water	_	NN	NN	_	11	pobj	_	_
+14	enjoying	_	VBG	VBG	_	13	vmod	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	city	_	NN	NN	_	14	dobj	_	_
+17	is	_	VBZ	VBZ	_	18	cop	_	_
+18	great	_	JJ	JJ	_	0	root	_	_
+19	for	_	IN	IN	_	18	prep	_	_
+20	all	_	DT	DT	_	21	det	_	_
+21	ages	_	NNS	NNS	_	19	pobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	price	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	definitely	_	RB	RB	_	5	advmod	_	_
+5	reasonable	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	will	_	MD	MD	_	9	aux	_	_
+9	go	_	VB	VB	_	5	conj	_	_
+10	again	_	RB	RB	_	11	advmod	_	_
+11	soon	_	RB	RB	_	9	advmod	_	_
+

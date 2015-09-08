@@ -1,0 +1,28 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	store	_	NN	NN	_	0	root	_	_
+3	--	_	:	:	_	0	erased	_	_
+4	wide	_	JJ	JJ	_	5	amod	_	_
+5	array	_	NN	NN	_	2	dep	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	architectural	_	JJ	JJ	_	8	amod	_	_
+8	books	_	NNS	NNS	_	6	pobj	_	_
+9	--	_	:	:	_	0	erased	_	_
+10	not	_	RB	RB	_	12	dep	_	_
+11	only	_	RB	RB	_	12	advmod	_	_
+12	on	_	IN	IN	_	8	prep	_	_
+13	Chicago	_	NNP	NNP	_	12	pobj	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	but	_	CC	CC	_	16	cc	_	_
+16	also	_	RB	RB	_	12	cc	_	_
+17	on	_	IN	IN	_	12	conj	_	_
+18	architecture	_	NN	NN	_	17	pobj	_	_
+19	in	_	IN	IN	_	18	prep	_	_
+20	general	_	NN	NN	_	19	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	Neat	_	VB	VB	_	0	root	_	_
+2	gifts	_	NNS	NNS	_	1	dobj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	too	_	RB	RB	_	1	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+

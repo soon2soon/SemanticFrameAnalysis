@@ -1,0 +1,24 @@
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	is	_	VBZ	VBZ	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	cool	_	JJ	JJ	_	5	amod	_	_
+5	tour	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	5	advmod	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	first	_	RB	RB	_	5	advmod	_	_
+5	new	_	JJ	JJ	_	10	advcl	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	Chicago	_	NNP	NNP	_	6	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	I	_	PRP	PRP	_	10	nsubj	_	_
+10	did	_	VBD	VBD	_	0	root	_	_
+11	this	_	DT	DT	_	10	dobj	_	_
+12	and	_	CC	CC	_	10	cc	_	_
+13	it	_	PRP	PRP	_	15	nsubj	_	_
+14	was	_	VBD	VBD	_	15	cop	_	_
+15	fun	_	NN	NN	_	10	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,37 @@
+1	Attended	_	VB	VB	_	0	root	_	_
+2	this	_	DT	DT	_	1	dobj	_	_
+3	about	_	RB	RB	_	5	advmod	_	_
+4	three	_	CD	CD	_	5	num	_	_
+5	years	_	NNS	NNS	_	6	npadvmod	_	_
+6	ago	_	RB	RB	_	2	advmod	_	_
+7	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+8	their	_	PRP$	PRP$	_	10	poss	_	_
+9	first	_	JJ	JJ	_	10	amod	_	_
+10	year	_	NN	NN	_	2	dep	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	china	_	NN	NN	_	13	nn	_	_
+13	town	_	NN	NN	_	11	pobj	_	_
+14	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	daughter	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	plan	_	VBP	VBP	_	0	root	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	attending	_	VBG	VBG	_	6	pcomp	_	_
+8	this	_	DT	DT	_	7	dobj	_	_
+9	again	_	RB	RB	_	7	advmod	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	summer	_	NN	NN	_	7	tmod	_	_
+12	for	_	IN	IN	_	7	prep	_	_
+13	our	_	PRP$	PRP$	_	14	poss	_	_
+14	birthdays	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Excellent	_	VB	VB	_	0	root	_	_
+2	job	_	NN	NN	_	3	nn	_	_
+3	guys	_	NNS	NNS	_	1	dobj	_	_
+4	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,55 @@
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	've	_	VBP	VBP	_	3	aux	_	_
+3	done	_	VBN	VBN	_	0	root	_	_
+4	Segway	_	NNP	NNP	_	5	nn	_	_
+5	tours	_	NNS	NNS	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	Chicago	_	NNP	NNP	_	6	pobj	_	_
+8	with	_	IN	IN	_	3	prep	_	_
+9	another	_	DT	DT	_	10	det	_	_
+10	company	_	NN	NN	_	8	pobj	_	_
+11	before	_	RB	RB	_	3	advmod	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	and	_	CC	CC	_	3	cc	_	_
+14	that	_	DT	DT	_	16	nsubj	_	_
+15	was	_	VBD	VBD	_	16	cop	_	_
+16	good	_	JJ	JJ	_	3	conj	_	_
+17	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	also	_	RB	RB	_	5	advmod	_	_
+4	VERY	_	RB	RB	_	5	advmod	_	_
+5	good	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	fun	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	entertaining	_	JJ	JJ	_	3	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	3	poss	_	_
+2	guide	_	NN	NN	_	3	nn	_	_
+3	Quinn	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	knowledgeable	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	courteous	_	JJ	JJ	_	5	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	used	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	Living	_	VBG	VBG	_	6	amod	_	_
+5	social	_	JJ	JJ	_	6	amod	_	_
+6	coupon	_	NN	NN	_	13	nsubj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	it	_	PRP	PRP	_	6	conj	_	_
+9	was	_	VBD	VBD	_	13	cop	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	GREAT	_	JJ	JJ	_	13	amod	_	_
+12	value	_	NN	NN	_	13	nn	_	_
+13	!!	_	NN	NN	_	2	ccomp	_	_
+

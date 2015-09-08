@@ -1,0 +1,18 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	experience	_	NN	NN	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	wonderful	_	JJ	JJ	_	5	amod	_	_
+5	entertainment	_	NN	NN	_	2	conj	_	_
+6	provided	_	VBD	VBD	_	0	root	_	_
+7	by	_	IN	IN	_	6	prep	_	_
+8	Grant	_	NNP	NNP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Whose	_	JJ	JJ	_	2	amod	_	_
+2	gamut	_	NN	NN	_	6	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	information	_	NN	NN	_	3	pobj	_	_
+5	was	_	VBD	VBD	_	6	cop	_	_
+6	interesting	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+

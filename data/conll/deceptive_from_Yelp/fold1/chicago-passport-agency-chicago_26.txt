@@ -1,0 +1,25 @@
+1	While	_	IN	IN	_	3	mark	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	had	_	VBD	VBD	_	21	advcl	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	make	_	VB	VB	_	3	xcomp	_	_
+6	two	_	CD	CD	_	7	num	_	_
+7	trips	_	NNS	NNS	_	5	dobj	_	_
+8	to	_	TO	TO	_	5	prep	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	facility	_	NN	NN	_	8	pobj	_	_
+11	before	_	IN	IN	_	15	mark	_	_
+12	my	_	PRP$	PRP$	_	13	poss	_	_
+13	paperwork	_	NN	NN	_	15	nsubj	_	_
+14	was	_	VBD	VBD	_	15	cop	_	_
+15	complete	_	JJ	JJ	_	3	advcl	_	_
+16	...	_	:	:	_	0	erased	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	staff	_	NN	NN	_	21	nsubj	_	_
+19	was	_	VBD	VBD	_	21	cop	_	_
+20	amazingly	_	RB	RB	_	21	advmod	_	_
+21	helpful	_	JJ	JJ	_	0	root	_	_
+22	and	_	CC	CC	_	21	cc	_	_
+23	pleasant	_	JJ	JJ	_	21	conj	_	_
+24	.	_	.	.	_	0	erased	_	_
+

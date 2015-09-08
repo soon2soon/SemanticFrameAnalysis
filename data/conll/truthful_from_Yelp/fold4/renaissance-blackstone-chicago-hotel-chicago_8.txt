@@ -1,0 +1,30 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	beautiful	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	employees	_	NNS	NNS	_	5	nsubj	_	_
+3	are	_	VBP	VBP	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	nice	_	JJ	JJ	_	0	root	_	_
+6	&	_	CC	CC	_	7	nsubj	_	_
+7	made	_	VBD	VBD	_	5	ccomp	_	_
+8	sure	_	RB	RB	_	7	advmod	_	_
+9	all	_	PDT	PDT	_	11	predet	_	_
+10	my	_	PRP$	PRP$	_	11	poss	_	_
+11	needs	_	NNS	NNS	_	7	dobj	_	_
+12	where	_	WRB	WRB	_	13	advmod	_	_
+13	accommodated	_	VBN	VBN	_	7	advcl	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Wish	_	VB	VB	_	0	root	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	would	_	MD	MD	_	5	aux	_	_
+4	have	_	VB	VB	_	5	aux	_	_
+5	stayed	_	VBN	VBN	_	1	ccomp	_	_
+6	MORE	_	JJR	JJR	_	5	acomp	_	_
+7	than	_	IN	IN	_	5	prep	_	_
+8	one	_	CD	CD	_	10	num	_	_
+9	night	_	NN	NN	_	10	nn	_	_
+10	!!	_	NNS	NNS	_	7	pobj	_	_
+

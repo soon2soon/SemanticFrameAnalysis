@@ -1,0 +1,57 @@
+1	Cupcake	_	NNP	NNP	_	2	nn	_	_
+2	Tour	_	NNP	NNP	_	7	nsubj	_	_
+3	with	_	IN	IN	_	2	prep	_	_
+4	Jeff	_	NNP	NNP	_	3	pobj	_	_
+5	was	_	VBD	VBD	_	7	cop	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	best	_	JJS	JJS	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	knowledgable	_	NN	NN	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	kind	_	NN	NN	_	3	conj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	fun	_	NN	NN	_	3	conj	_	_
+9	!	_	.	.	_	0	erased	_	_
+
+1	One	_	PRP	PRP	_	5	nsubj	_	_
+2	will	_	MD	MD	_	5	aux	_	_
+3	not	_	RB	RB	_	5	neg	_	_
+4	just	_	RB	RB	_	5	advmod	_	_
+5	experience	_	VB	VB	_	0	root	_	_
+6	cupcakes	_	NNS	NNS	_	5	dobj	_	_
+7	but	_	CC	CC	_	8	cc	_	_
+8	also	_	RB	RB	_	6	cc	_	_
+9	some	_	DT	DT	_	11	det	_	_
+10	historical	_	JJ	JJ	_	11	amod	_	_
+11	facts	_	NNS	NNS	_	6	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	4	mark	_	_
+2	you	_	PRP	PRP	_	4	nsubj	_	_
+3	're	_	VBP	VBP	_	4	cop	_	_
+4	lucky	_	JJ	JJ	_	7	advcl	_	_
+5	he	_	PRP	PRP	_	7	nsubj	_	_
+6	will	_	MD	MD	_	7	aux	_	_
+7	let	_	VB	VB	_	0	root	_	_
+8	you	_	PRP	PRP	_	9	nsubj	_	_
+9	crash	_	VB	VB	_	7	ccomp	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	wedding	_	NN	NN	_	12	nn	_	_
+12	:--RRB-	_	NN	NN	_	9	dobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	3	nsubj	_	_
+2	even	_	RB	RB	_	3	advmod	_	_
+3	let	_	VBP	VBP	_	0	root	_	_
+4	us	_	PRP	PRP	_	5	nsubj	_	_
+5	share	_	VBP	VBP	_	3	ccomp	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	cab	_	NN	NN	_	5	dobj	_	_
+8	with	_	IN	IN	_	5	prep	_	_
+9	him	_	PRP	PRP	_	10	nsubj	_	_
+10	!!!!	_	VBG	VBG	_	8	pcomp	_	_
+

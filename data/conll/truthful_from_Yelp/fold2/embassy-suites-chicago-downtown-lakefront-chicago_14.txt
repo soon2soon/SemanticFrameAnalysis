@@ -1,0 +1,85 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	husband	_	NN	NN	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	I	_	PRP	PRP	_	2	conj	_	_
+5	travel	_	VBP	VBP	_	0	root	_	_
+6	often	_	RB	RB	_	5	advmod	_	_
+7	and	_	CC	CC	_	5	cc	_	_
+8	have	_	VBP	VBP	_	9	aux	_	_
+9	stayed	_	VBN	VBN	_	5	conj	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	many	_	JJ	JJ	_	13	amod	_	_
+12	Embassy	_	NNP	NNP	_	13	nn	_	_
+13	Suites	_	NNP	NNP	_	10	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	This	_	DT	DT	_	2	det	_	_
+2	one	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	our	_	PRP$	PRP$	_	5	poss	_	_
+5	favorite	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	offer	_	VBP	VBP	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	cook	_	NN	NN	_	2	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	order	_	VB	VB	_	2	xcomp	_	_
+7	breakfast	_	NN	NN	_	6	dobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	continental	_	NN	NN	_	7	conj	_	_
+10	and	_	CC	CC	_	7	cc	_	_
+11	buffet	_	NN	NN	_	7	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Food	_	NNP	NNP	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	good	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	lots	_	NNS	NNS	_	4	conj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	it	_	PRP	PRP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	room	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	roomy	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	nice	_	JJ	JJ	_	4	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Lots	_	NNS	NNS	_	0	root	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	pillows	_	NNS	NNS	_	2	pobj	_	_
+4	and	_	CC	CC	_	5	cc	_	_
+5	quite	_	RB	RB	_	1	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	From	_	IN	IN	_	4	prep	_	_
+2	5-7	_	CD	CD	_	1	pobj	_	_
+3	they	_	PRP	PRP	_	4	nsubj	_	_
+4	have	_	VBP	VBP	_	0	root	_	_
+5	free	_	JJ	JJ	_	7	amod	_	_
+6	open	_	JJ	JJ	_	7	amod	_	_
+7	bar	_	NN	NN	_	4	dobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	light	_	NN	NN	_	10	nn	_	_
+10	snacks	_	NNS	NNS	_	7	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	recommend	_	VB	VB	_	0	root	_	_
+3	this	_	DT	DT	_	4	det	_	_
+4	hotel	_	NN	NN	_	2	dobj	_	_
+5	to	_	TO	TO	_	2	prep	_	_
+6	anyone	_	NN	NN	_	5	pobj	_	_
+7	coming	_	VBG	VBG	_	6	vmod	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	downtown	_	JJ	JJ	_	10	amod	_	_
+10	Chicago	_	NNP	NNP	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

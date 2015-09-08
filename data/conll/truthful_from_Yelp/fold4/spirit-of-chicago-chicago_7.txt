@@ -1,0 +1,16 @@
+1	Tacky	_	NNP	NNP	_	0	root	_	_
+2	as	_	IN	IN	_	1	prep	_	_
+3	all	_	DT	DT	_	4	det	_	_
+4	hell	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	but	_	CC	CC	_	1	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	lot	_	NN	NN	_	6	pobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	fun	_	NN	NN	_	9	pobj	_	_
+11	after	_	IN	IN	_	10	prep	_	_
+12	a	_	DT	DT	_	14	det	_	_
+13	few	_	JJ	JJ	_	14	amod	_	_
+14	drinks	_	NNS	NNS	_	11	pobj	_	_
+15	!	_	.	.	_	0	erased	_	_
+

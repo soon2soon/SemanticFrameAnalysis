@@ -1,0 +1,52 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	hotel	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Brings	_	NNS	NNS	_	2	nsubj	_	_
+2	back	_	VBP	VBP	_	0	root	_	_
+3	wonderful	_	JJ	JJ	_	4	amod	_	_
+4	memories	_	NNS	NNS	_	2	dobj	_	_
+5	as	_	IN	IN	_	7	mark	_	_
+6	we	_	PRP	PRP	_	7	nsubj	_	_
+7	were	_	VBD	VBD	_	2	advcl	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	staying	_	VBG	VBG	_	8	pcomp	_	_
+10	over	_	RP	RP	_	9	prt	_	_
+11	for	_	IN	IN	_	9	prep	_	_
+12	a	_	DT	DT	_	14	det	_	_
+13	big	_	JJ	JJ	_	14	amod	_	_
+14	meeting	_	NN	NN	_	11	pobj	_	_
+15	my	_	PRP$	PRP$	_	16	poss	_	_
+16	daughter	_	NN	NN	_	17	nsubj	_	_
+17	had	_	VBD	VBD	_	14	rcmod	_	_
+18	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+19	which	_	WDT	WDT	_	20	nsubj	_	_
+20	turned	_	VBD	VBD	_	14	dep	_	_
+21	out	_	RP	RP	_	22	dep	_	_
+22	successful	_	JJ	JJ	_	20	advmod	_	_
+23	!	_	.	.	_	0	erased	_	_
+24	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	Valet/bellmen	_	NNP	NNP	_	6	nsubj	_	_
+2	were	_	VBD	VBD	_	6	cop	_	_
+3	great	_	JJ	JJ	_	6	amod	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	very	_	RB	RB	_	6	advmod	_	_
+6	attentive	_	JJ	JJ	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Lobby	_	RB	RB	_	6	advmod	_	_
+2	is	_	VBZ	VBZ	_	6	cop	_	_
+3	beautiful	_	JJ	JJ	_	6	amod	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	huge	_	JJ	JJ	_	6	amod	_	_
+6	hotel	_	NN	NN	_	0	root	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	we	_	PRP	PRP	_	11	nsubj	_	_
+9	'd	_	MD	MD	_	11	aux	_	_
+10	definately	_	RB	RB	_	11	advmod	_	_
+11	stay	_	VB	VB	_	6	rcmod	_	_
+12	again	_	RB	RB	_	11	advmod	_	_
+13	!!!	_	NNP	NNP	_	6	nsubj	_	_
+

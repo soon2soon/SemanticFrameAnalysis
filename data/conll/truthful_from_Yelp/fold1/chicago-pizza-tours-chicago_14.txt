@@ -1,0 +1,66 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	7	det	_	_
+4	pizza	_	NN	NN	_	7	nn	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	cocktails	_	NNS	NNS	_	4	conj	_	_
+7	tour	_	NN	NN	_	2	dobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	blast	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	guide	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	fun	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	energetic	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	was	_	VBD	VBD	_	0	root	_	_
+3	plenty	_	RB	RB	_	2	nsubj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	pizza	_	NN	NN	_	4	pobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	eat	_	VB	VB	_	5	vmod	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	our	_	PRP$	PRP$	_	10	poss	_	_
+10	choice	_	NN	NN	_	5	conj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	cocktails	_	NNS	NNS	_	11	pobj	_	_
+13	at	_	IN	IN	_	12	prep	_	_
+14	each	_	DT	DT	_	15	det	_	_
+15	stop	_	NN	NN	_	13	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubjpass	_	_
+2	were	_	VBD	VBD	_	4	auxpass	_	_
+3	happily	_	RB	RB	_	4	advmod	_	_
+4	stuffed	_	VBN	VBN	_	0	root	_	_
+5	by	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	end	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	tour	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Everyone	_	NN	NN	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	2	dobj	_	_
+6	whether	_	IN	IN	_	7	mark	_	_
+7	from	_	IN	IN	_	5	dep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	or	_	CC	CC	_	7	cc	_	_
+10	out	_	RB	RB	_	7	conj	_	_
+11	of	_	IN	IN	_	2	prep	_	_
+12	town	_	NN	NN	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

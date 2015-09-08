@@ -1,0 +1,72 @@
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	n't	_	RB	RB	_	4	neg	_	_
+4	get	_	VB	VB	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	experience	_	VB	VB	_	4	xcomp	_	_
+7	them	_	PRP	PRP	_	6	dobj	_	_
+8	because	_	IN	IN	_	12	mark	_	_
+9	it	_	PRP	PRP	_	12	nsubj	_	_
+10	was	_	VBD	VBD	_	12	cop	_	_
+11	too	_	RB	RB	_	12	advmod	_	_
+12	cold	_	JJ	JJ	_	6	advcl	_	_
+13	and	_	CC	CC	_	4	cc	_	_
+14	we	_	PRP	PRP	_	17	nsubj	_	_
+15	could	_	MD	MD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	ride	_	VB	VB	_	4	conj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	owner	_	NN	NN	_	3	nsubj	_	_
+3	refused	_	VBD	VBD	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	honor	_	VB	VB	_	3	xcomp	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	voucher	_	NN	NN	_	5	dobj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	give	_	VB	VB	_	5	conj	_	_
+10	us	_	PRP	PRP	_	9	iobj	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	ride	_	NN	NN	_	9	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	confrontational	_	JJ	JJ	_	0	root	_	_
+5	when	_	WRB	WRB	_	7	advmod	_	_
+6	we	_	PRP	PRP	_	7	nsubj	_	_
+7	spoke	_	VBD	VBD	_	4	advcl	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	suppose	_	JJ	JJ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	ask	_	VB	VB	_	3	xcomp	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	rider	_	NN	NN	_	5	iobj	_	_
+8	her	_	PRP$	PRP$	_	9	poss	_	_
+9	name	_	NN	NN	_	5	dobj	_	_
+10	when	_	WRB	WRB	_	12	advmod	_	_
+11	she	_	PRP	PRP	_	12	nsubj	_	_
+12	said	_	VBD	VBD	_	9	rcmod	_	_
+13	that	_	IN	IN	_	17	mark	_	_
+14	we	_	PRP	PRP	_	17	nsubj	_	_
+15	could	_	MD	MD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	ride	_	VB	VB	_	12	ccomp	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	How	_	WRB	WRB	_	4	advmod	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	I	_	PRP	PRP	_	4	nsubj	_	_
+4	know	_	VB	VB	_	0	root	_	_
+5	this	_	DT	DT	_	4	dobj	_	_
+6	?	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	3	amod	_	_
+2	question	_	NN	NN	_	3	nn	_	_
+3	!!	_	NNS	NNS	_	0	root	_	_
+

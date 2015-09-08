@@ -1,0 +1,16 @@
+1	Very	_	VB	VB	_	0	root	_	_
+2	nice	_	JJ	JJ	_	3	amod	_	_
+3	rooms	_	NNS	NNS	_	1	dobj	_	_
+4	and	_	CC	CC	_	1	cc	_	_
+5	lobby	_	VB	VB	_	1	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Love	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	Starbucks	_	NNPS	NNPS	_	1	dobj	_	_
+4	in	_	IN	IN	_	1	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	lobby	_	NN	NN	_	7	nn	_	_
+7	area	_	NN	NN	_	4	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

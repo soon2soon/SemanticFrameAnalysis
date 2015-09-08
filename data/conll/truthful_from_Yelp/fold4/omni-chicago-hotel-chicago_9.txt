@@ -1,0 +1,124 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	hotel	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	0	root	_	_
+2	locations	_	NNS	NNS	_	1	dep	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	service	_	NN	NN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	0	root	_	_
+2	beds	_	NN	NN	_	1	dep	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Good	_	JJ	JJ	_	2	amod	_	_
+2	prices	_	NNS	NNS	_	9	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	size	_	NN	NN	_	2	conj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	rooms	_	NNS	NNS	_	7	pobj	_	_
+9	-	_	VBD	VBD	_	0	erased	_	_
+10	especially	_	RB	RB	_	9	advmod	_	_
+11	for	_	IN	IN	_	9	prep	_	_
+12	downtown	_	JJ	JJ	_	13	amod	_	_
+13	Chicago	_	NNP	NNP	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	stay	_	VB	VB	_	0	root	_	_
+5	here	_	RB	RB	_	6	advmod	_	_
+6	again	_	RB	RB	_	4	advmod	_	_
+7	when	_	WRB	WRB	_	9	advmod	_	_
+8	I	_	PRP	PRP	_	9	nsubj	_	_
+9	visit	_	VBP	VBP	_	6	advcl	_	_
+10	Chicago	_	NNP	NNP	_	9	dobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	'm	_	VBP	VBP	_	4	cop	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	sure	_	JJ	JJ	_	0	root	_	_
+5	if	_	IN	IN	_	8	mark	_	_
+6	you	_	PRP	PRP	_	8	nsubj	_	_
+7	could	_	MD	MD	_	8	aux	_	_
+8	ask	_	VB	VB	_	4	advcl	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	better	_	JJR	JJR	_	12	amod	_	_
+12	hotel	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	3	mark	_	_
+2	there	_	EX	EX	_	3	expl	_	_
+3	was	_	VBD	VBD	_	8	advcl	_	_
+4	one	_	CD	CD	_	5	num	_	_
+5	thing	_	NN	NN	_	3	nsubj	_	_
+6	I	_	PRP	PRP	_	8	nsubj	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	ask	_	VB	VB	_	0	root	_	_
+9	that	_	IN	IN	_	11	mark	_	_
+10	they	_	PRP	PRP	_	11	nsubj	_	_
+11	improve	_	VBP	VBP	_	8	ccomp	_	_
+12	it	_	PRP	PRP	_	16	nsubj	_	_
+13	would	_	MD	MD	_	16	aux	_	_
+14	be	_	VB	VB	_	16	cop	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	speed	_	NN	NN	_	11	ccomp	_	_
+17	of	_	IN	IN	_	16	prep	_	_
+18	their	_	PRP$	PRP$	_	19	poss	_	_
+19	internet	_	NN	NN	_	17	pobj	_	_
+20	and	_	CC	CC	_	16	cc	_	_
+21	not	_	RB	RB	_	22	neg	_	_
+22	charge	_	VB	VB	_	16	conj	_	_
+23	for	_	IN	IN	_	22	prep	_	_
+24	it	_	PRP	PRP	_	23	pobj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	think	_	VBP	VBP	_	0	root	_	_
+4	good	_	JJ	JJ	_	6	amod	_	_
+5	internet	_	NN	NN	_	6	nn	_	_
+6	speeds	_	NNS	NNS	_	18	nsubj	_	_
+7	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+8	at	_	IN	IN	_	10	advmod	_	_
+9	least	_	JJS	JJS	_	8	pobj	_	_
+10	5mb	_	JJ	JJ	_	6	dep	_	_
+11	or	_	CC	CC	_	10	cc	_	_
+12	higher	_	JJR	JJR	_	10	conj	_	_
+13	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+14	for	_	IN	IN	_	6	prep	_	_
+15	free	_	JJ	JJ	_	14	pobj	_	_
+16	is	_	VBZ	VBZ	_	18	cop	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	way	_	NN	NN	_	3	ccomp	_	_
+19	to	_	TO	TO	_	20	aux	_	_
+20	go	_	VB	VB	_	18	vmod	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	Charging	_	VBG	VBG	_	4	csubj	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	internet	_	NN	NN	_	2	pobj	_	_
+4	is	_	VBZ	VBZ	_	0	root	_	_
+5	like	_	IN	IN	_	4	prep	_	_
+6	Frontier	_	NNP	NNP	_	5	pobj	_	_
+7	charging	_	VBG	VBG	_	6	vmod	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	carry-on	_	JJ	JJ	_	10	amod	_	_
+10	luggage	_	NN	NN	_	8	pobj	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	my	_	PRP$	PRP$	_	13	poss	_	_
+13	opinion	_	NN	NN	_	11	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Overall-great	_	JJ	JJ	_	2	amod	_	_
+2	hotel	_	NN	NN	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,173 @@
+1	Went	_	VB	VB	_	0	root	_	_
+2	to	_	TO	TO	_	1	prep	_	_
+3	brunch	_	NN	NN	_	2	pobj	_	_
+4	on	_	IN	IN	_	1	prep	_	_
+5	Saturday	_	NNP	NNP	_	4	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Hubby	_	NNP	NNP	_	2	nsubj	_	_
+2	wanted	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	go	_	VB	VB	_	2	xcomp	_	_
+5	due	_	JJ	JJ	_	4	acomp	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	rave	_	JJ	JJ	_	9	amod	_	_
+9	reviews	_	NNS	NNS	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Food	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	extremely	_	RB	RB	_	4	advmod	_	_
+4	salty	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	out	_	JJ	JJ	_	4	conj	_	_
+7	of	_	IN	IN	_	4	prep	_	_
+8	proportion	_	NN	NN	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+2	Not	_	RB	RB	_	3	neg	_	_
+3	sure	_	JJ	JJ	_	9	nsubjpass	_	_
+4	where	_	WRB	WRB	_	7	advmod	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	kitchen	_	NN	NN	_	7	nsubj	_	_
+7	staff	_	VB	VB	_	3	rcmod	_	_
+8	was	_	VBD	VBD	_	9	auxpass	_	_
+9	trained	_	VBN	VBN	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Perhaps	_	RB	RB	_	2	advmod	_	_
+2	they	_	PRP	PRP	_	3	nsubj	_	_
+3	need	_	VBP	VBP	_	0	root	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	refresher	_	NN	NN	_	6	nn	_	_
+6	course	_	NN	NN	_	3	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+8	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+
+1	Too	_	RB	RB	_	2	advmod	_	_
+2	expensive	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Wait	_	JJ	JJ	_	3	amod	_	_
+2	staff	_	NN	NN	_	3	nn	_	_
+3	rude	_	NNS	NNS	_	6	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	attentive	_	VBP	VBP	_	0	root	_	_
+7	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+8	her	_	PRP$	PRP$	_	9	poss	_	_
+9	name	_	NN	NN	_	11	nsubj	_	_
+10	was	_	VBD	VBD	_	11	cop	_	_
+11	Erin	_	NNP	NNP	_	6	parataxis	_	_
+12	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	did	_	VBD	VBD	_	16	aux	_	_
+15	n't	_	RB	RB	_	16	neg	_	_
+16	know	_	VB	VB	_	6	conj	_	_
+17	much	_	RB	RB	_	16	dobj	_	_
+18	about	_	IN	IN	_	16	prep	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	menu	_	NN	NN	_	18	pobj	_	_
+21	or	_	CC	CC	_	20	cc	_	_
+22	the	_	DT	DT	_	24	det	_	_
+23	beer	_	NN	NN	_	24	nn	_	_
+24	selections	_	NNS	NNS	_	20	conj	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	disappointed	_	VBN	VBN	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Over-rated	_	JJ	JJ	_	4	dep	_	_
+2	and	_	CC	CC	_	4	cc	_	_
+3	too	_	RB	RB	_	4	advmod	_	_
+4	expensive	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Wo	_	MD	MD	_	4	aux	_	_
+2	n't	_	RB	RB	_	4	neg	_	_
+3	be	_	VB	VB	_	4	aux	_	_
+4	going	_	VBG	VBG	_	0	root	_	_
+5	back	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Wo	_	MD	MD	_	3	aux	_	_
+2	n't	_	RB	RB	_	3	neg	_	_
+3	recommend	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	anyone	_	NN	NN	_	4	pobj	_	_
+6	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+7	except	_	IN	IN	_	9	mark	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	stay	_	VB	VB	_	5	dep	_	_
+10	away	_	RP	RP	_	9	prt	_	_
+11	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	How	_	WRB	WRB	_	4	advmod	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	they	_	PRP	PRP	_	4	nsubj	_	_
+4	get	_	VB	VB	_	0	root	_	_
+5	such	_	JJ	JJ	_	7	amod	_	_
+6	good	_	JJ	JJ	_	7	amod	_	_
+7	ratings	_	NNS	NNS	_	4	dobj	_	_
+8	?	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	makes	_	VBZ	VBZ	_	0	root	_	_
+3	one	_	CD	CD	_	4	num	_	_
+4	wonder	_	NN	NN	_	2	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Wanted	_	VBN	VBN	_	0	root	_	_
+2	to	_	TO	TO	_	3	aux	_	_
+3	tell	_	VB	VB	_	1	xcomp	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	owner	_	NN	NN	_	3	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	who	_	WP	WP	_	8	nsubj	_	_
+8	dropped	_	VBD	VBD	_	5	rcmod	_	_
+9	by	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	table	_	NN	NN	_	9	pobj	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	see	_	VB	VB	_	8	xcomp	_	_
+14	how	_	WRB	WRB	_	17	advmod	_	_
+15	things	_	NNS	NNS	_	17	nsubj	_	_
+16	were	_	VBD	VBD	_	17	aux	_	_
+17	going	_	VBG	VBG	_	13	ccomp	_	_
+18	,	_	,	,	_	0	erased	_	_
+19	but	_	CC	CC	_	8	cc	_	_
+20	felt	_	VBD	VBD	_	8	conj	_	_
+21	it	_	PRP	PRP	_	24	nsubj	_	_
+22	would	_	MD	MD	_	24	aux	_	_
+23	probably	_	RB	RB	_	24	advmod	_	_
+24	fall	_	VB	VB	_	20	ccomp	_	_
+25	on	_	IN	IN	_	24	prep	_	_
+26	dead	_	JJ	JJ	_	27	amod	_	_
+27	ears	_	NNS	NNS	_	25	pobj	_	_
+28	.	_	.	.	_	0	erased	_	_
+
+1	Go	_	VB	VB	_	0	root	_	_
+2	elsewhere	_	RB	RB	_	1	advmod	_	_
+3	with	_	IN	IN	_	1	prep	_	_
+4	your	_	PRP$	PRP$	_	5	poss	_	_
+5	money	_	NN	NN	_	3	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Let	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	hipsters	_	NNS	NNS	_	1	dobj	_	_
+4	who	_	WP	WP	_	5	nsubj	_	_
+5	know	_	VBP	VBP	_	3	rcmod	_	_
+6	nothing	_	NN	NN	_	10	nsubj	_	_
+7	about	_	IN	IN	_	6	prep	_	_
+8	good	_	JJ	JJ	_	9	amod	_	_
+9	food	_	NN	NN	_	7	pobj	_	_
+10	have	_	VBP	VBP	_	5	ccomp	_	_
+11	this	_	DT	DT	_	12	det	_	_
+12	place	_	NN	NN	_	10	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

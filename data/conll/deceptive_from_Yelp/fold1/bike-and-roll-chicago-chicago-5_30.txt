@@ -1,0 +1,42 @@
+1	First	_	JJ	JJ	_	2	amod	_	_
+2	time	_	NN	NN	_	5	nsubj	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	Chicago	_	NNP	NNP	_	3	pobj	_	_
+5	had	_	VBD	VBD	_	0	root	_	_
+6	architectural	_	JJ	JJ	_	7	amod	_	_
+7	segway	_	NN	NN	_	5	dobj	_	_
+8	with	_	IN	IN	_	7	prep	_	_
+9	Jill	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Trained	_	VB	VB	_	0	root	_	_
+2	all	_	DT	DT	_	1	dobj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	us	_	PRP	PRP	_	3	pobj	_	_
+5	in	_	IN	IN	_	1	prep	_	_
+6	segway	_	NN	NN	_	5	pobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	just	_	JJ	JJ	_	9	amod	_	_
+9	minutes	_	NNS	NNS	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Had	_	VBD	VBD	_	11	dep	_	_
+2	so	_	RB	RB	_	4	advmod	_	_
+3	much	_	JJ	JJ	_	4	amod	_	_
+4	fun	_	NN	NN	_	1	nsubj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	beautiful	_	JJ	JJ	_	7	amod	_	_
+7	city	_	NN	NN	_	4	appos	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	georgeous	_	JJ	JJ	_	10	amod	_	_
+10	weather	_	NN	NN	_	11	nsubj	_	_
+11	went	_	VBD	VBD	_	0	root	_	_
+12	around	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	skylines	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	highly	_	RB	RB	_	2	advmod	_	_
+2	recomended	_	JJ	JJ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+

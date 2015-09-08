@@ -1,0 +1,3 @@
+{"frames":[{"target":{"name":"Desirability","spans":[{"start":0,"end":1,"text":"Great"}]},"annotationSets":[{"rank":0,"score":31.19817525818228,"frameElements":[]}]},{"target":{"name":"Travel","spans":[{"start":4,"end":5,"text":"tour"}]},"annotationSets":[{"rank":0,"score":112.6002098687856,"frameElements":[]}]}],"tokens":["Great","informative","and","fun","tour","."]}
+{"frames":[],"tokens":["The","guides","are","fun","and","knowledgable","."]}
+{"frames":[{"target":{"name":"Travel","spans":[{"start":5,"end":6,"text":"trip"}]},"annotationSets":[{"rank":0,"score":108.11434885639288,"frameElements":[]}]}],"tokens":["Must","have","for","your","Chi-town","trip"]}

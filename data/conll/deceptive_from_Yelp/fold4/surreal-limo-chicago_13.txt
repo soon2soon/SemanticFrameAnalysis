@@ -1,0 +1,62 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	needed	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	7	det	_	_
+4	PARTY	_	NNP	NNP	_	7	nn	_	_
+5	BUS	_	NNP	NNP	_	7	nn	_	_
+6	last	_	JJ	JJ	_	7	amod	_	_
+7	minute	_	NN	NN	_	10	nsubj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	Surreal	_	NNP	NNP	_	7	conj	_	_
+10	came	_	VBD	VBD	_	2	ccomp	_	_
+11	through	_	RP	RP	_	10	prt	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	guy	_	NN	NN	_	7	nsubj	_	_
+3	on	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	phone	_	NN	NN	_	3	pobj	_	_
+6	was	_	VBD	VBD	_	7	cop	_	_
+7	easy	_	JJ	JJ	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	deal	_	VB	VB	_	7	xcomp	_	_
+10	with	_	IN	IN	_	9	prep	_	_
+11	and	_	CC	CC	_	9	cc	_	_
+12	SPOKE	_	VB	VB	_	9	conj	_	_
+13	ENGLISH	_	NNS	NNS	_	12	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Party	_	NNP	NNP	_	3	nn	_	_
+3	Bus	_	NN	NN	_	5	nsubj	_	_
+4	is	_	VBZ	VBZ	_	5	cop	_	_
+5	awesome	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	my	_	PRP$	PRP$	_	8	poss	_	_
+8	group	_	NN	NN	_	9	nsubj	_	_
+9	had	_	VBD	VBD	_	5	conj	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	blast	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	driver	_	NN	NN	_	8	nsubj	_	_
+3	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+4	James	_	NNP	NNP	_	2	appos	_	_
+5	?	_	.	.	_	0	erased	_	_
+6	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+7	was	_	VBD	VBD	_	8	cop	_	_
+8	great	_	JJ	JJ	_	0	root	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	deal	_	VB	VB	_	8	xcomp	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	and	_	CC	CC	_	8	cc	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	accommodating	_	VBG	VBG	_	8	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	WILL	_	NNP	NNP	_	4	nn	_	_
+2	USE	_	NNP	NNP	_	4	nn	_	_
+3	AGAIN	_	NNP	NNP	_	4	nn	_	_
+4	!!!!	_	NNP	NNP	_	0	root	_	_
+

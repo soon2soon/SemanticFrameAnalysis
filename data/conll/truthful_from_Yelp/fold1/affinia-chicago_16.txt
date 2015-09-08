@@ -1,0 +1,54 @@
+1	From	_	IN	IN	_	10	prep	_	_
+2	start	_	NN	NN	_	1	pobj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	finish	_	VB	VB	_	2	vmod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	stay	_	NN	NN	_	10	nsubj	_	_
+8	was	_	VBD	VBD	_	10	cop	_	_
+9	just	_	RB	RB	_	10	advmod	_	_
+10	awesome	_	JJ	JJ	_	0	root	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	friendly	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	helpful	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	room	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	lovely	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	comfortable	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	If	_	IN	IN	_	2	mark	_	_
+2	given	_	VBN	VBN	_	10	advcl	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	choice	_	NN	NN	_	2	dobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	Affinia	_	NNP	NNP	_	10	nsubj	_	_
+7	will	_	MD	MD	_	10	aux	_	_
+8	be	_	VB	VB	_	10	cop	_	_
+9	our	_	PRP$	PRP$	_	10	poss	_	_
+10	place	_	NN	NN	_	0	root	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	stay	_	VB	VB	_	10	vmod	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	Chicago	_	NNP	NNP	_	13	pobj	_	_
+15	from	_	IN	IN	_	12	prep	_	_
+16	now	_	RB	RB	_	15	pobj	_	_
+17	on	_	IN	IN	_	12	prep	_	_
+18	!	_	.	.	_	0	erased	_	_
+
+1	Concierge	_	NNP	NNP	_	5	nsubj	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	Christopher	_	NNP	NNP	_	1	appos	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	ROCKS	_	VBZ	VBZ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+

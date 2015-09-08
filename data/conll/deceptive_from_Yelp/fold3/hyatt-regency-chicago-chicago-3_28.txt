@@ -1,0 +1,36 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	one	_	CD	CD	_	3	pobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	new	_	JJ	JJ	_	8	amod	_	_
+8	rooms	_	NNS	NNS	_	5	pobj	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	I	_	PRP	PRP	_	11	nsubj	_	_
+11	loved	_	VBD	VBD	_	2	conj	_	_
+12	it	_	PRP	PRP	_	13	nsubj	_	_
+13	!!!	_	VBZ	VBZ	_	11	ccomp	_	_
+14	Great	_	JJ	JJ	_	15	amod	_	_
+15	experience	_	NN	NN	_	13	dobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	used	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	word	_	NN	NN	_	2	dobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	day	_	NN	NN	_	5	pobj	_	_
+8	from	_	IN	IN	_	2	prep	_	_
+9	Facebook	_	NNP	NNP	_	8	pobj	_	_
+10	and	_	CC	CC	_	2	cc	_	_
+11	got	_	VBD	VBD	_	2	conj	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	discount	_	NN	NN	_	11	dobj	_	_
+14	for	_	IN	IN	_	11	prep	_	_
+15	parking	_	NN	NN	_	18	nn	_	_
+16	!!	_	NNP	NNP	_	18	nn	_	_
+17	Great	_	NNP	NNP	_	18	nn	_	_
+18	!!!	_	NNP	NNP	_	14	pobj	_	_
+

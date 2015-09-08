@@ -1,0 +1,23 @@
+1	Probably-no	_	RB	RB	_	6	advmod	_	_
+2	it	_	PRP	PRP	_	6	nsubj	_	_
+3	IS	_	VBZ	VBZ	_	6	cop	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	best	_	JJS	JJS	_	6	amod	_	_
+6	hostel	_	NN	NN	_	0	root	_	_
+7	I	_	PRP	PRP	_	9	nsubj	_	_
+8	have	_	VBP	VBP	_	9	aux	_	_
+9	stayed	_	VBN	VBN	_	6	rcmod	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	No	_	DT	DT	_	2	neg	_	_
+2	complaints	_	NNS	NNS	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Looking	_	VBG	VBG	_	0	root	_	_
+2	forward	_	RP	RP	_	1	prt	_	_
+3	to	_	TO	TO	_	1	prep	_	_
+4	visiting	_	VBG	VBG	_	3	pcomp	_	_
+5	again	_	RB	RB	_	4	advmod	_	_
+6	.	_	.	.	_	0	erased	_	_
+

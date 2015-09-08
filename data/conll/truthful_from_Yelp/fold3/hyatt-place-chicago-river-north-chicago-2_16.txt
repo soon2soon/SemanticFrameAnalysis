@@ -1,0 +1,23 @@
+1	Free	_	JJ	JJ	_	2	amod	_	_
+2	breakfast	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	free	_	JJ	JJ	_	5	amod	_	_
+5	WiFi	_	NNP	NNP	_	2	appos	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	central	_	JJ	JJ	_	9	amod	_	_
+9	location	_	NN	NN	_	5	conj	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	downtown	_	JJ	JJ	_	10	dep	_	_
+12	.	_	.	.	_	0	erased	_	_
+13	.	_	.	.	_	0	erased	_	_
+14	what	_	WP	WP	_	16	nsubj	_	_
+15	else	_	RB	RB	_	16	advmod	_	_
+16	do	_	VBP	VBP	_	9	rcmod	_	_
+17	you	_	PRP	PRP	_	18	nsubj	_	_
+18	need	_	VBP	VBP	_	16	ccomp	_	_
+19	?	_	.	.	_	0	erased	_	_
+
+1	;	_	NNP	NNP	_	0	erased	_	_
+2	-RRB-	_	NNP	NNP	_	0	erased	_	_
+

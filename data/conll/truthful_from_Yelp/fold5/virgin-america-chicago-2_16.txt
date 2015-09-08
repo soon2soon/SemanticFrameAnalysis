@@ -1,0 +1,62 @@
+1	Virgin	_	NNP	NNP	_	2	nn	_	_
+2	America	_	NNP	NNP	_	6	nsubj	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	my	_	PRP$	PRP$	_	6	poss	_	_
+5	favorite	_	JJ	JJ	_	6	amod	_	_
+6	airline	_	NN	NN	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Each	_	DT	DT	_	2	det	_	_
+2	seat	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	leather	_	NN	NN	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	interactive	_	JJ	JJ	_	7	amod	_	_
+7	tvs	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	service	_	NN	NN	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	3	advmod	_	_
+2	you	_	PRP	PRP	_	3	nsubj	_	_
+3	want	_	VBP	VBP	_	21	advcl	_	_
+4	something	_	NN	NN	_	3	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	eat	_	VB	VB	_	3	vmod	_	_
+7	or	_	CC	CC	_	6	cc	_	_
+8	drink	_	VB	VB	_	6	conj	_	_
+9	you	_	PRP	PRP	_	6	dobj	_	_
+10	order	_	NN	NN	_	21	nsubj	_	_
+11	at	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	TV	_	NN	NN	_	11	pobj	_	_
+14	in	_	IN	IN	_	13	prep	_	_
+15	front	_	NN	NN	_	14	pobj	_	_
+16	of	_	IN	IN	_	15	prep	_	_
+17	you	_	PRP	PRP	_	16	pobj	_	_
+18	and	_	CC	CC	_	17	cc	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	attendant	_	NN	NN	_	17	conj	_	_
+21	brings	_	VBZ	VBZ	_	0	root	_	_
+22	it	_	PRP	PRP	_	21	dobj	_	_
+23	right	_	RB	RB	_	24	advmod	_	_
+24	away	_	RB	RB	_	21	advmod	_	_
+25	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	4	nsubj	_	_
+2	can	_	MD	MD	_	4	aux	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	start	_	VB	VB	_	0	root	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	tab	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Love	_	VB	VB	_	0	root	_	_
+2	this	_	DT	DT	_	3	det	_	_
+3	airline	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+

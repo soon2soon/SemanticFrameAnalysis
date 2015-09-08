@@ -1,0 +1,3 @@
+1	Smelly	_	JJ	JJ	_	2	amod	_	_
+2	car/driver	_	NN	NN	_	0	root	_	_
+

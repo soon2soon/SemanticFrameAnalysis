@@ -1,0 +1,44 @@
+1	Ray	_	NNP	NNP	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	so	_	RB	RB	_	5	advmod	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	kind	_	JJ	JJ	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	breakfast	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	amazing	_	JJ	JJ	_	8	ccomp	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	they	_	PRP	PRP	_	8	nsubj	_	_
+7	even	_	RB	RB	_	8	advmod	_	_
+8	made	_	VBD	VBD	_	0	root	_	_
+9	some	_	DT	DT	_	12	det	_	_
+10	vegan	_	JJ	JJ	_	12	amod	_	_
+11	French	_	JJ	JJ	_	12	amod	_	_
+12	toast	_	NN	NN	_	8	dobj	_	_
+13	for	_	IN	IN	_	8	prep	_	_
+14	me	_	PRP	PRP	_	13	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	stayed	_	VBD	VBD	_	12	ccomp	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	Egret	_	NNP	NNP	_	6	nn	_	_
+6	Room	_	NNP	NNP	_	3	pobj	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	beds	_	NNS	NNS	_	12	nsubj	_	_
+10	were	_	VBD	VBD	_	12	cop	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	comfortable	_	JJ	JJ	_	0	root	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	would	_	MD	MD	_	4	aux	_	_
+3	definitely	_	RB	RB	_	4	advmod	_	_
+4	come	_	VB	VB	_	0	root	_	_
+5	back	_	RB	RB	_	4	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+

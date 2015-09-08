@@ -1,0 +1,89 @@
+1	Could	_	MD	MD	_	4	aux	_	_
+2	not	_	RB	RB	_	4	neg	_	_
+3	have	_	VB	VB	_	4	aux	_	_
+4	asked	_	VBN	VBN	_	0	root	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	a	_	DT	DT	_	9	det	_	_
+7	better	_	JJR	JJR	_	9	amod	_	_
+8	getaway	_	NN	NN	_	9	nn	_	_
+9	location	_	NN	NN	_	5	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	NNP	NNP	_	0	root	_	_
+2	,	_	,	,	_	0	erased	_	_
+3	large	_	JJ	JJ	_	6	amod	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	comfortable	_	JJ	JJ	_	6	amod	_	_
+6	rooms	_	NNS	NNS	_	1	appos	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Love	_	NN	NN	_	6	nsubj	_	_
+2	there	_	RB	RB	_	6	advmod	_	_
+3	is	_	VBZ	VBZ	_	6	cop	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	separate	_	JJ	JJ	_	6	amod	_	_
+6	bedroom	_	NN	NN	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Excellent	_	VB	VB	_	0	root	_	_
+2	service	_	NN	NN	_	1	dobj	_	_
+3	on	_	IN	IN	_	1	prep	_	_
+4	all	_	DT	DT	_	5	det	_	_
+5	fronts	_	NNS	NNS	_	3	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Complimentary	_	JJ	JJ	_	2	amod	_	_
+2	breakfast	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	dinner	_	NN	NN	_	2	conj	_	_
+5	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+6	with	_	IN	IN	_	2	prep	_	_
+7	beer	_	NN	NN	_	6	pobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	wine	_	NN	NN	_	7	conj	_	_
+10	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Wireless	_	NNP	NNP	_	2	nsubj	_	_
+2	included	_	VBD	VBD	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	free	_	JJ	JJ	_	5	amod	_	_
+5	paper	_	NN	NN	_	2	dobj	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	in	_	IN	IN	_	5	prep	_	_
+8	room	_	NN	NN	_	9	nn	_	_
+9	coffee	_	NN	NN	_	7	pobj	_	_
+10	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+11	full	_	JJ	JJ	_	12	amod	_	_
+12	kitchen	_	NN	NN	_	9	appos	_	_
+13	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Nice	_	VB	VB	_	0	root	_	_
+2	pool	_	NN	NN	_	5	nn	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	workout	_	NN	NN	_	2	conj	_	_
+5	room	_	NN	NN	_	1	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Something	_	NN	NN	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	everyone	_	NN	NN	_	2	pobj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	overall	_	JJ	JJ	_	8	amod	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	great	_	JJ	JJ	_	8	amod	_	_
+8	place	_	NN	NN	_	3	appos	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	stay	_	VB	VB	_	1	vmod	_	_
+11	with	_	IN	IN	_	10	prep	_	_
+12	kids	_	NNS	NNS	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	location	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	great	_	JJ	JJ	_	0	root	_	_
+5	too	_	RB	RB	_	4	advmod	_	_
+6	!	_	.	.	_	0	erased	_	_
+

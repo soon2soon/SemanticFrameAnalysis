@@ -1,0 +1,49 @@
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	were	_	VBD	VBD	_	3	aux	_	_
+3	walking	_	VBG	VBG	_	0	root	_	_
+4	by	_	IN	IN	_	3	prep	_	_
+5	and	_	CC	CC	_	3	cc	_	_
+6	decided	_	VBD	VBD	_	3	conj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	ride	_	VB	VB	_	6	xcomp	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	an	_	DT	DT	_	11	det	_	_
+11	hour	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Beautiful	_	VB	VB	_	0	root	_	_
+2	day	_	NN	NN	_	1	tmod	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	Watched	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	blue	_	JJ	JJ	_	4	amod	_	_
+4	Angels	_	NNPS	NNPS	_	5	nsubj	_	_
+5	perform	_	VB	VB	_	1	ccomp	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Rode	_	VB	VB	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	an	_	DT	DT	_	4	det	_	_
+4	hour	_	NN	NN	_	2	pobj	_	_
+5	along	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	water	_	NN	NN	_	8	nn	_	_
+8	front	_	NN	NN	_	5	pobj	_	_
+9	watching	_	VBG	VBG	_	1	xcomp	_	_
+10	sail	_	JJ	JJ	_	11	amod	_	_
+11	boats	_	NNS	NNS	_	9	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Bikes	_	NNS	NNS	_	2	nsubj	_	_
+2	worked	_	VBD	VBD	_	0	root	_	_
+3	great	_	JJ	JJ	_	2	acomp	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNS	NNS	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	good	_	JJ	JJ	_	5	amod	_	_
+5	fun	_	NN	NN	_	2	pobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+

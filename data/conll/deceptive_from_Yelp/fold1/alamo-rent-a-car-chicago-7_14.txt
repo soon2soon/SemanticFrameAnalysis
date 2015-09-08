@@ -1,0 +1,62 @@
+1	From	_	IN	IN	_	7	prep	_	_
+2	start	_	NN	NN	_	1	pobj	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	finish	_	VB	VB	_	2	vmod	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	Alamo	_	NNP	NNP	_	7	nsubj	_	_
+7	took	_	VBD	VBD	_	0	root	_	_
+8	good	_	JJ	JJ	_	9	amod	_	_
+9	care	_	NN	NN	_	7	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	us	_	PRP	PRP	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Smiling	_	NNP	NNP	_	2	nsubj	_	_
+2	faces	_	VBZ	VBZ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	courteous	_	VBZ	VBZ	_	2	conj	_	_
+5	even	_	RB	RB	_	6	advmod	_	_
+6	with	_	IN	IN	_	2	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	FREEZING	_	NNP	NNP	_	9	nn	_	_
+9	COLD	_	NNP	NNP	_	6	pobj	_	_
+10	,	_	,	,	_	0	erased	_	_
+11	at	_	IN	IN	_	6	prep	_	_
+12	Midway	_	NNP	NNP	_	11	pobj	_	_
+13	!	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	will	_	MD	MD	_	3	aux	_	_
+3	rent	_	VB	VB	_	0	root	_	_
+4	from	_	IN	IN	_	3	prep	_	_
+5	you	_	PRP	PRP	_	4	pobj	_	_
+6	again	_	RB	RB	_	3	advmod	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	but	_	CC	CC	_	3	cc	_	_
+9	hopefully	_	RB	RB	_	15	advmod	_	_
+10	not	_	RB	RB	_	11	dep	_	_
+11	when	_	WRB	WRB	_	15	advmod	_	_
+12	it	_	PRP	PRP	_	15	nsubj	_	_
+13	's	_	VBZ	VBZ	_	15	cop	_	_
+14	so	_	RB	RB	_	15	advmod	_	_
+15	cold	_	JJ	JJ	_	3	advcl	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	Loved	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	employees	_	NNS	NNS	_	8	nsubj	_	_
+4	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+5	Tyrone	_	NNP	NNP	_	3	appos	_	_
+6	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+7	beautiful	_	JJ	JJ	_	8	amod	_	_
+8	car	_	NN	NN	_	1	xcomp	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	great	_	JJ	JJ	_	11	amod	_	_
+11	service	_	NN	NN	_	8	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Rick	_	NNP	NNP	_	0	root	_	_
+2	&	_	CC	CC	_	1	cc	_	_
+3	Joanne	_	NNP	NNP	_	1	conj	_	_
+4	Tate	_	NNP	NNP	_	1	appos	_	_
+

@@ -1,0 +1,35 @@
+1	Nice	_	VB	VB	_	0	root	_	_
+2	hotel	_	NN	NN	_	1	dobj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	comfortable	_	JJ	JJ	_	2	amod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	very	_	RB	RB	_	7	advmod	_	_
+7	clean	_	JJ	JJ	_	4	conj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	location	_	NN	NN	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	Michigan	_	NNP	NNP	_	5	nn	_	_
+5	Ave.	_	NNP	NNP	_	3	pobj	_	_
+
+1	Expensive	_	VB	VB	_	0	root	_	_
+2	car	_	NN	NN	_	4	nn	_	_
+3	parking	_	NN	NN	_	4	nn	_	_
+4	service	_	NN	NN	_	1	dobj	_	_
+5	but	_	CC	CC	_	4	prep	_	_
+6	in/out	_	JJ	JJ	_	7	amod	_	_
+7	privleges	_	NNS	NNS	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Front	_	NN	NN	_	2	nn	_	_
+2	desk	_	NN	NN	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	valet	_	JJ	JJ	_	6	amod	_	_
+5	service	_	NN	NN	_	6	nn	_	_
+6	employees	_	NNS	NNS	_	2	conj	_	_
+7	friendly	_	JJ	JJ	_	2	amod	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	helpful	_	JJ	JJ	_	7	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+

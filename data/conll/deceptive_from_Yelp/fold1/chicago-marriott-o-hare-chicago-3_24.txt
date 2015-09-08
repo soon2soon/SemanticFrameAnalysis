@@ -1,0 +1,28 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	hotel	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	updated	_	JJ	JJ	_	7	amod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	perfect	_	JJ	JJ	_	4	conj	_	_
+7	location	_	NN	NN	_	2	appos	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	airport	_	NN	NN	_	8	pobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	train	_	NN	NN	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Breakfast	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	awesome	_	JJ	JJ	_	0	root	_	_
+4	but	_	CC	CC	_	3	cc	_	_
+5	$	_	$	$	_	3	conj	_	_
+6	16	_	CD	CD	_	5	number	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Business	_	NN	NN	_	2	nn	_	_
+2	class	_	NN	NN	_	0	root	_	_
+3	all	_	DT	DT	_	2	dep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	way	_	NN	NN	_	3	dep	_	_
+6	.	_	.	.	_	0	erased	_	_
+

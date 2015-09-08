@@ -1,0 +1,13 @@
+1	Cheapest	_	NNP	NNP	_	2	nn	_	_
+2	Limo	_	NNP	NNP	_	10	nsubj	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	Chicago	_	NNP	NNP	_	7	nn	_	_
+5	Best	_	NN	NN	_	7	nn	_	_
+6	personalized	_	JJ	JJ	_	7	amod	_	_
+7	service	_	NN	NN	_	3	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	Best	_	JJS	JJS	_	7	appos	_	_
+10	Limo.Thank	_	VBD	VBD	_	0	root	_	_
+11	you	_	PRP	PRP	_	10	dobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+

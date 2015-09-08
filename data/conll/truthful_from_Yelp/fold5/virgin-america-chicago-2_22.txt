@@ -1,0 +1,16 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	love	_	VBP	VBP	_	0	root	_	_
+3	Virgin	_	NNP	NNP	_	4	nn	_	_
+4	America	_	NNP	NNP	_	6	nsubj	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	much	_	JJ	JJ	_	2	xcomp	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	4	det	_	_
+2	only	_	JJ	JJ	_	4	amod	_	_
+3	airline	_	NN	NN	_	4	nn	_	_
+4	I	_	NN	NN	_	5	nsubj	_	_
+5	fly	_	VBP	VBP	_	0	root	_	_
+6	now	_	RB	RB	_	5	advmod	_	_
+7	.	_	.	.	_	0	erased	_	_
+

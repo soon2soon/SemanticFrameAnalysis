@@ -1,0 +1,22 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	nice	_	JJ	JJ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	clean	_	JJ	JJ	_	2	conj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Friendly	_	NNP	NNP	_	2	nn	_	_
+2	staff	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	continental	_	JJ	JJ	_	10	amod	_	_
+5	breakfast	_	NN	NN	_	10	nn	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	coffee	_	NN	NN	_	5	conj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	tea	_	NN	NN	_	5	conj	_	_
+10	anytime	_	NNS	NNS	_	2	appos	_	_
+11	!	_	.	.	_	0	erased	_	_
+
+1	Convenient	_	VB	VB	_	0	root	_	_
+2	location	_	NN	NN	_	1	dobj	_	_
+3	.	_	.	.	_	0	erased	_	_
+

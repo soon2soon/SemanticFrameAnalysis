@@ -1,0 +1,55 @@
+1	We	_	PRP	PRP	_	3	nsubj	_	_
+2	recently	_	RB	RB	_	3	advmod	_	_
+3	used	_	VBD	VBD	_	0	root	_	_
+4	CRE	_	NNP	NNP	_	3	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	plan	_	VB	VB	_	3	xcomp	_	_
+7	our	_	PRP$	PRP$	_	9	poss	_	_
+8	family	_	NN	NN	_	9	nn	_	_
+9	vacation	_	NN	NN	_	6	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Aaron	_	NNP	NNP	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	our	_	PRP$	PRP$	_	5	poss	_	_
+4	trip	_	NN	NN	_	5	nn	_	_
+5	consultant	_	NN	NN	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	job	_	NN	NN	_	2	dobj	_	_
+6	listening	_	VBG	VBG	_	2	dep	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	our	_	PRP$	PRP$	_	9	poss	_	_
+9	interests	_	NNS	NNS	_	7	pobj	_	_
+10	and	_	CC	CC	_	6	cc	_	_
+11	formulating	_	VBG	VBG	_	6	conj	_	_
+12	several	_	JJ	JJ	_	13	amod	_	_
+13	choices	_	NNS	NNS	_	11	dobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	itinerary	_	NN	NN	_	14	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	trip	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	perfect	_	JJ	JJ	_	0	root	_	_
+5	;	_	:	:	_	0	erased	_	_
+6	lodging	_	VBG	VBG	_	4	parataxis	_	_
+7	,	_	,	,	_	0	erased	_	_
+8	food	_	NN	NN	_	12	dep	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	transportation	_	NN	NN	_	8	appos	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	activities	_	NNS	NNS	_	6	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	them	_	PRP	PRP	_	3	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+

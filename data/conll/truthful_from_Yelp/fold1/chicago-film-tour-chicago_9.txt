@@ -1,0 +1,52 @@
+1	This	_	DT	DT	_	5	nsubj	_	_
+2	was	_	VBD	VBD	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	way	_	NN	NN	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	see	_	VB	VB	_	5	vmod	_	_
+8	Chicago	_	NNP	NNP	_	7	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	guide	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	energetic	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	knowledgable	_	JJ	JJ	_	4	conj	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	tour	_	NN	NN	_	3	nn	_	_
+3	guide	_	NN	NN	_	5	nsubj	_	_
+4	also	_	RB	RB	_	5	advmod	_	_
+5	sent	_	VBD	VBD	_	0	root	_	_
+6	me	_	PRP	PRP	_	8	nsubj	_	_
+7	a	_	DT	DT	_	6	dep	_	_
+8	follow	_	VBP	VBP	_	5	ccomp	_	_
+9	up	_	RP	RP	_	8	prt	_	_
+10	email	_	NN	NN	_	8	dobj	_	_
+11	about	_	IN	IN	_	8	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	site	_	NN	NN	_	11	pobj	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	wanted	_	VBD	VBD	_	13	rcmod	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	visit	_	VB	VB	_	15	xcomp	_	_
+18	in	_	IN	IN	_	17	prep	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	city	_	NN	NN	_	18	pobj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	really	_	RB	RB	_	3	advmod	_	_
+3	appreciated	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	follow	_	NN	NN	_	3	dobj	_	_
+6	through	_	IN	IN	_	3	prep	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

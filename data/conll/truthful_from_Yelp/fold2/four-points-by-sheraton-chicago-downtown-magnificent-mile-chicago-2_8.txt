@@ -1,0 +1,42 @@
+1	Excellent	_	VB	VB	_	0	root	_	_
+2	staff	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	wonderfully	_	RB	RB	_	5	advmod	_	_
+5	comfortable	_	JJ	JJ	_	6	amod	_	_
+6	accommodations	_	NNS	NNS	_	2	conj	_	_
+7	!	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	pleased	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	quick	_	JJ	JJ	_	8	amod	_	_
+8	responses	_	NNS	NNS	_	5	pobj	_	_
+9	to	_	TO	TO	_	4	prep	_	_
+10	any	_	DT	DT	_	11	det	_	_
+11	questions	_	NNS	NNS	_	9	pobj	_	_
+12	we	_	PRP	PRP	_	13	nsubj	_	_
+13	had	_	VBD	VBD	_	11	rcmod	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Very	_	JJ	JJ	_	2	amod	_	_
+2	clean	_	NNS	NNS	_	5	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	kids	_	NNS	NNS	_	2	conj	_	_
+5	had	_	VBD	VBD	_	0	root	_	_
+6	great	_	JJ	JJ	_	7	amod	_	_
+7	time	_	NN	NN	_	5	dobj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	pool	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	def	_	VB	VB	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	return	_	VB	VB	_	0	root	_	_
+2	!	_	.	.	_	0	erased	_	_
+

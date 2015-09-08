@@ -1,0 +1,59 @@
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	just	_	RB	RB	_	3	advmod	_	_
+3	returned	_	VBD	VBD	_	0	root	_	_
+4	from	_	IN	IN	_	3	prep	_	_
+5	Caravans	_	NNPS	NNPS	_	8	nn	_	_
+6	Costa	_	NNP	NNP	_	8	nn	_	_
+7	Rica	_	NNP	NNP	_	8	nn	_	_
+8	tour	_	NN	NN	_	4	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	All	_	DT	DT	_	6	nsubj	_	_
+2	I	_	PRP	PRP	_	4	nsubj	_	_
+3	can	_	MD	MD	_	4	aux	_	_
+4	say	_	VB	VB	_	1	rcmod	_	_
+5	is	_	VBZ	VBZ	_	6	aux	_	_
+6	ask	_	VB	VB	_	0	root	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	Paul	_	NNP	NNP	_	9	nn	_	_
+9	Valverde	_	NNP	NNP	_	7	pobj	_	_
+10	to	_	TO	TO	_	14	aux	_	_
+11	be	_	VB	VB	_	14	cop	_	_
+12	your	_	PRP$	PRP$	_	14	poss	_	_
+13	tour	_	NN	NN	_	14	nn	_	_
+14	guide	_	NN	NN	_	6	xcomp	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	He	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	Fantastic	_	NNP	NNP	_	4	nn	_	_
+4	!!!	_	NNP	NNP	_	0	root	_	_
+5	This	_	DT	DT	_	6	det	_	_
+6	tour	_	NN	NN	_	9	nsubj	_	_
+7	is	_	VBZ	VBZ	_	9	cop	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	best	_	JJS	JJS	_	4	rcmod	_	_
+10	and	_	CC	CC	_	4	cc	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	price	_	NN	NN	_	15	nsubj	_	_
+13	is	_	VBZ	VBZ	_	15	cop	_	_
+14	very	_	RB	RB	_	15	advmod	_	_
+15	reasonable	_	JJ	JJ	_	4	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	All	_	DT	DT	_	2	det	_	_
+2	activities	_	NNS	NNS	_	7	nsubjpass	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	all	_	DT	DT	_	5	det	_	_
+5	meals	_	NNS	NNS	_	2	conj	_	_
+6	are	_	VBP	VBP	_	7	auxpass	_	_
+7	included	_	VBN	VBN	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	6	det	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	memorable	_	JJ	JJ	_	6	amod	_	_
+6	vacation	_	NN	NN	_	2	dobj	_	_
+

@@ -1,0 +1,37 @@
+1	Enterprise	_	NNP	NNP	_	5	nsubj	_	_
+2	is	_	VBZ	VBZ	_	5	cop	_	_
+3	my	_	PRP$	PRP$	_	5	poss	_	_
+4	rental	_	JJ	JJ	_	5	amod	_	_
+5	company	_	NN	NN	_	0	root	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	choice	_	NN	NN	_	6	pobj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	location	_	NN	NN	_	12	nsubj	_	_
+11	is	_	VBZ	VBZ	_	12	cop	_	_
+12	great	_	JJ	JJ	_	5	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	Patrick	_	NNP	NNP	_	4	nsubj	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	manager	_	NN	NN	_	1	dep	_	_
+4	is	_	VBZ	VBZ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	has	_	VBZ	VBZ	_	9	aux	_	_
+7	always	_	RB	RB	_	9	advmod	_	_
+8	been	_	VBN	VBN	_	9	cop	_	_
+9	accommodating	_	VBG	VBG	_	4	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	always	_	RB	RB	_	4	advmod	_	_
+4	rent	_	VB	VB	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	refer	_	VB	VB	_	4	conj	_	_
+7	people	_	NNS	NNS	_	4	dobj	_	_
+8	to	_	TO	TO	_	4	prep	_	_
+9	this	_	DT	DT	_	10	det	_	_
+10	location	_	NN	NN	_	8	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,41 @@
+1	You	_	PRP	PRP	_	3	nsubj	_	_
+2	are	_	VBP	VBP	_	3	cop	_	_
+3	amazing	_	JJ	JJ	_	0	root	_	_
+4	!!!	_	CD	CD	_	3	dep	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	work	_	NN	NN	_	7	nsubj	_	_
+3	you	_	PRP	PRP	_	4	nsubj	_	_
+4	do	_	VBP	VBP	_	2	rcmod	_	_
+5	is	_	VBZ	VBZ	_	7	cop	_	_
+6	top	_	JJ	JJ	_	7	amod	_	_
+7	notch	_	NNS	NNS	_	0	root	_	_
+8	-	_	:	:	_	0	erased	_	_
+9	after	_	IN	IN	_	17	prep	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	long	_	JJ	JJ	_	13	amod	_	_
+12	stressful	_	JJ	JJ	_	13	amod	_	_
+13	day	_	NN	NN	_	9	pobj	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	you	_	PRP	PRP	_	17	nsubj	_	_
+16	always	_	RB	RB	_	17	advmod	_	_
+17	make	_	VBP	VBP	_	7	parataxis	_	_
+18	it	_	PRP	PRP	_	20	nsubj	_	_
+19	better	_	RBR	RBR	_	20	advmod	_	_
+20	!!	_	JJ	JJ	_	17	xcomp	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	always	_	RB	RB	_	3	advmod	_	_
+3	look	_	VBP	VBP	_	0	root	_	_
+4	forward	_	RB	RB	_	3	advmod	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	my	_	PRP$	PRP$	_	7	poss	_	_
+7	appointments	_	NNS	NNS	_	5	pobj	_	_
+8	!	_	.	.	_	0	erased	_	_
+
+1	Everyone	_	NN	NN	_	3	nsubj	_	_
+2	should	_	MD	MD	_	3	aux	_	_
+3	see	_	VB	VB	_	0	root	_	_
+4	Dorina	_	NNP	NNP	_	5	nn	_	_
+5	!!!	_	NNP	NNP	_	3	dobj	_	_
+

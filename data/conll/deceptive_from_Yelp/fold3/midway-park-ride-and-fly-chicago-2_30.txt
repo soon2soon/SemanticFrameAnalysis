@@ -1,0 +1,41 @@
+1	Lot	_	NN	NN	_	3	nsubj	_	_
+2	better	_	RB	RB	_	3	advmod	_	_
+3	compared	_	VBD	VBD	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	Economy	_	NNP	NNP	_	7	nn	_	_
+7	Lot	_	NN	NN	_	4	pobj	_	_
+8	at	_	IN	IN	_	3	prep	_	_
+9	Midway	_	NNP	NNP	_	8	pobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	cheaper	_	JJR	JJR	_	9	conj	_	_
+12	too	_	RB	RB	_	3	advmod	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	shuttles	_	NNS	NNS	_	3	nsubj	_	_
+3	were	_	VBD	VBD	_	0	root	_	_
+4	there	_	RB	RB	_	3	advmod	_	_
+5	in	_	IN	IN	_	3	prep	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	matter	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	minutes	_	NNS	NNS	_	8	pobj	_	_
+10	once	_	IN	IN	_	12	mark	_	_
+11	I	_	PRP	PRP	_	12	nsubj	_	_
+12	texted	_	VBD	VBD	_	3	advcl	_	_
+13	them	_	PRP	PRP	_	12	dobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	NNP	NNP	_	2	nsubj	_	_
+2	experience	_	VBP	VBP	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	surely	_	RB	RB	_	4	advmod	_	_
+4	use	_	VB	VB	_	0	root	_	_
+5	them	_	PRP	PRP	_	4	dobj	_	_
+6	again	_	RB	RB	_	4	advmod	_	_
+7	.	_	.	.	_	0	erased	_	_
+

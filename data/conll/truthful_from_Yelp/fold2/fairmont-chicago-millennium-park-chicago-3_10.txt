@@ -1,0 +1,33 @@
+1	No	_	DT	DT	_	2	neg	_	_
+2	complaints	_	NNS	NNS	_	5	nsubj	_	_
+3	here	_	RB	RB	_	5	advmod	_	_
+4	we	_	PRP	PRP	_	5	nsubj	_	_
+5	enjoyed	_	VBD	VBD	_	15	dep	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	stay	_	NN	NN	_	12	nsubj	_	_
+8	thoroughly	_	RB	RB	_	9	advmod	_	_
+9	!!!	_	JJ	JJ	_	12	dep	_	_
+10	If	_	IN	IN	_	12	mark	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	order	_	VB	VB	_	5	xcomp	_	_
+13	room	_	NN	NN	_	14	nn	_	_
+14	service	_	NN	NN	_	12	dobj	_	_
+15	try	_	VBP	VBP	_	0	root	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	lobster	_	NN	NN	_	15	dobj	_	_
+18	mac	_	NN	NN	_	15	nsubj	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	cheese	_	NN	NN	_	18	conj	_	_
+21	.	_	.	.	_	0	erased	_	_
+
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	kid	_	NN	NN	_	3	nsubj	_	_
+3	got	_	VBD	VBD	_	0	root	_	_
+4	it	_	PRP	PRP	_	3	dobj	_	_
+5	as	_	RB	RB	_	6	advmod	_	_
+6	often	_	RB	RB	_	3	advmod	_	_
+7	as	_	IN	IN	_	9	mark	_	_
+8	she	_	PRP	PRP	_	9	nsubj	_	_
+9	could	_	MD	MD	_	6	advcl	_	_
+10	.	_	.	.	_	0	erased	_	_
+

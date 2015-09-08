@@ -1,0 +1,65 @@
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	extremely	_	RB	RB	_	4	advmod	_	_
+4	happy	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	this	_	DT	DT	_	7	det	_	_
+7	company	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	4	nsubj	_	_
+2	were	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	professional	_	NN	NN	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	courteous	_	VBZ	VBZ	_	4	conj	_	_
+7	throughout	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	process	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	5	nsubj	_	_
+2	were	_	VBD	VBD	_	5	cop	_	_
+3	also	_	RB	RB	_	5	advmod	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	knowledgeable	_	JJ	JJ	_	0	root	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	how	_	WRB	WRB	_	9	advmod	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	see	_	VB	VB	_	6	pcomp	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	visa	_	NN	NN	_	9	dobj	_	_
+12	processed	_	JJ	JJ	_	9	acomp	_	_
+13	quickly	_	RB	RB	_	9	advmod	_	_
+14	,	_	,	,	_	0	erased	_	_
+15	efficiently	_	RB	RB	_	9	advmod	_	_
+16	and	_	CC	CC	_	15	cc	_	_
+17	correctly	_	RB	RB	_	15	conj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	helped	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	turn	_	VB	VB	_	2	xcomp	_	_
+5	a	_	DT	DT	_	10	det	_	_
+6	potentially	_	RB	RB	_	7	advmod	_	_
+7	confusing	_	JJ	JJ	_	10	amod	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	stressful	_	JJ	JJ	_	7	conj	_	_
+10	situation	_	NN	NN	_	4	dobj	_	_
+11	into	_	IN	IN	_	4	prep	_	_
+12	a	_	DT	DT	_	17	det	_	_
+13	very	_	RB	RB	_	14	advmod	_	_
+14	simple	_	JJ	JJ	_	17	amod	_	_
+15	,	_	,	,	_	0	erased	_	_
+16	easy	_	JJ	JJ	_	17	amod	_	_
+17	transaction	_	NN	NN	_	11	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	highly	_	RB	RB	_	3	advmod	_	_
+3	recommend	_	VBP	VBP	_	0	root	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	service	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+

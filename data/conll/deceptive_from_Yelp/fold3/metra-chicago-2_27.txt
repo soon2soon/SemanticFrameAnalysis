@@ -1,0 +1,43 @@
+1	CONDUCTORS	_	NNS	NNS	_	4	nsubj	_	_
+2	ARE	_	VBP	VBP	_	4	cop	_	_
+3	THE	_	DT	DT	_	4	det	_	_
+4	BEST	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	service	_	NN	NN	_	4	nsubj	_	_
+2	is	_	VBZ	VBZ	_	4	cop	_	_
+3	pretty	_	RB	RB	_	4	advmod	_	_
+4	good	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	efficient	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	Metra	_	NNP	NNP	_	3	nn	_	_
+3	board	_	NN	NN	_	17	nsubj	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	Mike	_	NNP	NNP	_	6	nn	_	_
+6	Madigan	_	NNP	NNP	_	9	nsubj	_	_
+7	are	_	VBP	VBP	_	9	cop	_	_
+8	all	_	DT	DT	_	9	det	_	_
+9	thieves	_	NNS	NNS	_	17	parataxis	_	_
+10	who	_	WP	WP	_	11	nsubj	_	_
+11	steal	_	VBP	VBP	_	9	rcmod	_	_
+12	are	_	VBP	VBP	_	13	cop	_	_
+13	$	_	JJ	JJ	_	11	ccomp	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	raise	_	VBP	VBP	_	13	conj	_	_
+16	are	_	VBP	VBP	_	17	cop	_	_
+17	fare	_	NN	NN	_	0	root	_	_
+18	!	_	.	.	_	0	erased	_	_
+
+1	DO	_	NNP	NNP	_	2	nn	_	_
+2	NOT	_	NNP	NNP	_	3	nsubj	_	_
+3	VOTE	_	VBP	VBP	_	0	root	_	_
+4	FOR	_	IN	IN	_	3	prep	_	_
+5	ANOTHER	_	NNP	NNP	_	6	nn	_	_
+6	MADIGAN	_	NNP	NNP	_	4	pobj	_	_
+7	IN	_	IN	IN	_	6	prep	_	_
+8	ILLINOIS	_	NNP	NNP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

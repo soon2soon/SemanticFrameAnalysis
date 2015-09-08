@@ -1,0 +1,29 @@
+1	My	_	PRP$	PRP$	_	2	poss	_	_
+2	company	_	NN	NN	_	4	nsubj	_	_
+3	frequently	_	RB	RB	_	4	advmod	_	_
+4	uses	_	VBZ	VBZ	_	0	root	_	_
+5	LaSalle	_	NNP	NNP	_	6	nn	_	_
+6	Limousine	_	NNP	NNP	_	10	nsubj	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	business	_	NN	NN	_	9	nn	_	_
+9	travel	_	NN	NN	_	7	pobj	_	_
+10	to/from	_	VB	VB	_	4	ccomp	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	airport	_	NN	NN	_	10	dobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	LaSalle	_	NNP	NNP	_	2	nn	_	_
+2	Limousine	_	NNP	NNP	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	always	_	RB	RB	_	5	advmod	_	_
+5	prompt	_	JJ	JJ	_	0	root	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	reliable	_	JJ	JJ	_	5	conj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	friendly	_	JJ	JJ	_	5	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

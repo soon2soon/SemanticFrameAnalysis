@@ -1,0 +1,17 @@
+1	Pleasant	_	NNP	NNP	_	2	nn	_	_
+2	atmosphere	_	NN	NN	_	7	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	good	_	JJ	JJ	_	5	amod	_	_
+5	service	_	NN	NN	_	2	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	unforgettable	_	VBP	VBP	_	0	root	_	_
+8	memories	_	NNS	NNS	_	7	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	cruise	_	NN	NN	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	cop	_	_
+4	wonderful	_	JJ	JJ	_	5	amod	_	_
+5	experience	_	NN	NN	_	0	root	_	_
+6	!	_	.	.	_	0	erased	_	_
+

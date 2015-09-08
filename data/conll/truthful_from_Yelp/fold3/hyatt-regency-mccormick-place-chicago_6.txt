@@ -1,0 +1,47 @@
+1	Stopped	_	VBN	VBN	_	0	root	_	_
+2	in	_	IN	IN	_	1	prep	_	_
+3	here	_	RB	RB	_	2	pobj	_	_
+4	briefly	_	RB	RB	_	1	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Received	_	VB	VB	_	0	root	_	_
+2	excellent	_	JJ	JJ	_	6	amod	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	attentive	_	JJ	JJ	_	2	conj	_	_
+5	enough	_	JJ	JJ	_	6	amod	_	_
+6	service	_	NN	NN	_	1	dobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Visually	_	RB	RB	_	2	advmod	_	_
+2	great	_	JJ	JJ	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	however	_	RB	RB	_	2	dep	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	whoever	_	WP	WP	_	11	dobj	_	_
+7	that	_	DT	DT	_	9	det	_	_
+8	setup	_	NN	NN	_	9	nn	_	_
+9	business	_	NN	NN	_	11	nsubj	_	_
+10	here	_	RB	RB	_	11	advmod	_	_
+11	has	_	VBZ	VBZ	_	2	ccomp	_	_
+12	no	_	DT	DT	_	13	neg	_	_
+13	idea	_	NN	NN	_	11	dobj	_	_
+14	what	_	WP	WP	_	17	dobj	_	_
+15	they	_	PRP	PRP	_	17	nsubj	_	_
+16	are	_	VBP	VBP	_	17	aux	_	_
+17	doing	_	VBG	VBG	_	13	rcmod	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	wound	_	VBD	VBD	_	0	root	_	_
+3	up	_	RP	RP	_	2	prt	_	_
+4	moving	_	VBG	VBG	_	2	xcomp	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	location	_	NN	NN	_	4	dobj	_	_
+7	elsewhere	_	RB	RB	_	4	advmod	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Not	_	RB	RB	_	0	root	_	_
+2	sure	_	JJ	JJ	_	3	amod	_	_
+3	why	_	JJ	JJ	_	1	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+

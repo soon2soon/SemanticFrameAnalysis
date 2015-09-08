@@ -1,0 +1,50 @@
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	hotel	_	NN	NN	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	Chicago	_	NNP	NNP	_	7	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	theater	_	NN	NN	_	7	nn	_	_
+7	district	_	NN	NN	_	3	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	Booked	_	VBN	VBN	_	0	root	_	_
+2	through	_	IN	IN	_	1	prep	_	_
+3	hotels.com	_	NN	NN	_	2	pobj	_	_
+
+1	and	_	NNP	NNP	_	2	nsubj	_	_
+2	got	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	fantastic	_	JJ	JJ	_	5	amod	_	_
+5	rate	_	NN	NN	_	2	dobj	_	_
+6	which	_	WDT	WDT	_	7	nsubj	_	_
+7	included	_	VBD	VBD	_	5	rcmod	_	_
+8	continental	_	JJ	JJ	_	9	amod	_	_
+9	breakfast	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	7	nsubjpass	_	_
+3	were	_	VBD	VBD	_	7	auxpass	_	_
+4	spacious	_	RB	RB	_	7	advmod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	nicely	_	RB	RB	_	4	conj	_	_
+7	decorated	_	VBN	VBN	_	0	root	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	staff	_	NN	NN	_	4	nsubj	_	_
+3	was	_	VBD	VBD	_	4	cop	_	_
+4	friendly	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	helpful	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Would	_	MD	MD	_	2	aux	_	_
+2	stay	_	VB	VB	_	0	root	_	_
+3	here	_	RB	RB	_	4	advmod	_	_
+4	again	_	RB	RB	_	2	advmod	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	heartbeat	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

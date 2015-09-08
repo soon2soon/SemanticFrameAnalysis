@@ -1,0 +1,26 @@
+1	Besides	_	IN	IN	_	10	prep	_	_
+2	high	_	JJ	JJ	_	4	amod	_	_
+3	airport	_	NN	NN	_	4	nn	_	_
+4	tax	_	NN	NN	_	1	pobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	rental	_	JJ	JJ	_	8	amod	_	_
+8	process	_	NN	NN	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	cop	_	_
+10	great	_	JJ	JJ	_	0	root	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Free	_	NNP	NNP	_	2	nsubj	_	_
+2	upgrade	_	VB	VB	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	2014	_	CD	CD	_	5	num	_	_
+5	Chrysler	_	NNP	NNP	_	3	pobj	_	_
+6	200	_	CD	CD	_	5	num	_	_
+7	with	_	IN	IN	_	5	prep	_	_
+8	all	_	DT	DT	_	10	det	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	bells	_	NNS	NNS	_	7	pobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	whistles	_	NNS	NNS	_	10	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+

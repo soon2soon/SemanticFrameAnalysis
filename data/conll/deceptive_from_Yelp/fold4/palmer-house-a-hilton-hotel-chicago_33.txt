@@ -1,0 +1,84 @@
+1	FILTHY	_	NNP	NNP	_	2	nn	_	_
+2	DUMP	_	NNP	NNP	_	0	root	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	DO	_	NNP	NNP	_	6	nn	_	_
+5	NOT	_	NNP	NNP	_	6	nn	_	_
+6	STAY	_	NNP	NNP	_	2	appos	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	5	nsubj	_	_
+2	am	_	VBP	VBP	_	5	cop	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	frequent	_	JJ	JJ	_	5	amod	_	_
+5	traveler	_	NN	NN	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	Diamond	_	NNP	NNP	_	8	nn	_	_
+8	member	_	NN	NN	_	5	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	SHOWER	_	NNP	NNP	_	3	nn	_	_
+2	HAD	_	NNP	NNP	_	3	nn	_	_
+3	PUBIC	_	NNP	NNP	_	4	nsubj	_	_
+4	HAIRS	_	VBZ	VBZ	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	4	nsubj	_	_
+2	did	_	VBD	VBD	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	clean	_	VB	VB	_	0	root	_	_
+5	it	_	PRP	PRP	_	4	dobj	_	_
+6	from	_	IN	IN	_	4	prep	_	_
+7	previous	_	JJ	JJ	_	8	amod	_	_
+8	guests	_	NNS	NNS	_	6	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Asked	_	VBN	VBN	_	0	root	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	it	_	PRP	PRP	_	2	pobj	_	_
+4	to	_	TO	TO	_	6	aux	_	_
+5	be	_	VB	VB	_	6	auxpass	_	_
+6	cleaned	_	VBN	VBN	_	1	xcomp	_	_
+7	three	_	CD	CD	_	8	num	_	_
+8	times	_	NNS	NNS	_	6	dobj	_	_
+9	but	_	CC	CC	_	1	cc	_	_
+10	never	_	RB	RB	_	11	neg	_	_
+11	did	_	VBD	VBD	_	1	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	When	_	WRB	WRB	_	3	advmod	_	_
+2	I	_	PRP	PRP	_	3	nsubj	_	_
+3	complained	_	VBD	VBD	_	6	advcl	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	they	_	PRP	PRP	_	6	nsubj	_	_
+6	gave	_	VBD	VBD	_	0	root	_	_
+7	me	_	PRP	PRP	_	6	iobj	_	_
+8	two	_	CD	CD	_	9	num	_	_
+9	sets	_	NNS	NNS	_	6	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	slippers	_	NNS	NNS	_	10	pobj	_	_
+12	and	_	CC	CC	_	6	cc	_	_
+13	offered	_	VBD	VBD	_	6	conj	_	_
+14	me	_	PRP	PRP	_	13	iobj	_	_
+15	free	_	JJ	JJ	_	16	amod	_	_
+16	water	_	NN	NN	_	13	dobj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	breakfast	_	NN	NN	_	16	conj	_	_
+19	,	_	,	,	_	0	erased	_	_
+20	which	_	WDT	WDT	_	23	dobj	_	_
+21	I	_	PRP	PRP	_	23	nsubj	_	_
+22	already	_	RB	RB	_	23	advmod	_	_
+23	get	_	VBP	VBP	_	6	ccomp	_	_
+24	.	_	.	.	_	0	erased	_	_
+
+1	POWER	_	NNP	NNP	_	4	nn	_	_
+2	OUTLETS	_	NNP	NNP	_	4	nn	_	_
+3	DID	_	NNP	NNP	_	4	nn	_	_
+4	N'T	_	NNP	NNP	_	5	nsubj	_	_
+5	WORK	_	VBP	VBP	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Never	_	NNP	NNP	_	0	root	_	_
+2	staying	_	VBG	VBG	_	1	vmod	_	_
+3	again	_	RB	RB	_	2	advmod	_	_
+4	.	_	.	.	_	0	erased	_	_
+

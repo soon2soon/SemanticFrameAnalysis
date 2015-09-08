@@ -1,0 +1,87 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	friendly	_	JJ	JJ	_	3	amod	_	_
+3	staff	_	NN	NN	_	11	nsubj	_	_
+4	&	_	CC	CC	_	3	cc	_	_
+5	good	_	JJ	JJ	_	6	amod	_	_
+6	location	_	NN	NN	_	3	conj	_	_
+7	combined	_	VBN	VBN	_	3	vmod	_	_
+8	with	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	price	_	NN	NN	_	8	pobj	_	_
+11	makes	_	VBZ	VBZ	_	0	root	_	_
+12	this	_	DT	DT	_	15	predet	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	great	_	JJ	JJ	_	15	amod	_	_
+15	place	_	NN	NN	_	11	dobj	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	stay	_	VB	VB	_	11	vmod	_	_
+18	in	_	IN	IN	_	17	prep	_	_
+19	Chicago	_	NNP	NNP	_	18	pobj	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	Clean	_	JJ	JJ	_	2	amod	_	_
+2	rooms	_	NNS	NNS	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Valet	_	JJ	JJ	_	2	amod	_	_
+2	staff	_	NN	NN	_	3	nsubj	_	_
+3	professional	_	VBZ	VBZ	_	0	root	_	_
+4	&	_	CC	CC	_	6	cc	_	_
+5	quick	_	JJ	JJ	_	6	amod	_	_
+6	62.00	_	CD	CD	_	9	nsubj	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	bit	_	NN	NN	_	6	dep	_	_
+9	pricey	_	JJ	JJ	_	3	xcomp	_	_
+10	but	_	CC	CC	_	3	cc	_	_
+11	it	_	PRP	PRP	_	15	nsubj	_	_
+12	's	_	VBZ	VBZ	_	15	cop	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	big	_	JJ	JJ	_	15	amod	_	_
+15	city	_	NN	NN	_	3	conj	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	only	_	JJ	JJ	_	3	amod	_	_
+3	negative	_	NN	NN	_	13	nsubj	_	_
+4	is	_	VBZ	VBZ	_	3	rcmod	_	_
+5	there	_	EX	EX	_	6	expl	_	_
+6	is	_	VBZ	VBZ	_	4	ccomp	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	firestation	_	NN	NN	_	6	nsubj	_	_
+9	across	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	street	_	NN	NN	_	9	pobj	_	_
+12	so	_	RB	RB	_	13	advmod	_	_
+13	expect	_	VBP	VBP	_	0	root	_	_
+14	some	_	DT	DT	_	15	det	_	_
+15	noise	_	NN	NN	_	13	dobj	_	_
+16	if	_	IN	IN	_	17	mark	_	_
+17	called	_	VBD	VBD	_	13	advcl	_	_
+18	out	_	RP	RP	_	17	prt	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	But	_	CC	CC	_	4	cc	_	_
+2	it	_	PRP	PRP	_	4	nsubj	_	_
+3	is	_	VBZ	VBZ	_	4	cop	_	_
+4	quick	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	cease	_	VB	VB	_	4	xcomp	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Breakfast	_	JJ	JJ	_	2	amod	_	_
+2	staff	_	NN	NN	_	0	root	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	accommodating	_	JJ	JJ	_	2	dep	_	_
+5	too	_	RB	RB	_	2	dep	_	_
+6	!	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	4	nsubj	_	_
+2	be	_	VB	VB	_	4	cop	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	place	_	NN	NN	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	stay	_	VB	VB	_	4	vmod	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	Chicago	_	NNP	NNP	_	7	pobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

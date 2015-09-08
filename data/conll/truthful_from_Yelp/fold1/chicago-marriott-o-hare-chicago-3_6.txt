@@ -1,0 +1,63 @@
+1	Cool	_	NNP	NNP	_	2	nn	_	_
+2	Hotel	_	NNP	NNP	_	10	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	staff	_	NN	NN	_	2	appos	_	_
+6	,	_	,	,	_	0	erased	_	_
+7	excellent	_	JJ	JJ	_	8	amod	_	_
+8	beds	_	NNS	NNS	_	5	appos	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	had	_	VBD	VBD	_	0	root	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	great	_	JJ	JJ	_	13	amod	_	_
+13	room	_	NN	NN	_	10	dobj	_	_
+14	with	_	IN	IN	_	13	prep	_	_
+15	a	_	DT	DT	_	17	det	_	_
+16	great	_	JJ	JJ	_	17	amod	_	_
+17	view	_	NN	NN	_	14	pobj	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	feels	_	VBZ	VBZ	_	0	root	_	_
+3	authentic	_	JJ	JJ	_	2	dobj	_	_
+4	and	_	CC	CC	_	2	cc	_	_
+5	has	_	VBZ	VBZ	_	6	aux	_	_
+6	been	_	VBN	VBN	_	2	conj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	area	_	NN	NN	_	7	pobj	_	_
+10	for	_	IN	IN	_	6	prep	_	_
+11	years	_	NNS	NNS	_	10	pobj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	all	_	DT	DT	_	4	dep	_	_
+4	friendly	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	helpful	_	JJ	JJ	_	4	conj	_	_
+7	not	_	RB	RB	_	9	dep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	lot	_	NN	NN	_	4	dep	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	attitude	_	NN	NN	_	10	pobj	_	_
+12	from	_	IN	IN	_	4	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	staff	_	NN	NN	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Lovely	_	RB	RB	_	4	dep	_	_
+2	front	_	JJ	JJ	_	4	amod	_	_
+3	desk	_	NN	NN	_	4	nn	_	_
+4	staff	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	So	_	RB	RB	_	2	advmod	_	_
+2	so	_	RB	RB	_	3	dep	_	_
+3	breakfast	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Bright	_	NNP	NNP	_	2	nsubj	_	_
+2	bathrooms	_	VBZ	VBZ	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+

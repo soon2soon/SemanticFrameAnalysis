@@ -1,0 +1,47 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	stay	_	NN	NN	_	2	dobj	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	Wyndham	_	NNP	NNP	_	9	nn	_	_
+9	Grand	_	NNP	NNP	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	3	det	_	_
+2	customer	_	NN	NN	_	3	nn	_	_
+3	service	_	NN	NN	_	5	nsubj	_	_
+4	was	_	VBD	VBD	_	5	cop	_	_
+5	excellent	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	rooms	_	NNS	NNS	_	5	nsubj	_	_
+3	were	_	VBD	VBD	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	large	_	JJ	JJ	_	0	root	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	spacious	_	JJ	JJ	_	5	conj	_	_
+8	and	_	CC	CC	_	5	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	bathroom	_	NN	NN	_	12	nsubj	_	_
+11	was	_	VBD	VBD	_	12	cop	_	_
+12	large	_	JJ	JJ	_	5	conj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	were	_	VBD	VBD	_	4	cop	_	_
+3	very	_	RB	RB	_	4	advmod	_	_
+4	happy	_	JJ	JJ	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	hotel	_	NN	NN	_	5	pobj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	staff	_	NN	NN	_	7	conj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	and	_	CC	CC	_	7	cc	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	location	_	NN	NN	_	7	conj	_	_
+

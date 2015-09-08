@@ -1,0 +1,18 @@
+1	Best	_	NN	NN	_	2	nn	_	_
+2	pizza	_	NN	NN	_	0	root	_	_
+3	ever	_	RB	RB	_	8	dep	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	fantastic	_	JJ	JJ	_	6	amod	_	_
+6	pizza	_	NN	NN	_	8	nsubj	_	_
+7	definitely	_	RB	RB	_	8	advmod	_	_
+8	recommend	_	VBP	VBP	_	2	dep	_	_
+9	it	_	PRP	PRP	_	10	nsubj	_	_
+10	was	_	VBD	VBD	_	8	ccomp	_	_
+11	like	_	IN	IN	_	10	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	party	_	NN	NN	_	11	pobj	_	_
+14	for	_	IN	IN	_	13	prep	_	_
+15	my	_	PRP$	PRP$	_	17	poss	_	_
+16	taste	_	NN	NN	_	17	nn	_	_
+17	buds	_	NNS	NNS	_	14	pobj	_	_
+

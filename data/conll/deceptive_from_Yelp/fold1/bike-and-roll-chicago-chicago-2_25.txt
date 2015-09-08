@@ -1,0 +1,18 @@
+1	Had	_	VBD	VBD	_	5	aux	_	_
+2	an	_	DT	DT	_	4	det	_	_
+3	awesome	_	JJ	JJ	_	4	amod	_	_
+4	time	_	NN	NN	_	5	nsubj	_	_
+5	!	_	VBN	VBN	_	0	erased	_	_
+
+1	Our	_	PRP$	PRP$	_	2	poss	_	_
+2	guide	_	NN	NN	_	8	nsubj	_	_
+3	,	_	,	,	_	0	erased	_	_
+4	Grant	_	NNP	NNP	_	2	appos	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	was	_	VBD	VBD	_	8	cop	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	friendly	_	JJ	JJ	_	0	root	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	knowledgable	_	JJ	JJ	_	8	conj	_	_
+11	!	_	.	.	_	0	erased	_	_
+

@@ -1,0 +1,52 @@
+1	Beautiful	_	VB	VB	_	0	root	_	_
+2	building	_	NN	NN	_	1	dobj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	interesting	_	JJ	JJ	_	5	amod	_	_
+5	architecture	_	NN	NN	_	2	conj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	pleasant	_	JJ	JJ	_	5	amod	_	_
+5	grandeur	_	NN	NN	_	2	nsubj	_	_
+6	to	_	TO	TO	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	foyer	_	NN	NN	_	6	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	lobby	_	NN	NN	_	8	conj	_	_
+11	,	_	,	,	_	0	erased	_	_
+12	bar	_	NN	NN	_	8	conj	_	_
+13	and	_	CC	CC	_	8	cc	_	_
+14	holel	_	NN	NN	_	8	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Walking	_	VBG	VBG	_	2	amod	_	_
+2	distance	_	NN	NN	_	7	nsubj	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	event	_	NN	NN	_	3	pobj	_	_
+6	we	_	PRP	PRP	_	5	dep	_	_
+7	had	_	VBD	VBD	_	0	root	_	_
+8	at	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Oviatt	_	NNP	NNP	_	11	nn	_	_
+11	Penthouse	_	NNP	NNP	_	8	pobj	_	_
+12	,	_	,	,	_	0	erased	_	_
+13	as	_	RB	RB	_	14	advmod	_	_
+14	well	_	RB	RB	_	11	cc	_	_
+15	as	_	IN	IN	_	14	mwe	_	_
+16	a	_	DT	DT	_	18	det	_	_
+17	popular	_	JJ	JJ	_	18	amod	_	_
+18	pub	_	NN	NN	_	11	conj	_	_
+19	.	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	2	nsubj	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	need	_	NN	NN	_	3	pobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	an	_	DT	DT	_	7	det	_	_
+7	upgrade	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

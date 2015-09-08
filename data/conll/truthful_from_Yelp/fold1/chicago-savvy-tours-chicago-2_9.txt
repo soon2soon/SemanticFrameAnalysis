@@ -1,0 +1,43 @@
+1	we	_	PRP	PRP	_	2	nsubj	_	_
+2	took	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	underground	_	JJ	JJ	_	5	amod	_	_
+5	tour	_	NN	NN	_	2	dobj	_	_
+6	last	_	JJ	JJ	_	7	amod	_	_
+7	saturday	_	NNP	NNP	_	2	tmod	_	_
+8	with	_	IN	IN	_	2	prep	_	_
+9	Allison	_	NNP	NNP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	What	_	WP	WP	_	4	dobj	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	great	_	JJ	JJ	_	4	nsubj	_	_
+4	experience	_	VBP	VBP	_	6	advcl	_	_
+5	we	_	PRP	PRP	_	6	nsubj	_	_
+6	had	_	VBD	VBD	_	0	root	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	really	_	RB	RB	_	3	advmod	_	_
+3	knew	_	VBD	VBD	_	0	root	_	_
+4	her	_	PRP$	PRP$	_	5	poss	_	_
+5	stuff	_	NN	NN	_	3	dobj	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	live	_	VBP	VBP	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	city	_	NN	NN	_	3	pobj	_	_
+6	and	_	CC	CC	_	2	cc	_	_
+7	like	_	VBP	VBP	_	2	conj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	explore	_	VB	VB	_	7	xcomp	_	_
+10	thank	_	VB	VB	_	9	xcomp	_	_
+11	you	_	PRP	PRP	_	10	dobj	_	_
+12	for	_	IN	IN	_	10	prep	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	great	_	JJ	JJ	_	15	amod	_	_
+15	time	_	NN	NN	_	12	pobj	_	_
+16	.	_	.	.	_	0	erased	_	_
+

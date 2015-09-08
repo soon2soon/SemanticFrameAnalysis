@@ -1,0 +1,57 @@
+1	Great	_	JJ	JJ	_	3	amod	_	_
+2	limo	_	NN	NN	_	3	nn	_	_
+3	service	_	NN	NN	_	0	root	_	_
+4	!	_	.	.	_	0	erased	_	_
+
+1	Your	_	PRP$	PRP$	_	3	poss	_	_
+2	limo	_	NN	NN	_	3	nn	_	_
+3	driver	_	NN	NN	_	6	nsubj	_	_
+4	was	_	VBD	VBD	_	6	cop	_	_
+5	absoutley	_	RB	RB	_	6	advmod	_	_
+6	outstanding	_	JJ	JJ	_	0	root	_	_
+7	;	_	:	:	_	0	erased	_	_
+8	he	_	PRP	PRP	_	9	nsubj	_	_
+9	made	_	VBD	VBD	_	6	parataxis	_	_
+10	our	_	PRP$	PRP$	_	11	poss	_	_
+11	night	_	NN	NN	_	13	nsubj	_	_
+12	more	_	RBR	RBR	_	13	advmod	_	_
+13	special	_	JJ	JJ	_	9	xcomp	_	_
+14	than	_	IN	IN	_	17	mark	_	_
+15	you	_	PRP	PRP	_	17	nsubj	_	_
+16	could	_	MD	MD	_	17	aux	_	_
+17	imagine	_	VB	VB	_	13	ccomp	_	_
+18	.	_	.	.	_	0	erased	_	_
+
+1	We	_	PRP	PRP	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	so	_	RB	RB	_	4	advmod	_	_
+4	thankful	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	him	_	PRP	PRP	_	5	pobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	your	_	PRP$	PRP$	_	10	poss	_	_
+9	limo	_	JJ	JJ	_	10	amod	_	_
+10	company	_	NN	NN	_	6	conj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	provided	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	2	dobj	_	_
+4	with	_	IN	IN	_	2	prep	_	_
+5	a	_	DT	DT	_	12	det	_	_
+6	wonderful	_	JJ	JJ	_	12	amod	_	_
+7	rate	_	NN	NN	_	12	amod	_	_
+8	as	_	RB	RB	_	9	advmod	_	_
+9	well	_	RB	RB	_	7	cc	_	_
+10	as	_	IN	IN	_	9	mwe	_	_
+11	wonderful	_	JJ	JJ	_	7	conj	_	_
+12	service	_	NN	NN	_	4	pobj	_	_
+13	and	_	CC	CC	_	2	cc	_	_
+14	I	_	PRP	PRP	_	15	nsubj	_	_
+15	thank	_	VBP	VBP	_	2	conj	_	_
+16	you	_	PRP	PRP	_	15	dobj	_	_
+17	all	_	DT	DT	_	18	dep	_	_
+18	for	_	IN	IN	_	15	prep	_	_
+19	this	_	DT	DT	_	18	pobj	_	_
+20	.	_	.	.	_	0	erased	_	_
+

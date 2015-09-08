@@ -1,0 +1,46 @@
+1	``	_	``	``	_	0	erased	_	_
+2	Had	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	great	_	JJ	JJ	_	5	amod	_	_
+5	time	_	NN	NN	_	2	dobj	_	_
+6	on	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	10	det	_	_
+8	Segway	_	NNP	NNP	_	10	nn	_	_
+9	architectural	_	JJ	JJ	_	10	amod	_	_
+10	tour	_	NN	NN	_	6	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Bianca	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	our	_	PRP$	PRP$	_	4	poss	_	_
+4	guide	_	NN	NN	_	0	root	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	She	_	PRP	PRP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	fantastic	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	we	_	PRP	PRP	_	7	nsubj	_	_
+6	generally	_	RB	RB	_	7	advmod	_	_
+7	had	_	VBD	VBD	_	3	conj	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	blast	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Bought	_	VB	VB	_	0	root	_	_
+2	a	_	DT	DT	_	5	det	_	_
+3	Living	_	VBG	VBG	_	5	amod	_	_
+4	Social	_	NNP	NNP	_	5	nn	_	_
+5	offer	_	NN	NN	_	1	dobj	_	_
+6	so	_	IN	IN	_	10	mark	_	_
+7	it	_	PRP	PRP	_	10	nsubj	_	_
+8	was	_	VBD	VBD	_	10	cop	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	bargain	_	NN	NN	_	5	dep	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommended	_	VBD	VBD	_	0	root	_	_
+3	.	_	.	.	_	0	erased	_	_
+4	''	_	''	''	_	0	erased	_	_
+

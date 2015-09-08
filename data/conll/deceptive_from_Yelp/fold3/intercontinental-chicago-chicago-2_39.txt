@@ -1,0 +1,52 @@
+1	Very	_	RB	RB	_	3	dep	_	_
+2	nice	_	JJ	JJ	_	3	amod	_	_
+3	hotel	_	NN	NN	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	4	det	_	_
+4	Starbucks	_	NNPS	NNPS	_	2	nsubj	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	it	_	PRP	PRP	_	5	pobj	_	_
+7	which	_	WDT	WDT	_	11	nsubj	_	_
+8	is	_	VBZ	VBZ	_	11	cop	_	_
+9	a	_	DT	DT	_	11	det	_	_
+10	big	_	JJ	JJ	_	11	amod	_	_
+11	deal	_	NN	NN	_	4	rcmod	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	me	_	PRP	PRP	_	12	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	Room	_	NNP	NNP	_	9	nsubj	_	_
+2	was	_	VBD	VBD	_	9	cop	_	_
+3	extremely	_	RB	RB	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	9	amod	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	very	_	RB	RB	_	8	npadvmod	_	_
+8	good	_	JJ	JJ	_	4	conj	_	_
+9	size	_	NN	NN	_	0	root	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Great	_	JJ	JJ	_	2	amod	_	_
+2	room	_	NN	NN	_	0	root	_	_
+3	service	_	NN	NN	_	2	dep	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	AMAZING	_	VBG	VBG	_	0	root	_	_
+2	location	_	NN	NN	_	1	dobj	_	_
+3	!	_	.	.	_	0	erased	_	_
+
+1	Parking	_	NNP	NNP	_	3	nsubj	_	_
+2	was	_	VBD	VBD	_	3	cop	_	_
+3	overpriced	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	especially	_	RB	RB	_	6	advmod	_	_
+6	considering	_	VBG	VBG	_	3	ccomp	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	cost	_	NN	NN	_	6	dobj	_	_
+9	per	_	IN	IN	_	8	prep	_	_
+10	night	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+

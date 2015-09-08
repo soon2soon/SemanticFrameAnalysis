@@ -1,0 +1,71 @@
+1	Loved	_	VB	VB	_	0	root	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	cruise	_	NN	NN	_	1	dobj	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	Learned	_	VB	VB	_	0	root	_	_
+2	a	_	DT	DT	_	4	det	_	_
+3	great	_	JJ	JJ	_	4	amod	_	_
+4	deal	_	NN	NN	_	1	dobj	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Was	_	VBD	VBD	_	2	auxpass	_	_
+2	refered	_	VBN	VBN	_	0	root	_	_
+3	to	_	TO	TO	_	2	prep	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	company	_	NN	NN	_	3	pobj	_	_
+6	from	_	IN	IN	_	5	prep	_	_
+7	our	_	PRP$	PRP$	_	9	poss	_	_
+8	hotel	_	NN	NN	_	9	nn	_	_
+9	concierge	_	NN	NN	_	6	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	reserved	_	VBD	VBD	_	0	root	_	_
+3	us	_	PRP	PRP	_	4	nsubj	_	_
+4	spots	_	VBZ	VBZ	_	2	ccomp	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	advance	_	NN	NN	_	5	pobj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	tour	_	NN	NN	_	3	nsubj	_	_
+3	provides	_	VBZ	VBZ	_	0	root	_	_
+4	cookies	_	NNS	NNS	_	3	dobj	_	_
+5	,	_	,	,	_	0	erased	_	_
+6	lemonade	_	NN	NN	_	4	conj	_	_
+7	and	_	CC	CC	_	4	cc	_	_
+8	coffee	_	NN	NN	_	4	conj	_	_
+9	during	_	IN	IN	_	3	prep	_	_
+10	the	_	DT	DT	_	13	det	_	_
+11	1.5	_	CD	CD	_	13	num	_	_
+12	hour	_	NN	NN	_	13	nn	_	_
+13	tour	_	NN	NN	_	9	pobj	_	_
+14	.	_	.	.	_	0	erased	_	_
+
+1	totally	_	RB	RB	_	2	advmod	_	_
+2	worth	_	JJ	JJ	_	0	root	_	_
+3	the	_	DT	DT	_	2	dep	_	_
+4	36	_	CD	CD	_	5	number	_	_
+5	$	_	CD	CD	_	2	amod	_	_
+6	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+7	more	_	JJR	JJR	_	5	dep	_	_
+8	than	_	IN	IN	_	7	prep	_	_
+9	other	_	JJ	JJ	_	10	amod	_	_
+10	tours	_	NNS	NNS	_	8	pobj	_	_
+11	but	_	CC	CC	_	8	cc	_	_
+12	worth	_	IN	IN	_	8	conj	_	_
+13	it	_	PRP	PRP	_	12	pobj	_	_
+14	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Loved	_	VBN	VBN	_	6	csubj	_	_
+2	our	_	PRP$	PRP$	_	4	poss	_	_
+3	tour	_	NN	NN	_	4	nn	_	_
+4	guide	_	NN	NN	_	1	dobj	_	_
+5	's	_	VBZ	VBZ	_	6	aux	_	_
+6	stong	_	VBG	VBG	_	0	root	_	_
+7	mid-west	_	JJ	JJ	_	8	amod	_	_
+8	accent	_	NN	NN	_	6	dobj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

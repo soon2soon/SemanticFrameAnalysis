@@ -1,0 +1,53 @@
+1	Hotel	_	NNP	NNP	_	2	nn	_	_
+2	location	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	good	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	Staff	_	NNP	NNP	_	3	dep	_	_
+2	very	_	RB	RB	_	3	advmod	_	_
+3	helpful	_	JJ	JJ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	coffe	_	JJ	JJ	_	5	amod	_	_
+5	shop	_	NN	NN	_	2	nsubj	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	lobby	_	NN	NN	_	6	pobj	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	you	_	PRP	PRP	_	12	nsubj	_	_
+11	can	_	MD	MD	_	12	aux	_	_
+12	have	_	VB	VB	_	2	conj	_	_
+13	breakfast	_	NN	NN	_	16	nsubj	_	_
+14	very	_	RB	RB	_	15	advmod	_	_
+15	reasoble	_	JJ	JJ	_	16	dep	_	_
+16	price	_	VB	VB	_	12	xcomp	_	_
+17	Free	_	JJ	JJ	_	18	amod	_	_
+18	wifi	_	NNS	NNS	_	16	dobj	_	_
+19	at	_	IN	IN	_	16	prep	_	_
+20	public	_	JJ	JJ	_	21	amod	_	_
+21	places	_	NNS	NNS	_	19	pobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	3	nsubj	_	_
+2	would	_	MD	MD	_	3	aux	_	_
+3	like	_	VB	VB	_	0	root	_	_
+4	to	_	TO	TO	_	7	aux	_	_
+5	have	_	VB	VB	_	7	aux	_	_
+6	also	_	RB	RB	_	7	advmod	_	_
+7	rooms	_	VBN	VBN	_	3	xcomp	_	_
+8	.	_	.	.	_	0	erased	_	_
+
+1	There	_	EX	EX	_	2	expl	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	Budget	_	NNP	NNP	_	4	nn	_	_
+4	officesback	_	NN	NN	_	2	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	building	_	NN	NN	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

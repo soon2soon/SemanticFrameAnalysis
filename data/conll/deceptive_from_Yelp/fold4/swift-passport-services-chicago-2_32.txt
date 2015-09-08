@@ -1,0 +1,67 @@
+1	I	_	PRP	PRP	_	4	nsubj	_	_
+2	can	_	MD	MD	_	4	aux	_	_
+3	not	_	RB	RB	_	4	neg	_	_
+4	say	_	VB	VB	_	0	root	_	_
+5	enough	_	RB	RB	_	6	advmod	_	_
+6	good	_	JJ	JJ	_	7	amod	_	_
+7	things	_	NNS	NNS	_	4	dobj	_	_
+8	about	_	IN	IN	_	4	prep	_	_
+9	Laurie	_	NNP	NNP	_	8	pobj	_	_
+10	and	_	CC	CC	_	9	cc	_	_
+11	Rob	_	NNP	NNP	_	9	conj	_	_
+12	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	needed	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	5	det	_	_
+4	Brazil	_	NNP	NNP	_	5	nn	_	_
+5	visa	_	NN	NN	_	2	dobj	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	a	_	DT	DT	_	9	det	_	_
+8	passport	_	NN	NN	_	9	nn	_	_
+9	renewal	_	NN	NN	_	5	conj	_	_
+10	and	_	CC	CC	_	5	cc	_	_
+11	only	_	RB	RB	_	12	advmod	_	_
+12	just	_	RB	RB	_	5	conj	_	_
+13	over	_	IN	IN	_	12	prep	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	week	_	NN	NN	_	13	pobj	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	do	_	VB	VB	_	2	vmod	_	_
+18	it	_	PRP	PRP	_	17	dobj	_	_
+19	in	_	IN	IN	_	17	prep	_	_
+20	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	did	_	VBD	VBD	_	0	root	_	_
+3	my	_	PRP$	PRP$	_	4	poss	_	_
+4	passport	_	NN	NN	_	2	dobj	_	_
+5	in	_	IN	IN	_	2	prep	_	_
+6	1	_	CD	CD	_	7	num	_	_
+7	day	_	NN	NN	_	5	pobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	my	_	PRP$	PRP$	_	11	poss	_	_
+10	Brazil	_	NNP	NNP	_	11	nn	_	_
+11	visa	_	NN	NN	_	7	conj	_	_
+12	in	_	IN	IN	_	2	prep	_	_
+13	2	_	CD	CD	_	14	num	_	_
+14	days	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	They	_	PRP	PRP	_	2	nsubj	_	_
+2	saved	_	VBD	VBD	_	0	root	_	_
+3	a	_	DT	DT	_	7	det	_	_
+4	very	_	RB	RB	_	5	advmod	_	_
+5	important	_	JJ	JJ	_	7	amod	_	_
+6	business	_	NN	NN	_	7	nn	_	_
+7	meeting	_	NN	NN	_	2	dobj	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	me	_	PRP	PRP	_	8	pobj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Thanks	_	NNS	NNS	_	0	root	_	_
+2	Laurie	_	NNP	NNP	_	1	dep	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Rob	_	NNP	NNP	_	2	conj	_	_
+5	!	_	.	.	_	0	erased	_	_
+

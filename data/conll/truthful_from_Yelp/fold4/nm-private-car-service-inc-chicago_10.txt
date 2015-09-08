@@ -1,0 +1,58 @@
+1	Very	_	RB	RB	_	2	advmod	_	_
+2	happy	_	JJ	JJ	_	0	root	_	_
+3	to	_	TO	TO	_	5	aux	_	_
+4	have	_	VB	VB	_	5	aux	_	_
+5	found	_	VBN	VBN	_	2	dep	_	_
+6	NM	_	NNP	NNP	_	8	nn	_	_
+7	car	_	NN	NN	_	8	nn	_	_
+8	service	_	NN	NN	_	5	dobj	_	_
+9	!	_	.	.	_	0	erased	_	_
+
+1	Neil	_	NNP	NNP	_	3	nsubjpass	_	_
+2	was	_	VBD	VBD	_	3	auxpass	_	_
+3	timely	_	JJ	JJ	_	0	root	_	_
+4	,	_	,	,	_	0	erased	_	_
+5	polite	_	JJ	JJ	_	3	conj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	professional	_	NN	NN	_	3	conj	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	loaded	_	VBN	VBN	_	3	conj	_	_
+11	up	_	IN	IN	_	10	prep	_	_
+12	our	_	PRP$	PRP$	_	14	poss	_	_
+13	many	_	JJ	JJ	_	14	amod	_	_
+14	bags	_	NNS	NNS	_	11	pobj	_	_
+15	-LRB-	_	-LRB-	-LRB-	_	0	erased	_	_
+16	we	_	PRP	PRP	_	18	nsubj	_	_
+17	were	_	VBD	VBD	_	18	aux	_	_
+18	traveling	_	VBG	VBG	_	3	dep	_	_
+19	with	_	IN	IN	_	18	prep	_	_
+20	an	_	DT	DT	_	21	det	_	_
+21	infant	_	NN	NN	_	19	pobj	_	_
+22	-RRB-	_	-RRB-	-RRB-	_	0	erased	_	_
+23	quickly	_	RB	RB	_	3	advmod	_	_
+24	and	_	CC	CC	_	23	cc	_	_
+25	competently	_	RB	RB	_	23	conj	_	_
+26	.	_	.	.	_	0	erased	_	_
+
+1	Car	_	NNP	NNP	_	4	nsubj	_	_
+2	was	_	VBD	VBD	_	4	cop	_	_
+3	immaculately	_	RB	RB	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	rate	_	NN	NN	_	9	nsubj	_	_
+8	was	_	VBD	VBD	_	9	cop	_	_
+9	reasonable	_	JJ	JJ	_	4	conj	_	_
+10	.	_	.	.	_	0	erased	_	_
+
+1	Will	_	NNP	NNP	_	3	nsubj	_	_
+2	definitely	_	RB	RB	_	3	advmod	_	_
+3	use	_	VBP	VBP	_	0	root	_	_
+4	again	_	RB	RB	_	3	advmod	_	_
+5	.	_	.	.	_	0	erased	_	_
+
+1	Highly	_	NNP	NNP	_	2	nsubj	_	_
+2	recommend	_	VBP	VBP	_	0	root	_	_
+3	!	_	.	.	_	0	erased	_	_
+

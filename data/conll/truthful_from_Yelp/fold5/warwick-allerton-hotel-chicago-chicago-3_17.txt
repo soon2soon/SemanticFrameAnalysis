@@ -1,0 +1,69 @@
+1	Got	_	NNP	NNP	_	2	nn	_	_
+2	ta	_	NNP	NNP	_	3	nsubj	_	_
+3	say	_	VBP	VBP	_	0	root	_	_
+4	that	_	IN	IN	_	7	mark	_	_
+5	coming	_	VBG	VBG	_	7	nsubj	_	_
+6	here	_	RB	RB	_	7	advmod	_	_
+7	is	_	VBZ	VBZ	_	3	ccomp	_	_
+8	like	_	IN	IN	_	7	prep	_	_
+9	coming	_	VBG	VBG	_	8	pcomp	_	_
+10	home	_	NN	NN	_	9	dobj	_	_
+11	.	_	.	.	_	0	erased	_	_
+
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	stay	_	VBP	VBP	_	0	root	_	_
+3	here	_	RB	RB	_	8	advmod	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	few	_	JJ	JJ	_	6	amod	_	_
+6	times	_	NNS	NNS	_	3	pobj	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	yr	_	NN	NN	_	2	dobj	_	_
+9	with	_	IN	IN	_	8	prep	_	_
+10	my	_	PRP$	PRP$	_	11	poss	_	_
+11	mother	_	NN	NN	_	9	pobj	_	_
+12	&	_	CC	CC	_	8	cc	_	_
+13	4	_	CD	CD	_	14	num	_	_
+14	yr	_	NN	NN	_	8	conj	_	_
+15	old	_	JJ	JJ	_	16	amod	_	_
+16	nephew	_	NN	NN	_	20	nsubj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	everyone	_	NN	NN	_	16	conj	_	_
+19	always	_	RB	RB	_	20	advmod	_	_
+20	remembers	_	VBZ	VBZ	_	14	rcmod	_	_
+21	us	_	PRP	PRP	_	20	dobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	service	_	NN	NN	_	6	nsubj	_	_
+3	here	_	RB	RB	_	6	advmod	_	_
+4	is	_	VBZ	VBZ	_	6	cop	_	_
+5	so	_	RB	RB	_	6	advmod	_	_
+6	warm	_	JJ	JJ	_	0	root	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	gracious	_	JJ	JJ	_	6	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+
+1	Rooms	_	NNS	NNS	_	4	nsubj	_	_
+2	are	_	VBP	VBP	_	4	cop	_	_
+3	large	_	JJ	JJ	_	4	advmod	_	_
+4	clean	_	JJ	JJ	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	comfortable	_	JJ	JJ	_	4	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	The	_	DT	DT	_	2	det	_	_
+2	concierge	_	NN	NN	_	5	nsubj	_	_
+3	is	_	VBZ	VBZ	_	5	cop	_	_
+4	always	_	RB	RB	_	5	advmod	_	_
+5	helpful	_	JJ	JJ	_	0	root	_	_
+6	.	_	.	.	_	0	erased	_	_
+
+1	And	_	CC	CC	_	4	cc	_	_
+2	they	_	PRP	PRP	_	4	nsubj	_	_
+3	are	_	VBP	VBP	_	4	cop	_	_
+4	nice	_	JJ	JJ	_	0	root	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	kids	_	NNS	NNS	_	7	nn	_	_
+7	:--RRB-	_	NNS	NNS	_	5	pobj	_	_
+8	.	_	.	.	_	0	erased	_	_
+

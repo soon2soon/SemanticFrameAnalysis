@@ -1,0 +1,62 @@
+1	my	_	PRP$	PRP$	_	2	poss	_	_
+2	friend	_	NN	NN	_	5	nsubj	_	_
+3	from	_	IN	IN	_	2	prep	_	_
+4	HOT-lanta	_	NNP	NNP	_	3	pobj	_	_
+5	stayed	_	VBD	VBD	_	0	root	_	_
+6	here	_	RB	RB	_	5	advmod	_	_
+7	while	_	IN	IN	_	10	mark	_	_
+8	she	_	PRP	PRP	_	10	nsubj	_	_
+9	was	_	VBD	VBD	_	10	aux	_	_
+10	interviewing	_	VBG	VBG	_	5	advcl	_	_
+11	for	_	IN	IN	_	10	prep	_	_
+12	jobs	_	NNS	NNS	_	11	pobj	_	_
+13	.	_	.	.	_	0	erased	_	_
+
+1	pretty	_	RB	RB	_	2	advmod	_	_
+2	darn	_	JJ	JJ	_	3	nsubj	_	_
+3	posh	_	VBZ	VBZ	_	0	root	_	_
+4	.	_	.	.	_	0	erased	_	_
+
+1	i	_	FW	FW	_	3	nsubj	_	_
+2	am	_	VBP	VBP	_	3	cop	_	_
+3	happy	_	JJ	JJ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	say	_	VB	VB	_	3	xcomp	_	_
+6	that	_	IN	IN	_	9	mark	_	_
+7	her	_	PRP	PRP	_	9	nsubj	_	_
+8	`	_	``	``	_	0	erased	_	_
+9	rents	_	VBZ	VBZ	_	5	ccomp	_	_
+10	were	_	VBD	VBD	_	11	aux	_	_
+11	picking	_	VBG	VBG	_	9	ccomp	_	_
+12	up	_	RP	RP	_	11	prt	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	tab	_	NN	NN	_	11	dobj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	if	_	IN	IN	_	5	mark	_	_
+2	i	_	FW	FW	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	aux	_	_
+4	not	_	RB	RB	_	5	neg	_	_
+5	forking	_	VBG	VBG	_	12	advcl	_	_
+6	over	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	dough	_	NN	NN	_	6	pobj	_	_
+9	,	_	,	,	_	0	erased	_	_
+10	i	_	FW	FW	_	12	nsubj	_	_
+11	'd	_	MD	MD	_	12	aux	_	_
+12	stay	_	VB	VB	_	0	root	_	_
+13	there	_	RB	RB	_	12	advmod	_	_
+14	every	_	DT	DT	_	15	det	_	_
+15	night	_	NN	NN	_	12	tmod	_	_
+16	.	_	.	.	_	0	erased	_	_
+
+1	very	_	RB	RB	_	3	advmod	_	_
+2	classy	_	JJ	JJ	_	3	amod	_	_
+3	art	_	NN	NN	_	0	root	_	_
+4	deco	_	NN	NN	_	5	nn	_	_
+5	style	_	NN	NN	_	3	dep	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	nice	_	JJ	JJ	_	8	amod	_	_
+8	rooms	_	NNS	NNS	_	5	conj	_	_
+9	.	_	.	.	_	0	erased	_	_
+

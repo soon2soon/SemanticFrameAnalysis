@@ -1,0 +1,3 @@
+1	nice	_	JJ	JJ	_	2	amod	_	_
+2	airport	_	NN	NN	_	0	root	_	_
+

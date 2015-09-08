@@ -1,0 +1,47 @@
+1	Staff	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	cop	_	_
+3	rude	_	JJ	JJ	_	0	root	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	accommodating	_	VBG	VBG	_	3	conj	_	_
+7	.	_	.	.	_	0	erased	_	_
+
+1	Smelled	_	NNP	NNP	_	2	nn	_	_
+2	moldy	_	NNP	NNP	_	10	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	their	_	PRP$	PRP$	_	9	poss	_	_
+5	``	_	``	``	_	0	erased	_	_
+6	golden	_	JJ	JJ	_	9	amod	_	_
+7	mean	_	NN	NN	_	9	nn	_	_
+8	''	_	''	''	_	0	erased	_	_
+9	design	_	NN	NN	_	2	conj	_	_
+10	was	_	VBD	VBD	_	0	root	_	_
+11	very	_	RB	RB	_	12	advmod	_	_
+12	off	_	RB	RB	_	10	advmod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	unwelcoming	_	VBG	VBG	_	12	conj	_	_
+15	.	_	.	.	_	0	erased	_	_
+
+1	Seemed	_	VBN	VBN	_	18	dep	_	_
+2	they	_	PRP	PRP	_	6	nsubj	_	_
+3	were	_	VBD	VBD	_	6	cop	_	_
+4	very	_	RB	RB	_	6	advmod	_	_
+5	autism	_	RB	RB	_	6	advmod	_	_
+6	friendly	_	JJ	JJ	_	1	advcl	_	_
+7	though	_	RB	RB	_	6	advmod	_	_
+8	,	_	,	,	_	0	erased	_	_
+9	so	_	CC	CC	_	6	cc	_	_
+10	if	_	IN	IN	_	14	mark	_	_
+11	that	_	DT	DT	_	14	nsubj	_	_
+12	's	_	VBZ	VBZ	_	14	cop	_	_
+13	your	_	PRP$	PRP$	_	14	poss	_	_
+14	thing	_	NN	NN	_	6	conj	_	_
+15	you	_	PRP	PRP	_	18	nsubj	_	_
+16	'll	_	MD	MD	_	18	aux	_	_
+17	prob	_	RB	RB	_	18	advmod	_	_
+18	enjoy	_	VB	VB	_	0	root	_	_
+19	this	_	DT	DT	_	21	det	_	_
+20	freakshow	_	NN	NN	_	21	nn	_	_
+21	closet	_	NN	NN	_	18	dobj	_	_
+22	.	_	.	.	_	0	erased	_	_
+
