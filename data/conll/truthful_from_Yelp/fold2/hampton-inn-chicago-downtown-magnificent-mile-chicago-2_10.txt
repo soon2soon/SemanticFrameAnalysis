@@ -1,3 +1,0 @@
-1	Impressive	_	VB	VB	_	0	root	_	_
-2	.	_	.	.	_	0	erased	_	_
-

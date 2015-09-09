@@ -1,7 +1,0 @@
-1	Classy	_	JJ	JJ	_	2	amod	_	_
-2	hotel	_	NN	NN	_	0	root	_	_
-3	with	_	IN	IN	_	2	prep	_	_
-4	exceptional	_	JJ	JJ	_	5	amod	_	_
-5	service	_	NN	NN	_	3	pobj	_	_
-6	!	_	.	.	_	0	erased	_	_
-

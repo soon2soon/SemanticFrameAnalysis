@@ -1,1 +1,0 @@
-{"frames":[{"target":{"name":"Public_services","spans":[{"start":1,"end":2,"text":"Service"}]},"annotationSets":[{"rank":0,"score":11.50500886793791,"frameElements":[]}]}],"tokens":["Excellent","Service","!"]}

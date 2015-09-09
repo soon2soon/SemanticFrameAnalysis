@@ -1,1 +1,0 @@
-Hotel does not remember room preference and seems to try to give unusual rooms such as disability room or a closet. 

@@ -1,8 +1,0 @@
-1	Nice	_	JJ	JJ	_	3	amod	_	_
-2	clean	_	JJ	JJ	_	3	amod	_	_
-3	rooms	_	NNS	NNS	_	0	root	_	_
-4	,	_	,	,	_	0	erased	_	_
-5	friendly	_	JJ	JJ	_	6	amod	_	_
-6	staff	_	NN	NN	_	3	appos	_	_
-7	.	_	.	.	_	0	erased	_	_
-

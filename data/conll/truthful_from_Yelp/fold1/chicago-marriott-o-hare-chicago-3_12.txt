@@ -1,9 +1,0 @@
-1	Greatest	_	JJ	JJ	_	2	amod	_	_
-2	hotel	_	NN	NN	_	3	nsubj	_	_
-3	experience	_	VBP	VBP	_	0	root	_	_
-4	I	_	PRP	PRP	_	7	nsubj	_	_
-5	've	_	VBP	VBP	_	7	aux	_	_
-6	ever	_	RB	RB	_	7	advmod	_	_
-7	had	_	VBN	VBN	_	3	ccomp	_	_
-8	.	_	.	.	_	0	erased	_	_
-

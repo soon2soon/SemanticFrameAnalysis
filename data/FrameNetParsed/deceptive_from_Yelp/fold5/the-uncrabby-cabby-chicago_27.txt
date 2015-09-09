@@ -1,1 +1,0 @@
-{"frames":[{"target":{"name":"Trust","spans":[{"start":5,"end":6,"text":"reliable"}]},"annotationSets":[{"rank":0,"score":20.780724673170813,"frameElements":[]}]}],"tokens":["Clean",",","comfortable",",","and","reliable"]}

@@ -1,4 +1,0 @@
-1	Excellent	_	NNP	NNP	_	2	nn	_	_
-2	Service	_	NNP	NNP	_	0	root	_	_
-3	!	_	.	.	_	0	erased	_	_
-

@@ -1,3 +1,0 @@
-1	beautiful	_	JJ	JJ	_	2	amod	_	_
-2	!!!!!!!!!!!!!!!!!!!	_	NNS	NNS	_	0	root	_	_
-

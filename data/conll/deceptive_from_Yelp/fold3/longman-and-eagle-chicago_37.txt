@@ -1,8 +1,0 @@
-1	Great	_	NNP	NNP	_	0	root	_	_
-2	food	_	NN	NN	_	1	dep	_	_
-3	,	_	,	,	_	0	erased	_	_
-4	even	_	RB	RB	_	5	advmod	_	_
-5	better	_	JJR	JJR	_	7	amod	_	_
-6	booze	_	NN	NN	_	7	nn	_	_
-7	selection	_	NN	NN	_	2	appos	_	_
-

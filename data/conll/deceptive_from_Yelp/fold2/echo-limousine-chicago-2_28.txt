@@ -1,4 +1,0 @@
-1	Impeccable	_	VB	VB	_	0	root	_	_
-2	service	_	NN	NN	_	1	dobj	_	_
-3	.	_	.	.	_	0	erased	_	_
-

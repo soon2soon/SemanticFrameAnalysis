@@ -1,7 +1,0 @@
-1	Beautiful	_	NNP	NNP	_	5	nsubj	_	_
-2	,	_	,	,	_	0	erased	_	_
-3	modern	_	JJ	JJ	_	1	appos	_	_
-4	,	_	,	,	_	0	erased	_	_
-5	trendy	_	VBZ	VBZ	_	0	root	_	_
-6	.	_	.	.	_	0	erased	_	_
-

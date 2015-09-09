@@ -1,3 +1,0 @@
-1	Great	_	NNP	NNP	_	0	root	_	_
-2	!	_	.	.	_	0	erased	_	_
-

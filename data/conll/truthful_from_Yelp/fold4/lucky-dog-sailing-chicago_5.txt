@@ -1,4 +1,0 @@
-1	Fantastic	_	JJ	JJ	_	3	amod	_	_
-2	business	_	NN	NN	_	3	nn	_	_
-3	!!!!	_	NNS	NNS	_	0	root	_	_
-

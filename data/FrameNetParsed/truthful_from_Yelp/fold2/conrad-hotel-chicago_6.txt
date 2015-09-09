@@ -1,3 +1,0 @@
-{"frames":[],"tokens":["Woohoo","!"]}
-{"frames":[{"target":{"name":"Arriving","spans":[{"start":4,"end":5,"text":"gets"}]},"annotationSets":[{"rank":0,"score":90.41412279444823,"frameElements":[{"name":"Goal","spans":[{"start":5,"end":6,"text":"!"}]},{"name":"Theme","spans":[{"start":3,"end":4,"text":"it"}]}]}]}],"tokens":["As","good","as","it","gets","!"]}
-{"frames":[{"target":{"name":"Calendric_unit","spans":[{"start":2,"end":3,"text":"Day"}]},"annotationSets":[{"rank":0,"score":25.04602327004966,"frameElements":[{"name":"Name","spans":[{"start":1,"end":2,"text":"cloud"}]}]}]}],"tokens":["ORACLE","cloud","Day"]}

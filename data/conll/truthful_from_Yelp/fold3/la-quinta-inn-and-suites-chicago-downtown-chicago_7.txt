@@ -1,4 +1,0 @@
-1	Pet	_	NNP	NNP	_	3	nn	_	_
-2	friendly	_	NNP	NNP	_	3	nn	_	_
-3	!!	_	NNP	NNP	_	0	root	_	_
-

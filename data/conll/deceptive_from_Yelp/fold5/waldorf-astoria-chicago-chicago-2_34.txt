@@ -1,9 +1,0 @@
-1	First	_	NNP	NNP	_	2	nn	_	_
-2	class	_	NN	NN	_	3	nsubj	_	_
-3	place	_	VBP	VBP	_	0	root	_	_
-4	.	_	.	.	_	0	erased	_	_
-
-1	Beautiful	_	JJ	JJ	_	2	amod	_	_
-2	hotel	_	NN	NN	_	0	root	_	_
-3	!	_	.	.	_	0	erased	_	_
-

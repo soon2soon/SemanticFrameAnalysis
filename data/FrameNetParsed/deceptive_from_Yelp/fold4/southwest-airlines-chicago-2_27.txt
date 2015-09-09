@@ -1,1 +1,0 @@
-{"frames":[{"target":{"name":"Desirability","spans":[{"start":0,"end":1,"text":"worst"}]},"annotationSets":[{"rank":0,"score":32.57819607050547,"frameElements":[{"name":"Evaluee","spans":[{"start":1,"end":2,"text":"airline"}]}]}]}],"tokens":["worst","airline","ever","!!"]}

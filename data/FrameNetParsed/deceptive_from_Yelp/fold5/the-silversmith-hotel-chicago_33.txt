@@ -1,3 +1,0 @@
-{"frames":[{"target":{"name":"Buildings","spans":[{"start":1,"end":2,"text":"hotel"}]},"annotationSets":[{"rank":0,"score":56.20895987261214,"frameElements":[{"name":"Building","spans":[{"start":1,"end":2,"text":"hotel"}]}]}]}],"tokens":["Classy","hotel","."]}
-{"frames":[{"target":{"name":"Rite","spans":[{"start":1,"end":2,"text":"service"}]},"annotationSets":[{"rank":0,"score":54.877085610487356,"frameElements":[]}]}],"tokens":["Exxcellent","service","."]}
-{"frames":[],"tokens":["Wonderful","accommodations","."]}
